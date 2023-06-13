@@ -1,0 +1,110 @@
+<style>
+  
+  .nav-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .aEtiket:hover {
+    border-bottom: 3px solid white;
+    font-size: 18px;
+  }
+</style>
+
+
+
+<nav class="navbar navbar-expand-sm navbar-dark bg-dark text-light">
+  <a class="navbar-brand" href="/">
+    <img
+      src="https://play-lh.googleusercontent.com/dCZAUacZ-USjxAb1GaHtQm0fzONKeNq7BaYTl9s8ZW6G9D2NHk0YuwmXIc-J9qmBlIU=s128"
+      style="width: 50px; height: 50px; border-radius: 50%;">
+    DATTEBASA
+  </a>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" style="border: none; ">
+    <i class="fa-solid fa-burger" style="font-size: 27px;"></i>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link aEtiket" href="/" style="color: white; font-weight: 800px;">Anasayfa</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link aEtiket" href="/animeler" style="color:white; font-weight: 800px;">Animeler</a>
+      </li>
+    </ul>
+    <form class="my-2 my-lg-0" id="searchForm" style="width: 50%;">
+      <div class="input-group" style="display: flex;justify-content: center; align-items: center;" >
+        <input class="form-control mr-0" id="input" placeholder="Anime Ara..." aria-label="Search">
+        <div class="input-group-append">
+          <button class="btn text-light"  type="submit" style="background-color: rgb(43, 43, 43);"><i
+              style="font-size: 15px;" class="fa-solid fa-magnifying-glass"></i></button>
+        </div>
+      </div>
+    </form>
+  </div>
+</nav>
+
+
+
+
+<script>
+
+  let sayi = 0;
+  const searchForm=document.querySelector("#searchForm")
+  const input = document.querySelector("#input");
+  const AnaAnim = document.querySelectorAll(".aEtiket")
+  const toggler = document.querySelector(".navbar-toggler");
+  const navİtem = document.querySelectorAll(".nav-item");
+  toggler.addEventListener('click', function () {
+    console.log(sayi);
+    if (sayi % 2 == 0) {
+      searchForm.style.width="100%";
+      for (let i = 0; i < navİtem.length; i++) {
+        navİtem[i].style.fontSize = "25px";
+        navİtem[i].style.margin = "10px";
+      }
+
+    }
+    else {
+      
+      setTimeout(function () {
+        searchForm.style.width="50%";
+        for (let i = 0; i < navİtem.length; i++) {
+          navİtem[i].style.fontSize = "";
+          navİtem[i].style.margin = "";
+        }
+      }, 400);
+
+    }
+
+    sayi++;
+  });
+
+
+
+  if (window.location.pathname == "/animeler") {
+    AnaAnim[1].style.color = "yellow";
+  }
+
+
+
+  document.getElementById("searchForm").addEventListener("submit", function (e) {
+    e.preventDefault();
+    let inputValue = input.value.trim().toLowerCase();
+    let keys = Object.keys(localStorage);
+    keys.forEach((key) => {
+      if (inputValue.toLowerCase().replace(/\s/g, "") === key.toLowerCase().replace(/\s/g, "")) {
+        window.location.href = `/animeler/${key}`;
+      }
+    });
+  });
+
+
+
+
+
+</script>
