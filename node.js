@@ -1,7 +1,6 @@
 const { name } = require("ejs");
 var express = require("express");
 var app = express();
-app.use(express.static("images"));  // images dosyasının içeriğini kullanmamızı sağlar
 app.use(express.static("node_modules"));  //node_modules dosyasının içeriğini kullanmamızı sağlar.
 app.set("view engine", "ejs"); //views altındaki dosyaları render ile konum belirtmeden çağırabiliriz.
 const animes=require("./animes");
