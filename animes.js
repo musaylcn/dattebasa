@@ -8,6 +8,7 @@ const animes = [
             { fotourl: "https://i.pinimg.com/originals/1a/e9/5b/1ae95b0fbe88cfb3aec7dd1b09f52f77.jpg", numb: 3 },
             { fotourl: "https://wallpapercave.com/wp/wp2853459.jpg", numb: 4 },
             { fotourl: "https://i.pinimg.com/originals/57/c8/73/57c87337831e9edd229901df25a40b78.jpg", numb: 5 },
+            {fotourl:"https://avatars.mds.yandex.net/i?id=8ffcd7d87a591adaba51c752f3bea763ee087966-9243502-images-thumbs&n=13",numb:5}
 
         ]
     },
