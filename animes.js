@@ -8,8 +8,16 @@ const animes = [
             { fotourl: "https://i.pinimg.com/originals/1a/e9/5b/1ae95b0fbe88cfb3aec7dd1b09f52f77.jpg", numb: 3 },
             { fotourl: "https://wallpapercave.com/wp/wp2853459.jpg", numb: 4 },
             { fotourl: "https://i.pinimg.com/originals/57/c8/73/57c87337831e9edd229901df25a40b78.jpg", numb: 5 },
-            {fotourl:"https://avatars.mds.yandex.net/i?id=8ffcd7d87a591adaba51c752f3bea763ee087966-9243502-images-thumbs&n=13",numb:5}
-
+            {fotourl:"https://avatars.mds.yandex.net/i?id=8ffcd7d87a591adaba51c752f3bea763ee087966-9243502-images-thumbs&n=13",numb:5},
+            {fotourl:"https://avatars.mds.yandex.net/i?id=8bcb6532879d116c88a60df9711d62ed939ce983-9030085-images-thumbs&n=13",numb:6},
+            {fotourl:"https://artfiles.alphacoders.com/123/123540.jpg",numb:7},
+            {fotourl:"https://coolwallpaper-hd.com/wp-content/uploads/2021/01/HD-Backgrounds-Naruto.jpg",numb:8},
+            {fotourl:"https://wallpapers.com/images/hd/naruto-sasuke-chakra-poster-8b65038pci372pw5.jpg",numb:9},
+            {fotourl:"https://wallpapers.com/images/hd/sasuke-naruto-4k-pc-fanart-767a6a3av13ymrez.jpg",numb:10},
+            {fotourl:"https://w.forfun.com/fetch/1b/1bf18020e8eccb602bb96863ae380581.jpeg",numb:11},
+            {fotourl:"https://the4kwallpapers.com/wp-content/uploads/2022/06/Naruto-Wallpaper-Aesthetic.png",numb:12},
+            {fotourl:"https://wallpapercave.com/wp/wp2634601.jpg",numb:13},
+            {fotourl:"https://getwallpapers.com/wallpaper/full/d/7/f/1322288-naruto-uzumaki-wallpaper-2560x1440-for-hd.jpg",numb:14}
         ]
     },
     {
