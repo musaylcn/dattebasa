@@ -33,6 +33,8 @@
             position: relative;
             margin: 0;
             padding: 30px 20px;
+            
+            
         }
 
         .grid-wrap ul {
@@ -101,9 +103,9 @@
                 let yukseklik = resim.naturalHeight;
         
                 if (genislik > yukseklik) {
-                    fotoItem.style.gridColumn = "span 4"; 
-                } else {
                     fotoItem.style.gridColumn = "span 3"; 
+                } else {
+                    fotoItem.style.gridColumn = "span 2"; 
                 }
             });
         </script>
