@@ -92,31 +92,22 @@
 
 
 
-
-            <script>
-                /* BOYUTLARI YAZDIRMAK İÇİN*/
-
-
-                window.addEventListener('load', function () {
-                    const fotoItems = document.querySelectorAll('.grid-wrap');
-
-                    fotoItems.forEach(function (fotoItem) {
-                        let resim = fotoItem.querySelector('img');
-                        let genislik = resim.naturalWidth;
-                        let yukseklik = resim.naturalHeight;
-
-                        if (genislik > yukseklik) {
-                           console.log("1");
-                        }
-                        else{
-                            console.log("2")
-                        }
-                    });
-
-
-                });
-            /* BOYUTLARI YAZDIRMAK İÇİN*/
-            </script>
+        <script>
+            const fotoItems = document.querySelectorAll('.li');
+        
+            fotoItems.forEach(function (fotoItem) {
+                let resim = fotoItem.querySelector('img');
+                let genislik = resim.naturalWidth;
+                let yukseklik = resim.naturalHeight;
+        
+                if (genislik > yukseklik) {
+                    fotoItem.style.gridColumn = "span 4"; 
+                } else {
+                    fotoItem.style.gridColumn = "span 3"; 
+                }
+            });
+        </script>
+        
 
 
             <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
