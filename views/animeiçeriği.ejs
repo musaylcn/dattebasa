@@ -12,57 +12,54 @@
         integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
     <title>Dattebasa</title>
     <style>
-        .fotokeeper {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: start;
-            align-items: center;
-            padding: 30px;   
-            min-height: 100vh;
-            height: auto;
-
+        * {
+            box-sizing: border-box;
         }
 
-    
+        body {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-        .image-wrapper {
-            flex-basis: calc(25% - 20px);
+        ul,
+        li {
+            list-style-type: none;
+            padding: 0;
             margin: 10px;
-            display: flex;
-            flex-direction: column;
+        }
+
+        .grid-wrap {
+            position: relative;
+            margin: 0;
+            padding: 30px 20px;
+        }
+
+        .grid-wrap ul {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(80px, auto));
+            grid-auto-flow: dense;
+            gap: 2px;
             justify-content: center;
-            align-items: center;
+            margin: 0 auto;
+            padding: 0;
         }
 
-        .img-keeper {
-            max-width: 100%;
-            height: auto;
-            
-        }
-        .img-keeper:hover {
-            transform: scale(1.2);
-            border: 3px solid black;
-            transition: transform 0.8s, border 0.3s;
+        .grid-wrap ul li {
+            position: relative;
+            grid-row: span 2;
+            grid-column: span 4;
         }
 
-
-
-        @media (max-width: 992px) {
-            .image-wrapper {
-                flex-basis: calc(33.33% - 20px);
-            }
+        .grid-wrap ul img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
         }
 
-        @media (max-width: 768px) {
-            .image-wrapper {
-                flex-basis: calc(50% - 20px);
-            }
-        }
-
-        @media (max-width: 576px) {
-            .image-wrapper {
-                flex-basis: calc(100% - 20px);
-            }
+        .grid-wrap ul li:hover {
+            filter: opacity(0.8);
+            transition: .1s;
         }
     </style>
 </head>
@@ -72,19 +69,21 @@
     <%- include("htmlparça/navbar") %>
 
 
-        <div class="container-fluid fotokeeper" id="fotokeeper">
-            <% fotoabout.forEach(foto=> { %>
+        <div class="grid-wrap">
+            <ul>
+                <% fotoabout.forEach(foto=> { %>
+                    <li class="li">
 
-                <div class="image-wrapper">
-                    <div>
+
                         <a href="/animeler/<%= name %>/<%= foto.numb %>">
                             <img class="img-keeper" src="<%= foto.fotourl %>">
                         </a>
-                    </div>
-                    <div class="dimensions-keeper"></div>
-                </div>
 
-                <% }) %>
+
+
+                    </li>
+                    <% }) %>
+            </ul>
         </div>
 
 
@@ -94,48 +93,41 @@
 
 
 
-        <script>
-            /* BOYUTLARI YAZDIRMAK İÇİN*/
-            const fotoItems = document.querySelectorAll('.image-wrapper');
+            <script>
+                /* BOYUTLARI YAZDIRMAK İÇİN*/
 
-            window.addEventListener('load', function () {
-                const fotoItems = document.querySelectorAll('.image-wrapper');
 
-                fotoItems.forEach(function (fotoItem) {
-                    let resim = fotoItem.querySelector('img');
-                    let genislik = resim.naturalWidth;
-                    let yukseklik = resim.naturalHeight;
+                window.addEventListener('load', function () {
+                    const fotoItems = document.querySelectorAll('.grid-wrap');
 
-                    let dimensionsDiv = document.createElement('div');
-                    dimensionsDiv.textContent = "Orjinal boyut =" + genislik + 'x' + yukseklik;
-                    dimensionsDiv.style.color = "gray";
+                    fotoItems.forEach(function (fotoItem) {
+                        let resim = fotoItem.querySelector('img');
+                        let genislik = resim.naturalWidth;
+                        let yukseklik = resim.naturalHeight;
 
-                    const dimensionsKeeper = fotoItem.querySelector('.dimensions-keeper');
-                    dimensionsKeeper.appendChild(dimensionsDiv);
+                        if (genislik > yukseklik) {
+                           console.log("1");
+                        }
+                        else{
+                            console.log("2")
+                        }
+                    });
+
+
                 });
-
-                const body = document.querySelector("body");
-                const pageHeight = window.innerHeight;
-
-                if (body.offsetHeight < pageHeight) {
-                    console.log('1');
-                } else {
-                    console.log('2');
-                }
-            });
             /* BOYUTLARI YAZDIRMAK İÇİN*/
-        </script>
+            </script>
 
 
-        <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
-            integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
-            crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
-            integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
-            crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js"
-            integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+"
-            crossorigin="anonymous"></script>
+            <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+                integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+                crossorigin="anonymous"></script>
+            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+                integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+                crossorigin="anonymous"></script>
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js"
+                integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+"
+                crossorigin="anonymous"></script>
 </body>
 
 </html>
