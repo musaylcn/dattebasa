@@ -22,24 +22,18 @@
             box-sizing: border-box;
         }
 
-        ul,
-        li {
-            list-style-type: none;
-            padding: 0;
-            margin: 10px;
-        }
-
         .grid-wrap {
             position: relative;
             margin: 0;
             padding: 30px 20px;
-            
-            
+            justify-content: center;
+
+
         }
 
         .grid-wrap ul {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(80px, auto));
+            grid-template-columns: repeat(auto-fit, minmax(70px, auto));
             grid-auto-flow: dense;
             gap: 2px;
             justify-content: center;
@@ -51,6 +45,9 @@
             position: relative;
             grid-row: span 2;
             grid-column: span 4;
+            list-style-type: none;
+            padding: 0;
+            margin: 10px;
         }
 
         .grid-wrap ul img {
@@ -94,22 +91,6 @@
 
 
 
-        <script>
-            const fotoItems = document.querySelectorAll('.li');
-        
-            fotoItems.forEach(function (fotoItem) {
-                let resim = fotoItem.querySelector('img');
-                let genislik = resim.naturalWidth;
-                let yukseklik = resim.naturalHeight;
-        
-                if (genislik > yukseklik) {
-                    fotoItem.style.gridColumn = "span 3"; 
-                } else {
-                    fotoItem.style.gridColumn = "span 2"; 
-                }
-            });
-        </script>
-        
 
 
             <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
