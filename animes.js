@@ -8,16 +8,16 @@ const animes = [
             { fotourl: "https://i.pinimg.com/originals/1a/e9/5b/1ae95b0fbe88cfb3aec7dd1b09f52f77.jpg", numb: 3 },
             { fotourl: "https://wallpapercave.com/wp/wp2853459.jpg", numb: 4 },
             { fotourl: "https://i.pinimg.com/originals/57/c8/73/57c87337831e9edd229901df25a40b78.jpg", numb: 5 },
-            {fotourl:"https://avatars.mds.yandex.net/i?id=8ffcd7d87a591adaba51c752f3bea763ee087966-9243502-images-thumbs&n=13",numb:5},
-            {fotourl:"https://avatars.mds.yandex.net/i?id=8bcb6532879d116c88a60df9711d62ed939ce983-9030085-images-thumbs&n=13",numb:6},
-            {fotourl:"https://artfiles.alphacoders.com/123/123540.jpg",numb:7},
-            {fotourl:"https://coolwallpaper-hd.com/wp-content/uploads/2021/01/HD-Backgrounds-Naruto.jpg",numb:8},
-            {fotourl:"https://wallpapers.com/images/hd/naruto-sasuke-chakra-poster-8b65038pci372pw5.jpg",numb:9},
-            {fotourl:"https://wallpapers.com/images/hd/sasuke-naruto-4k-pc-fanart-767a6a3av13ymrez.jpg",numb:10},
-            {fotourl:"https://w.forfun.com/fetch/1b/1bf18020e8eccb602bb96863ae380581.jpeg",numb:11},
-            {fotourl:"https://the4kwallpapers.com/wp-content/uploads/2022/06/Naruto-Wallpaper-Aesthetic.png",numb:12},
-            {fotourl:"https://wallpapercave.com/wp/wp2634601.jpg",numb:13},
-            {fotourl:"https://getwallpapers.com/wallpaper/full/d/7/f/1322288-naruto-uzumaki-wallpaper-2560x1440-for-hd.jpg",numb:14}
+            { fotourl: "https://avatars.mds.yandex.net/i?id=8ffcd7d87a591adaba51c752f3bea763ee087966-9243502-images-thumbs&n=13", numb: 5 },
+            { fotourl: "https://avatars.mds.yandex.net/i?id=8bcb6532879d116c88a60df9711d62ed939ce983-9030085-images-thumbs&n=13", numb: 6 },
+            { fotourl: "https://artfiles.alphacoders.com/123/123540.jpg", numb: 7 },
+            { fotourl: "https://coolwallpaper-hd.com/wp-content/uploads/2021/01/HD-Backgrounds-Naruto.jpg", numb: 8 },
+            { fotourl: "https://wallpapers.com/images/hd/naruto-sasuke-chakra-poster-8b65038pci372pw5.jpg", numb: 9 },
+            { fotourl: "https://wallpapers.com/images/hd/sasuke-naruto-4k-pc-fanart-767a6a3av13ymrez.jpg", numb: 10 },
+            { fotourl: "https://w.forfun.com/fetch/1b/1bf18020e8eccb602bb96863ae380581.jpeg", numb: 11 },
+            { fotourl: "https://the4kwallpapers.com/wp-content/uploads/2022/06/Naruto-Wallpaper-Aesthetic.png", numb: 12 },
+            { fotourl: "https://wallpapercave.com/wp/wp2634601.jpg", numb: 13 },
+            { fotourl: "https://getwallpapers.com/wallpaper/full/d/7/f/1322288-naruto-uzumaki-wallpaper-2560x1440-for-hd.jpg", numb: 14 }
         ]
     },
     {
@@ -33,14 +33,22 @@ const animes = [
         url: 'https://cdn.1min30.com/wp-content/uploads/2018/11/One-Piece-logo-embleme.jpg',
         fotoabout: [
             { fotourl: "https://i.pinimg.com/originals/7e/6e/a3/7e6ea3b37a0f5f311a707d3eb5581d69.png", numb: 1 },
-            { fotourl: "https://mobimg.b-cdn.net/v3/fetch/54/54ca886f95f661eebf82caa8f252f000.jpeg", numb: 2 }]
+            { fotourl: "https://mobimg.b-cdn.net/v3/fetch/54/54ca886f95f661eebf82caa8f252f000.jpeg", numb: 2 },
+
+        ]
     },
     {
         name: 'sailor moon',
         url: 'https://assets.change.org/photos/4/ra/wh/kkRAwHyjXDXjUQj-1600x900-noPad.jpg?1674837362',
         fotoabout: [
             { fotourl: "https://i.pinimg.com/originals/fb/e6/8e/fbe68e7467aafcfbb40c1827eb21facf.jpg", numb: 1 },
-            { fotourl: "https://i.pinimg.com/originals/42/ad/96/42ad9674f9d607ee6cfd6f0da7f72646.jpg", numb: 2 }]
+            { fotourl: "https://i.pinimg.com/originals/42/ad/96/42ad9674f9d607ee6cfd6f0da7f72646.jpg", numb: 2 },
+            { fotourl: "https://wallpapers.com/images/hd/sailor-moon-crystal-tng9hvhlf4s2w87k.jpg", numb: 3 },
+            { fotourl: "https://wallpapercave.com/wp/wp9543533.jpg", numb: 4 },
+            { fotourl: "https://avatars.mds.yandex.net/i?id=7570138d29dc5f782704b9abe35d91c4bafc5bb4-9181139-images-thumbs&n=13", numb: 5 },
+            { fotourl: "https://avatars.mds.yandex.net/i?id=fd06081b2653ad48cb18c1a3361da7e2cf096e6b-8873941-images-thumbs&n=13", numb: 6 },
+            { fotourl: "https://wallpapercave.com/wp/wp11051639.png", numb: 7 },
+            { fotourl: "https://avatars.mds.yandex.net/i?id=57600303e6b7ec632fc8a26d867ac697d1bfe243-9181183-images-thumbs&n=13", numb: 8 }]
 
     },
     {
@@ -65,10 +73,10 @@ const animes = [
             { fotourl: "https://i.pinimg.com/originals/55/62/08/556208d9f56bc082eaac5b5c3cee9979.jpg", numb: 16 },
             { fotourl: 'https://wallpapershigh.com/wp-content/uploads/attack-on-titan-4-9.webp', numb: 17 },
             { fotourl: 'https://wallpapershigh.com/wp-content/uploads/levi-ackerman-4-7.webp', numb: 18 },
-            {fotourl:'https://thypix.com/wp-content/uploads/2022/10/attack-on-titan-phone-wallpaper-uhd-37.jpg',numb:19},
-            {fotourl:'https://thypix.com/wp-content/uploads/2022/10/attack-on-titan-phone-wallpaper-uhd-83.jpg',numb:20},
-            {fotourl:'https://thypix.com/wp-content/uploads/2022/10/attack-on-titan-phone-wallpaper-uhd-81.jpg',numb:21},
-            {fotourl:'https://thypix.com/wp-content/uploads/2022/10/attack-on-titan-phone-wallpaper-uhd-77.jpg',numb:22}
+            { fotourl: 'https://thypix.com/wp-content/uploads/2022/10/attack-on-titan-phone-wallpaper-uhd-37.jpg', numb: 19 },
+            { fotourl: 'https://thypix.com/wp-content/uploads/2022/10/attack-on-titan-phone-wallpaper-uhd-83.jpg', numb: 20 },
+            { fotourl: 'https://thypix.com/wp-content/uploads/2022/10/attack-on-titan-phone-wallpaper-uhd-81.jpg', numb: 21 },
+            { fotourl: 'https://thypix.com/wp-content/uploads/2022/10/attack-on-titan-phone-wallpaper-uhd-77.jpg', numb: 22 }
 
         ]
 
