@@ -6,14 +6,18 @@ app.use(express.static("images"));//images dosyasının içeriğini kullanmamız
 app.set("view engine", "ejs"); //views altındaki dosyaları render ile konum belirtmeden çağırabiliriz.
 const gallery=require("./gallery");
 
-app.use("/animeler/:name/:num", (req, res) => {
+app.use("/animeler/:name/gallery/:num", (req, res) => {
     const anime = gallery.find(anim => anim.name == req.params.name);
     const aboutiç = anime.fotoabout.filter(foto => foto.numb == req.params.num)[0];
     res.render("fotoiçeriği", { anime: anime, aboutiç: aboutiç });
 });
+app.use("/animeler/:name/gallery", (req, res) => {
+    const anime = gallery.find(anim => anim.name == req.params.name);
+    res.render("animeiçeriği", { anime: anime});
+});
 app.use("/animeler/:name", (req, res) => {
     const anime = gallery.find(anim => anim.name == req.params.name);
-    res.render("animeiçeriği", anime); //animeiçeriği anime değişkenine erişebilir.
+    res.render("arasayfa", {anime: anime}); //animeiçeriği anime değişkenine erişebilir.
 });
 app.use("/animeler", (req, res) => {
     res.render("animeler", { gallery: gallery })       // animeler.ejs sayfası animes listesine erişebilir. 

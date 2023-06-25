@@ -71,11 +71,11 @@
 
         <div class="grid-wrap">
             <ul>
-                <% fotoabout.forEach(foto=> { %>
+                <% anime.fotoabout.forEach(foto=> { %>
                     <li class="li">
 
 
-                        <a href="/animeler/<%= name %>/<%= foto.numb %>">
+                        <a href="/animeler/<%= anime.name %>/gallery/<%= foto.numb %>">
                             <img class="img-keeper" src="<%= foto.fotourl %>">
                         </a>
 
