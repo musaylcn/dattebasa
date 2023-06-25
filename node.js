@@ -5,6 +5,7 @@ app.use(express.static("node_modules"));  //node_modules dosyasının içeriğin
 app.use(express.static("images"));//images dosyasının içeriğini kullanmamızı sağlar.
 app.set("view engine", "ejs"); //views altındaki dosyaları render ile konum belirtmeden çağırabiliriz.
 const gallery=require("./gallery");
+const about=require("./about");
 
 app.use("/animeler/:name/gallery/:num", (req, res) => {
     const anime = gallery.find(anim => anim.name == req.params.name);
@@ -14,6 +15,11 @@ app.use("/animeler/:name/gallery/:num", (req, res) => {
 app.use("/animeler/:name/gallery", (req, res) => {
     const anime = gallery.find(anim => anim.name == req.params.name);
     res.render("animeiçeriği", { anime: anime});
+});
+app.use("/animeler/:name/about", (req, res) => {
+    const anime = gallery.find(anim => anim.name == req.params.name);
+    const hakkinda = about.find(anim =>anim.name ==req.params.name)
+    res.render("about", { anime: anime , hakkinda:hakkinda});
 });
 app.use("/animeler/:name", (req, res) => {
     const anime = gallery.find(anim => anim.name == req.params.name);
