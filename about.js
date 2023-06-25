@@ -1,10 +1,10 @@
 const about = [
     {
         name: "naruto",
-        kapakfoto: "dfgdfg",
+        kapakfoto: "KAPAKFOTOO",
         karakterler: [
-            { nickname: "naruto", foto: "", article: "" },
-            { nickname: "sasuke", foto: "", article: "" }
+            { nickname: "naruto", foto: "", article: "dfgdmgdkfgmdkfmgdfg" },
+            { nickname: "sasuke", foto: "", article: "dfmgldkmfglerg" }
         ]
 
     }
