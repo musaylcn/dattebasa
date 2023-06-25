@@ -1,4 +1,4 @@
-const animes = [
+const gallery = [
     {
         name: 'naruto',
         url: 'https://i.pinimg.com/originals/f2/4e/e2/f24ee2c0327e81c513be83cc005df8bc.jpg',
@@ -140,4 +140,4 @@ const animes = [
     }
 ];
 
-module.exports = animes;
+module.exports = gallery;
