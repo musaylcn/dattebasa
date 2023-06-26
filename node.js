@@ -23,7 +23,8 @@ app.use("/animeler/:name/about", (req, res) => {
 });
 app.use("/animeler/:name", (req, res) => {
     const anime = gallery.find(anim => anim.name == req.params.name);
-    res.render("arasayfa", {anime: anime}); //animeiçeriği anime değişkenine erişebilir.
+    const amine =about.find(amin=>amin.name ==req.params.name);
+    res.render("arasayfa", {anime: anime , amine:amine}); //animeiçeriği anime değişkenine erişebilir.
 });
 app.use("/animeler", (req, res) => {
     res.render("animeler", { gallery: gallery })       // animeler.ejs sayfası animes listesine erişebilir. 
