@@ -17,34 +17,53 @@
             box-sizing: border-box;
         }
 
-        .yazi::first-letter {
+        .yazi {
             text-transform: uppercase;
 
+        }
+
+        @media(max-width: 800px) {
+            .img {
+                width: 50% !important;
+            }
+        }
+
+        @media(max-width: 700px) {
+            .img {
+                width: 60% !important;
+            }
+        }
+
+        @media(max-width: 600px) {
+            .img {
+                width: 100% !important;
+            }
         }
     </style>
 </head>
 
-<body>
+<body style="background-color: rgb(185, 185, 185);">
     <%- include('htmlparça/navbar') %>
 
 
 
 
-        <div class="container-fluid" style="background-color: purple;">
-            <div class="container-lg" style="background-color: aqua;margin-top: 10px;">
+        <div class="container-fluid" style="background-color: rgb(185, 185, 185);">
+            <div class="container-lg" style="background-color: rgb(170, 170, 170);padding-top: 15px;margin-bottom: 20px; box-shadow: 10px -10px 10px  black;">
                 <div class="mainZone">
                     <div style="display: flex; flex-direction: column; width: 100%;"
                         class="justify-content-center align-items-center">
                         <div
-                            style="background-color: chocolate; width: 100%;display: flex;justify-content: center; align-items: center; padding: 10px;">
+                            style="background-color: rgb(226, 226, 226); width: 100%;display: flex;justify-content: center; align-items: center; padding: 10px;">
                             <p class="yazi" style="margin: 0; font-family: monospace; font-size: 20px;">
                                 <%= hakkinda.name %>
                             </p>
                         </div>
-                        <div style="background-color: red; padding: 10px;">
+                        <div style="background-color: rgb(245, 245, 245); padding: 10px;">
                             <div>
 
-                                <img style="width: 40%; height: auto;float: right; padding: 10px; margin-left: 20px;"
+                                <img class="img"
+                                    style="width: 40%; height: auto;float: right; padding: 10px; margin-left: 20px;"
                                     src="<%= hakkinda.main.foto %>">
 
                                 <%= hakkinda.main.article %>
@@ -61,13 +80,25 @@
                 </div>
                 <hr>
                 <div class="charactersZone"
-                    style="background-color: yellow; padding: 10px; display: flex; flex-direction: column;">
-
+                    style="background-color: rgb(144, 204, 147); padding: 10px; display: flex; flex-direction: column;">
+                    <div
+                        style="background-color: rgb(45, 90, 49); width: 100%;display: flex;justify-content: center; align-items: center; padding: 10px;">
+                        <p style="margin: 0; font-family: monospace; font-size: 20px;color:white;">
+                            KARAKTERLER
+                        </p>
+                    </div>
                     <% hakkinda.karakterler.forEach(element=> { %>
 
                         <div style="margin: 20px;">
-                            <img style="width: 40%;float: left; padding: 10px; margin-right:20px;"
-                                src="<%= element.foto %>" alt="<%= element.nickname%>">
+                            <div>
+                                <img class="img" style="width: 40%;float: left; padding: 10px; margin-right:20px;"
+                                    src="<%= element.foto %>" alt="<%= element.nickname%>">
+
+                                <p style="font-size: 20px; color: white; font-weight: bold;">
+                                    <%= element.nickname %>
+                                    <hr>
+                                </p>
+                            </div>
                             <%= element.article %>
 
                         </div>
