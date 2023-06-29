@@ -1,7 +1,7 @@
 const gallery = [
     {
         name: 'naruto',
-        url: 'https://i.pinimg.com/originals/f2/4e/e2/f24ee2c0327e81c513be83cc005df8bc.jpg',
+        url: 'https://i.pinimg.com/originals/79/49/d0/7949d0b45d83b904d9632879ccf2d3ad.png',
         fotoabout: [
             { fotourl: "https://wallpapers.com/images/hd/naruto-live-yellow-robe-ygs79lqiwp6ve2qp.jpg", numb: 1 },
             { fotourl: "https://mobimg.b-cdn.net/v3/fetch/33/3336c4ccd88c3d19a73b8493d11aae86.jpeg", numb: 2 },
@@ -30,7 +30,7 @@ const gallery = [
     },
     {
         name: 'one piece',
-        url: 'https://cdn.1min30.com/wp-content/uploads/2018/11/One-Piece-logo-embleme.jpg',
+        url: 'https://images3.alphacoders.com/644/thumb-1920-644884.png',
         fotoabout: [
             { fotourl: "https://i.pinimg.com/originals/7e/6e/a3/7e6ea3b37a0f5f311a707d3eb5581d69.png", numb: 1 },
             { fotourl: "https://mobimg.b-cdn.net/v3/fetch/54/54ca886f95f661eebf82caa8f252f000.jpeg", numb: 2 },
@@ -39,7 +39,7 @@ const gallery = [
     },
     {
         name: 'sailor moon',
-        url: 'https://assets.change.org/photos/4/ra/wh/kkRAwHyjXDXjUQj-1600x900-noPad.jpg?1674837362',
+        url: 'https://cdn130.picsart.com/284275258027211.png',
         fotoabout: [
             { fotourl: "https://i.pinimg.com/originals/fb/e6/8e/fbe68e7467aafcfbb40c1827eb21facf.jpg", numb: 1 },
             { fotourl: "https://i.pinimg.com/originals/42/ad/96/42ad9674f9d607ee6cfd6f0da7f72646.jpg", numb: 2 },
@@ -53,7 +53,7 @@ const gallery = [
     },
     {
         name: 'attack on titan',
-        url: 'https://images5.alphacoders.com/786/786117.png',
+        url: 'https://avatars.mds.yandex.net/get-images-cbir/1936725/_DhR--_mCIudruTp3u05Gg3722/ocr',
         fotoabout: [
             { fotourl: "https://i.pinimg.com/originals/fa/e1/7a/fae17a31bc5612efcb5ae27c161f9d5b.jpg", numb: 1 },
             { fotourl: "https://i.pinimg.com/originals/89/d9/db/89d9db4d05482f254113ecfcbfed6b0c.jpg", numb: 2 },
@@ -83,7 +83,7 @@ const gallery = [
     },
     {
         name: 'one punch man',
-        url: 'https://mobimg.b-cdn.net/v3/fetch/d8/d8879989cff413ad8b940e26ae778a79.jpeg?w=1470&r=0.5625',
+        url: 'https://wallpapercave.com/wp/wp10196522.jpg',
         fotoabout: [
             { fotourl: "https://mobimg.b-cdn.net/v3/fetch/03/03fdb194beb53aa760281e8d75f71c5f.jpeg", numb: 1 },
             { fotourl: "https://avatars.mds.yandex.net/i?id=14732eb483d684285c5729bff3104038296ad1cc-8474952-images-thumbs&n=13", numb: 2 },
@@ -105,7 +105,7 @@ const gallery = [
     },
     {
         name: 'seraph of the end',
-        url: 'https://i.ytimg.com/vi/RT3x1umF-K4/maxresdefault.jpg',
+        url: 'https://i.pinimg.com/originals/05/f7/12/05f71271a6e77f1552494d2c9ef5d2d6.png',
         fotoabout: [
             { fotourl: "https://avatars.mds.yandex.net/i?id=70e9cabec5e83a98ed12be3850d0bf8b9ba95226-9042494-images-thumbs&n=13", numb: 1 },
             { fotourl: "https://mobimg.b-cdn.net/v3/fetch/f6/f61e2d343a26cbdca027f129a04a1249.jpeg?w=1470&r=0.5625", numb: 2 },
@@ -120,7 +120,7 @@ const gallery = [
     },
     {
         name: 'demon slayer',
-        url: 'https://pbs.twimg.com/media/FLz9mV3WQAos5Dg?format=jpg&name=large',
+        url: 'https://1000logos.net/wp-content/uploads/2022/06/Demon-Slayer-Logo-2048x1152.png',
         fotoabout: [
             { fotourl: "https://images4.alphacoders.com/122/1225155.png", numb: 1 },
             { fotourl: "https://avatars.mds.yandex.net/i?id=aecbe7d4c46409ed3c49e721599a4a2061ec62a1-9229079-images-thumbs&n=13", numb: 2 },
@@ -130,7 +130,7 @@ const gallery = [
     },
     {
         name: 'boruto',
-        url: 'https://pbs.twimg.com/media/FiLvjNBWIAIqo0L?format=jpg&name=large',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/a/aa/Boruto_logo.png',
         fotoabout: [
             { fotourl: "https://mobimg.b-cdn.net/v3/fetch/48/48a765d6bc7646f14b5151cb44fd4877.jpeg", numb: 1 },
             { fotourl: "https://mobimg.b-cdn.net/v3/fetch/21/21333d96638a51b15474735680b75d24.jpeg?w=1470&r=0.5625", numb: 2 },
