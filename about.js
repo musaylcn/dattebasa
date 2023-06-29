@@ -7,7 +7,7 @@ const about = [
         },
         karakterler: [
            
-            {nickname:"Naruto Uzumaki",foto:"https://i.pinimg.com/originals/e4/a4/64/e4a46487a7da288f84b9ed22298133a6.png", article:""},
+            {nickname:"Naruto Uzumaki",foto:"https://i.pinimg.com/736x/d7/c3/58/d7c358f1f73fdb1d8fa028e32a00df16.jpg", article:""},
             {nickname:"Sasuke Uchiha",foto:"https://i.pinimg.com/originals/19/a0/97/19a0978c80ad90bd157ea9d2797495e5.jpg", article:""},
             {nickname:"Sakura Haruna",foto:"https://avatars.mds.yandex.net/i?id=56e7b0942394f603611e10bf2e9e737cb2abe04d-4958261-images-thumbs&n=13", article:""},
             {nickname:"Hinata Hyuga",foto:"https://avatars.mds.yandex.net/i?id=21c28db816538de03f27edb1e9265ebd_l-4567188-images-thumbs&ref=rim&n=13&w=628&h=628", article:""},
