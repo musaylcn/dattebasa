@@ -161,8 +161,8 @@ const gallery = [
         ]
     },
     {
-        name:'',
-        url:'',
+        name:'tokyo ghoul',
+        url:'https://www.logolynx.com/images/logolynx/19/19ff8c89486ed495fbb08b52a2b767aa.png',
         fotoabout: [
             {fotourl:'' ,numb:''},
             {fotourl:'' ,numb:''},

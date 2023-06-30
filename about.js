@@ -106,7 +106,7 @@ const about = [
 
     },
     {
-        name: "",
+        name: "tokyo ghoul",
         kapakfoto: "",
         main:{
             foto:"", article:""
