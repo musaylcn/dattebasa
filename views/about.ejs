@@ -26,17 +26,44 @@
             .img {
                 width: 50% !important;
             }
+            .kapakimg{
+                width: 100% !important;
+            }
+            .yazi{
+                font-size: 18px !important;
+            }
+            .yazzi{
+                font-size: 18px !important;
+            }
         }
 
         @media(max-width: 700px) {
             .img {
                 width: 60% !important;
             }
+            .kapakimg{
+                width: 100% !important;
+            }
+            .yazi{
+                font-size: 15px !important;
+            }
+            .yazzi{
+                font-size: 15px !important;
+            }
         }
 
         @media(max-width: 600px) {
             .img {
+                width: 50% !important;
+            }
+            .kapakimg{
                 width: 100% !important;
+            }
+            .yazi{
+                font-size: 20px !important;
+            }
+            .yazzi{
+                font-size: 10px !important;
             }
         }
     </style>
@@ -55,15 +82,15 @@
                         class="justify-content-center align-items-center">
                         <div
                             style="background-color: rgb(56, 56, 56); width: 100%;display: flex;justify-content: center; align-items: center; padding: 10px;">
-                            <p class="yazi" style="margin: 0; font-family: monospace; font-size: 25px; font-weight:700px;color:white;">
+                            <p class="yazi" style="margin: 0; font-family: monospace; font-size: 20px; font-weight:700px;color:white;">
                                 <%= hakkinda.name %>
                             </p>
                         </div>
                         <div style="background-color: rgb(245, 245, 245); padding: 10px;">
                             <div>
 
-                                <img class="img"
-                                    style="width: 40%; height: auto;float: right; padding: 10px; margin-left: 20px;"
+                                <img class="kapakimg"
+                                    style="width: 60%; height: auto;float: right; padding: 10px; margin-left: 20px;"
                                     src="<%= hakkinda.main.foto %>">
 
                                 <%= hakkinda.main.article %>
@@ -94,7 +121,7 @@
                                 <img class="img" style="width: 40%;float: left; padding: 10px; margin-right:20px;"
                                     src="<%= element.foto %>" alt="<%= element.nickname%>">
 
-                                <p style="font-size: 20px; color: rgb(247, 22, 22); font-weight: bold;">
+                                <p class="yazzi" style="font-size: 19px; color: rgb(247, 22, 22); font-weight: bold;">
                                     <%= element.nickname %>
                                     <hr>
                                 </p>
