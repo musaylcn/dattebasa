@@ -1,7 +1,7 @@
 const about = [
     {
         name: "naruto",
-        namee:"Naruto",
+        namee:"Naruto:Shippuden",
         kapakfoto: "https://cutewallpaper.org/21/all-naruto-shippuden-characters/Naruto-Shippuden-All-Characters-Wallpapers-Wallpaper-Cave.png",
         main: {
             foto: "https://wallpapers.com/images/featured-full/cool-naruto-jycvpon5xnv27t7m.jpg", article: "" 
@@ -195,8 +195,8 @@ const about = [
 
     },
     {
-        name: "",
-        namee:"",
+        name: "jujutsu kaisen",
+        namee:"Jujutsu Kaisen",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -216,8 +216,8 @@ const about = [
 
     },
     {
-        name: "",
-        namee:"",
+        name: "no game no life",
+        namee:"No Game No Life",
         kapakfoto: "",
         main:{
             foto:"", article:""

@@ -11,7 +11,7 @@ const gallery = [
             { fotourl: "https://avatars.mds.yandex.net/i?id=8ffcd7d87a591adaba51c752f3bea763ee087966-9243502-images-thumbs&n=13", numb: 5 },
             { fotourl: "https://avatars.mds.yandex.net/i?id=8bcb6532879d116c88a60df9711d62ed939ce983-9030085-images-thumbs&n=13", numb: 6 },
             { fotourl: "https://artfiles.alphacoders.com/123/123540.jpg", numb: 7 },
-            { fotourl: "https://coolwallpaper-hd.com/wp-content/uploads/2021/01/HD-Backgrounds-Naruto.jpg", numb: 8 },
+            { fotourl: "https://images2.alphacoders.com/656/thumb-1920-656752.jpg", numb: 8 },
             { fotourl: "https://wallpapers.com/images/hd/naruto-sasuke-chakra-poster-8b65038pci372pw5.jpg", numb: 9 },
             { fotourl: "https://wallpapers.com/images/hd/sasuke-naruto-4k-pc-fanart-767a6a3av13ymrez.jpg", numb: 10 },
             { fotourl: "https://w.forfun.com/fetch/1b/1bf18020e8eccb602bb96863ae380581.jpeg", numb: 11 },
@@ -195,7 +195,7 @@ const gallery = [
     },
     {
         name:'kimi no na wa',
-        url:'https://i.pinimg.com/originals/0f/57/5e/0f575e02dc22c094dd11f5f70a8d024e.png',
+        url:'https://i.pinimg.com/originals/82/8b/5b/828b5b3061eb8b6885851cf5a032d5c8.png',
         fotoabout: [
             {fotourl:'' ,numb:''},
             {fotourl:'' ,numb:''},
@@ -205,8 +205,8 @@ const gallery = [
         ]
     },
     {
-        name:'',
-        url:'',
+        name:'jujutsu kaisen',
+        url:'https://avatars.mds.yandex.net/i?id=14c4b46cd4a46ba769868a810d072757a29f7384-5301046-images-thumbs&n=13',
         fotoabout: [
             {fotourl:'' ,numb:''},
             {fotourl:'' ,numb:''},
@@ -216,8 +216,8 @@ const gallery = [
         ]
     },
     {
-        name:'',
-        url:'',
+        name:'no game no life',
+        url:'https://cutewallpaper.org/21/no-game-no-life-images/No-Game-No-Life-Netflix.png',
         fotoabout: [
             {fotourl:'' ,numb:''},
             {fotourl:'' ,numb:''},
