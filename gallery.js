@@ -39,7 +39,7 @@ const gallery = [
     },
     {
         name: 'sailor moon',
-        url: 'https://cdn130.picsart.com/284275258027211.png',
+        url: 'https://i3.woh.to/2016/08/10/osxjddmfceb33.png',
         fotoabout: [
             { fotourl: "https://i.pinimg.com/originals/fb/e6/8e/fbe68e7467aafcfbb40c1827eb21facf.jpg", numb: 1 },
             { fotourl: "https://i.pinimg.com/originals/42/ad/96/42ad9674f9d607ee6cfd6f0da7f72646.jpg", numb: 2 },
@@ -137,7 +137,62 @@ const gallery = [
             { fotourl: "https://mobimg.b-cdn.net/v3/fetch/b6/b676ea23dd12d7158a49d884ab922503.jpeg", numb: 3 },
             { fotourl: "https://wallpapercave.com/wp/wp2043615.png", numb: 4 }]
 
-    }
+    },
+    {
+        name:'91 days',
+        url:'https://images.alphacoders.com/727/727533.png',
+        fotoabout: [
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''}
+
+        ]
+    },
+    {
+        name:'sword art online',
+        url:'https://2.bp.blogspot.com/-4LB3GHLwdIY/VkjVk8jmdgI/AAAAAAAAA6s/m5poh1mFizM/s1600/SAO%2Bblack%2B2.jpg',
+        fotoabout: [
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''}
+
+        ]
+    },
+    {
+        name:'',
+        url:'',
+        fotoabout: [
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''}
+
+        ]
+    },
+    {
+        name:'',
+        url:'',
+        fotoabout: [
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''}
+
+        ]
+    },
+    {
+        name:'',
+        url:'',
+        fotoabout: [
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''}
+
+        ]
+    },
 ];
 
 module.exports = gallery;

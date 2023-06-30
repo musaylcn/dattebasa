@@ -35,7 +35,7 @@ const about = [
     },
     {
         name: "attack on titan",
-        kapakfoto: "https://i.pinimg.com/originals/09/33/8b/09338b56f3cfde73b329d055353c0e52.jpg",
+        kapakfoto: "https://banafikirver.com/images/posts/2021/05/post-1620556167-631-attack-on-titan.webp",
         main:{
             foto:"", article:""
         },
@@ -46,8 +46,8 @@ const about = [
 
     },
     {
-        name: "",
-        kapakfoto: "",
+        name: "death note",
+        kapakfoto: "https://banafikirver.com/images/posts/2021/05/post-1620556153-7824-death-note.webp",
         main:{
             foto:"", article:""
         },
@@ -66,8 +66,8 @@ const about = [
 
     },
     {
-        name: "",
-        kapakfoto: "",
+        name: "91 days",
+        kapakfoto: "https://banafikirver.com/images/posts/2021/05/post-1620556173-8849-91-days.webp",
         main:{
             foto:"", article:""
         },
@@ -86,7 +86,7 @@ const about = [
 
     },
     {
-        name: "",
+        name: "sword art online",
         kapakfoto: "",
         main:{
             foto:"", article:""

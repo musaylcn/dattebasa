@@ -10,10 +10,30 @@
         integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
     <title>Dattebasa</title>
     <style>
-         img:hover {
+        img:hover {
             filter: opacity(0.8);
             transition: .1s;
         }
+
+        @media(max-width: 950px) {
+            .paddingli {
+                padding: 20px 15px !important;
+            }
+        }
+
+        @media(max-width: 767px) {
+            .paddingli {
+                padding: 30px 10px !important;
+            }
+        }
+
+        @media(max-width: 574px) {
+            .paddingli {
+                padding: 25px 5px !important;
+            }
+        }
+        
+       
     </style>
 </head>
 
@@ -26,7 +46,7 @@
                 <div class="row justify-content-start align-items-center">
                     <% gallery.forEach(anime=> { %>
                         <div class="col-6 col-md-4 col-lg-3 kapsa" style="padding: 0px;">
-                            <div style="padding: 10px 10px">
+                            <div class="paddingli" style="padding: 25px 20px">
                                 <a href="/animeler/<%= anime.name %>"><img class="img"
                                         style="min-width: 120px; max-width: 100%; height: auto;border-radius: 18px;"
                                         src="<%= anime.url %>"></a>
@@ -42,19 +62,18 @@
 
 
 
-        <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
-            integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
-            crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
-            integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
-            crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js"
-            integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+"
-            crossorigin="anonymous"></script>
+            <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+                integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+                crossorigin="anonymous"></script>
+            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+                integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+                crossorigin="anonymous"></script>
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js"
+                integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+"
+                crossorigin="anonymous"></script>
 
 
 
 </body>
 
 </html>
-

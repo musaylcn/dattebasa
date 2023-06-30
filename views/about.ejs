@@ -30,9 +30,12 @@
                 width: 100% !important;
             }
             .yazi{
+                font-size: 20px !important;
+            }
+            .metinyazi{
                 font-size: 16px !important;
             }
-            .yazzi{
+            .karakterleryazi{
                 font-size: 18px !important;
             }
         }
@@ -45,14 +48,17 @@
                 width: 100% !important;
             }
             .yazi{
-                font-size: 13px !important;
+                font-size: 18px !important;
             }
-            .yazzi{
-                font-size: 15px !important;
+            .metinyazi{
+                font-size: 14px !important;
+            }
+            .karakterleryazi{
+                font-size: 16px !important;
             }
         }
 
-        @media(max-width: 600px) {
+        @media(max-width: 574px) {
             .img {
                 width: 50% !important;
             }
@@ -60,10 +66,16 @@
                 width: 100% !important;
             }
             .yazi{
-                font-size: 11px !important;
+                font-size: 16px !important;
             }
-            .yazzi{
+            .metinyazi{
                 font-size: 12px !important;
+            }
+            .karakterleryazi{
+                font-size: 14px !important;
+            }
+            .img{
+                padding: 0px !important;
             }
         }
     </style>
@@ -107,10 +119,10 @@
                 </div>
                 <hr>
                 <div class="charactersZone"
-                    style="background-color: rgb(245, 245, 245); padding: 10px; display: flex; flex-direction: column;">
+                    style="background-color: rgb(245, 245, 245); padding: 5px; display: flex; flex-direction: column;">
                     <div
                         style="background-color: rgb(247, 22, 22); width: 100%;display: flex;justify-content: center; align-items: center; padding: 10px;">
-                        <p style="margin: 0; font-family: monospace; font-size: 20px;color:white;">
+                        <p class="karakterleryazi" style="margin: 0; font-family: monospace; font-size: 20px;color:white;">
                             KARAKTERLER
                         </p>
                     </div>
@@ -121,7 +133,7 @@
                                 <img class="img" style="width: 35%;float: left; padding: 10px; margin-right:20px;"
                                     src="<%= element.foto %>" alt="<%= element.nickname%>">
 
-                                <p class="yazzi" style="font-size: 19px; color: rgb(247, 22, 22); font-weight: bold;">
+                                <p class="metinyazi" style="font-size: 19px; color: rgb(247, 22, 22); font-weight: bold;">
                                     <%= element.nickname %>
                                     <hr>
                                 </p>
