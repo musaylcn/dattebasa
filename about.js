@@ -1,13 +1,13 @@
 const about = [
     {
         name: "naruto",
-        kapakfoto: "https://cutewallpaper.org/21/naruto-shippuden-all-characters/Naruto-Characters-Wallpaper-72-images-.jpg",
+        kapakfoto: "https://cutewallpaper.org/21/all-naruto-shippuden-characters/Naruto-Shippuden-All-Characters-Wallpapers-Wallpaper-Cave.png",
         main: {
-            foto: "https://i.pinimg.com/originals/dc/8d/ec/dc8deca5e075df14dd9be69e4a780cbb.jpg", article: "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of 'de Finibus Bonorum et Malorum' (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, 'Lorem ipsum dolor sit amet..', comes from a line in section .The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from 'de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham." 
+            foto: "https://wallpapers.com/images/featured-full/cool-naruto-jycvpon5xnv27t7m.jpg", article: "" 
         },
         karakterler: [
            
-            {nickname:"Naruto Uzumaki",foto:"https://i.pinimg.com/736x/d7/c3/58/d7c358f1f73fdb1d8fa028e32a00df16.jpg", article:""},
+            {nickname:"Naruto Uzumaki",foto:"https://www.desktopbackground.org/download/2520x1080/2013/04/15/560936_blondes-naruto-shippuden-anime-anime-boys-sage-mode-uzumaki_2968x1677_h.jpg", article:""},
             {nickname:"Sasuke Uchiha",foto:"https://i.pinimg.com/originals/19/a0/97/19a0978c80ad90bd157ea9d2797495e5.jpg", article:""},
             {nickname:"Sakura Haruna",foto:"https://avatars.mds.yandex.net/i?id=56e7b0942394f603611e10bf2e9e737cb2abe04d-4958261-images-thumbs&n=13", article:""},
             {nickname:"Hinata Hyuga",foto:"https://avatars.mds.yandex.net/i?id=21c28db816538de03f27edb1e9265ebd_l-4567188-images-thumbs&ref=rim&n=13&w=628&h=628", article:""},
@@ -44,7 +44,668 @@ const about = [
             { nickname: "mikasa", foto: "", article: "dfmgldkmfglerg" }
         ]
 
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
     }
+
 
 
 
