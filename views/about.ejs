@@ -28,10 +28,10 @@
                 font-size: 20px !important;
             }
             .metinyazi{
-                font-size: 16px !important;
+                font-size: 14px !important;
             }
             .karakterleryazi{
-                font-size: 18px !important;
+                font-size: 15px !important;
             }
         }
 
@@ -46,16 +46,16 @@
                 font-size: 18px !important;
             }
             .metinyazi{
-                font-size: 14px !important;
+                font-size: 13px !important;
             }
             .karakterleryazi{
-                font-size: 16px !important;
+                font-size: 14px !important;
             }
         }
 
         @media(max-width: 574px) {
             .img {
-                width: 50% !important;
+                width: 30% !important;
             }
             .kapakimg{
                 width: 100% !important;
@@ -64,10 +64,10 @@
                 font-size: 16px !important;
             }
             .metinyazi{
-                font-size: 12px !important;
+                font-size: 11px !important;
             }
             .karakterleryazi{
-                font-size: 14px !important;
+                font-size: 13px !important;
             }
             .img{
                 padding: 0px !important;
@@ -118,9 +118,10 @@
                     <div
                         style="background-color: rgb(247, 22, 22); width: 100%;display: flex;justify-content: center; align-items: center; padding: 10px;">
                         <p class="karakterleryazi" style="margin: 0; font-family: monospace; font-size: 20px;color:white;">
-                            Karakterler
+                            Karakterler(<%= hakkinda.karakterler.length%>)
                         </p>
                     </div>
+                    
                     <% hakkinda.karakterler.forEach(element=> { %>
 
                         <div style="margin: 20px;">
@@ -129,13 +130,11 @@
                                     src="<%= element.foto %>" alt="<%= element.nickname%>">
 
                                 <p class="metinyazi" style="font-size: 19px; color: rgb(247, 22, 22); font-weight: bold;">
-                                    <%= element.nickname %>
+                                    <%= element.sayi %> - <%= element.nickname %>
                                     <hr>
                                 </p>
                             </div>
                             <%= element.article %>
-                            
-
                         </div>
                         <hr>
 
