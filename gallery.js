@@ -172,6 +172,39 @@ const gallery = [
         ]
     },
     {
+        name:'my hero acedemia',
+        url:'https://logolook.net/wp-content/uploads/2022/02/My-Hero-Academia-Logo-2048x1152.png',
+        fotoabout: [
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''}
+
+        ]
+    },
+    {
+        name:'hunter x hunter',
+        url:'https://logos-world.net/wp-content/uploads/2021/08/Hunter-x-Hunter-Logo.png',
+        fotoabout: [
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''}
+
+        ]
+    },
+    {
+        name:'kimi no na wa',
+        url:'https://i.pinimg.com/originals/0f/57/5e/0f575e02dc22c094dd11f5f70a8d024e.png',
+        fotoabout: [
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''}
+
+        ]
+    },
+    {
         name:'',
         url:'',
         fotoabout: [
@@ -193,6 +226,61 @@ const gallery = [
 
         ]
     },
+    {
+        name:'',
+        url:'',
+        fotoabout: [
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''}
+
+        ]
+    },
+    {
+        name:'',
+        url:'',
+        fotoabout: [
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''}
+
+        ]
+    },
+    {
+        name:'',
+        url:'',
+        fotoabout: [
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''}
+
+        ]
+    },
+    {
+        name:'',
+        url:'',
+        fotoabout: [
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''}
+
+        ]
+    },
+    {
+        name:'',
+        url:'',
+        fotoabout: [
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''},
+            {fotourl:'' ,numb:''}
+
+        ]
+    }
 ];
 
 module.exports = gallery;

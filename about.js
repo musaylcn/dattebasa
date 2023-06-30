@@ -1,6 +1,7 @@
 const about = [
     {
         name: "naruto",
+        namee:"Naruto",
         kapakfoto: "https://cutewallpaper.org/21/all-naruto-shippuden-characters/Naruto-Shippuden-All-Characters-Wallpapers-Wallpaper-Cave.png",
         main: {
             foto: "https://wallpapers.com/images/featured-full/cool-naruto-jycvpon5xnv27t7m.jpg", article: "" 
@@ -35,6 +36,7 @@ const about = [
     },
     {
         name: "attack on titan",
+        namee:"Attack On Titan",
         kapakfoto: "https://banafikirver.com/images/posts/2021/05/post-1620556167-631-attack-on-titan.webp",
         main:{
             foto:"", article:""
@@ -47,6 +49,7 @@ const about = [
     },
     {
         name: "death note",
+        namee:"Death Note",
         kapakfoto: "https://banafikirver.com/images/posts/2021/05/post-1620556153-7824-death-note.webp",
         main:{
             foto:"", article:""
@@ -67,6 +70,7 @@ const about = [
     },
     {
         name: "91 days",
+        namee:"91 Days",
         kapakfoto: "https://banafikirver.com/images/posts/2021/05/post-1620556173-8849-91-days.webp",
         main:{
             foto:"", article:""
@@ -87,6 +91,7 @@ const about = [
     },
     {
         name: "sword art online",
+        namee:"Sword Art Online",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -107,6 +112,70 @@ const about = [
     },
     {
         name: "tokyo ghoul",
+        namee:"Tokyo Ghoul",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "my hero acedemia",
+        namee:"My Hero Acedemia",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "hunter x hunter",
+        namee:"Hunter x Hunter",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" },
+            { nickname: "", foto: "", article: "" }
+        ]
+
+    },
+    {
+        name: "kimi no na wa",
+        namee:"Kimi no Na wa",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -127,6 +196,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -147,6 +217,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -167,6 +238,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -187,6 +259,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -207,6 +280,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -227,6 +301,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -247,6 +322,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -267,6 +343,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -287,6 +364,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -307,6 +385,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -327,6 +406,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -347,6 +427,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -367,6 +448,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -387,6 +469,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -407,6 +490,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -427,6 +511,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -447,6 +532,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -467,6 +553,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -487,6 +574,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -507,6 +595,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -527,6 +616,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -547,6 +637,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -567,6 +658,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -587,6 +679,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -607,6 +700,7 @@ const about = [
     },
     {
         name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""
@@ -627,66 +721,7 @@ const about = [
     },
     {
         name: "",
-        kapakfoto: "",
-        main:{
-            foto:"", article:""
-        },
-        karakterler: [
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" }
-        ]
-
-    },
-    {
-        name: "",
-        kapakfoto: "",
-        main:{
-            foto:"", article:""
-        },
-        karakterler: [
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" }
-        ]
-
-    },
-    {
-        name: "",
-        kapakfoto: "",
-        main:{
-            foto:"", article:""
-        },
-        karakterler: [
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" }
-        ]
-
-    },
-    {
-        name: "",
+        namee:"",
         kapakfoto: "",
         main:{
             foto:"", article:""

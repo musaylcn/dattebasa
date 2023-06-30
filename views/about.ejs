@@ -17,11 +17,6 @@
             box-sizing: border-box;
         }
 
-        .yazi {
-            text-transform: uppercase;
-
-        }
-
         @media(max-width: 800px) {
             .img {
                 width: 40% !important;
@@ -95,7 +90,7 @@
                         <div
                             style="background-color: rgb(56, 56, 56); width: 100%;display: flex;justify-content: center; align-items: center; padding: 10px;">
                             <p class="yazi" style="margin: 0; font-family: monospace; font-size: 20px; font-weight:700px;color:white;">
-                                <%= hakkinda.name %>
+                                <%= hakkinda.namee %>
                             </p>
                         </div>
                         <div style="background-color: rgb(245, 245, 245); padding: 10px;">
@@ -123,7 +118,7 @@
                     <div
                         style="background-color: rgb(247, 22, 22); width: 100%;display: flex;justify-content: center; align-items: center; padding: 10px;">
                         <p class="karakterleryazi" style="margin: 0; font-family: monospace; font-size: 20px;color:white;">
-                            KARAKTERLER
+                            Karakterler
                         </p>
                     </div>
                     <% hakkinda.karakterler.forEach(element=> { %>
