@@ -21,16 +21,23 @@
             .img {
                 width: 40% !important;
             }
-            .kapakimg{
+
+            .kapakimg {
                 width: 100% !important;
             }
-            .yazi{
+
+            .topicyazi {
                 font-size: 20px !important;
             }
-            .metinyazi{
-                font-size: 14px !important;
+
+            .nicknameyazi {
+                font-size: 16px !important;
             }
-            .karakterleryazi{
+
+            .Karakterler {
+                font-size: 18px !important;
+            }
+            body{
                 font-size: 15px !important;
             }
         }
@@ -39,16 +46,23 @@
             .img {
                 width: 40% !important;
             }
-            .kapakimg{
+
+            .kapakimg {
                 width: 100% !important;
             }
-            .yazi{
-                font-size: 18px !important;
+
+            .topicyazi {
+                font-size: 19px !important;
             }
-            .metinyazi{
-                font-size: 13px !important;
+
+            .nicknameyazi {
+                font-size: 15px !important;
             }
-            .karakterleryazi{
+
+            .Karakterler {
+                font-size: 17px !important;
+            }
+            body{
                 font-size: 14px !important;
             }
         }
@@ -57,20 +71,28 @@
             .img {
                 width: 30% !important;
             }
-            .kapakimg{
+
+            .kapakimg {
                 width: 100% !important;
             }
-            .yazi{
+
+            .topicyazi {
                 font-size: 16px !important;
             }
-            .metinyazi{
-                font-size: 11px !important;
-            }
-            .karakterleryazi{
+
+            .nicknameyazi {
                 font-size: 13px !important;
             }
-            .img{
+
+            .Karakterler {
+                font-size: 15px !important;
+            }
+
+            .img {
                 padding: 0px !important;
+            }
+            body{
+                font-size: 13px !important;
             }
         }
     </style>
@@ -83,17 +105,19 @@
 
 
         <div class="container-fluid" style="background-color: rgb(185, 185, 185);">
-            <div class="container-lg" style="background-color: rgb(56, 56, 56);padding:20px 15px;margin-bottom: 15px; margin-top: 15px; box-shadow: 10px -10px 10px  black; border-radius: 5px;">
+            <div class="container-lg"
+                style="background-color: rgb(56, 56, 56);padding:20px 15px;margin-bottom: 15px; margin-top: 15px; box-shadow: 10px -10px 10px  black; border-radius: 5px;">
                 <div class="mainZone">
                     <div style="display: flex; flex-direction: column; width: 100%;"
                         class="justify-content-center align-items-center">
                         <div
                             style="background-color: rgb(56, 56, 56); width: 100%;display: flex;justify-content: center; align-items: center; padding: 10px;">
-                            <p class="yazi" style="margin: 0; font-family: monospace; font-size: 20px; font-weight:700px;color:white;">
+                            <p class="topicyazi"
+                                style="margin: 0; font-family: monospace; font-size: 22px; font-weight:700px;color:white;">
                                 <%= hakkinda.namee %>
                             </p>
                         </div>
-                        <div style="background-color: rgb(245, 245, 245); padding: 10px;">
+                        <div style="background-color: rgb(245, 245, 245); padding: 20px;">
                             <div>
 
                                 <img class="kapakimg"
@@ -117,11 +141,12 @@
                     style="background-color: rgb(245, 245, 245); padding: 5px; display: flex; flex-direction: column;">
                     <div
                         style="background-color: rgb(247, 22, 22); width: 100%;display: flex;justify-content: center; align-items: center; padding: 10px;">
-                        <p class="karakterleryazi" style="margin: 0; font-family: monospace; font-size: 20px;color:white;">
+                        <p class="Karakterler"
+                            style="margin: 0; font-family: monospace; font-size: 20px;color:white;">
                             Karakterler(<%= hakkinda.karakterler.length%>)
                         </p>
                     </div>
-                    
+
                     <% hakkinda.karakterler.forEach(element=> { %>
 
                         <div style="margin: 20px;">
@@ -129,12 +154,14 @@
                                 <img class="img" style="width: 35%;float: left; padding: 10px; margin-right:20px;"
                                     src="<%= element.foto %>" alt="<%= element.nickname%>">
 
-                                <p class="metinyazi" style="font-size: 19px; color: rgb(247, 22, 22); font-weight: bold;">
+                                <p class="nicknameyazi"
+                                    style="font-size: 19px; color: rgb(247, 22, 22); font-weight: bold;">
                                     <%= element.sayi %> - <%= element.nickname %>
-                                    <hr>
+                                            <hr>
                                 </p>
                             </div>
-                            <%= element.article %>
+                                <%= element.article %>
+                            
                         </div>
                         <hr>
 
