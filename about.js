@@ -43,13 +43,13 @@ const about = [
     {
         name: "attack on titan",
         namee:"Attack On Titan",
-        kapakfoto: "https://banafikirver.com/images/posts/2021/05/post-1620556167-631-attack-on-titan.webp",
+        kapakfoto: "https://i.ytimg.com/vi/jHJQwsQNSSQ/maxresdefault.jpg",
         main:{
-            foto:"", article:""
+            foto:"https://c.wallhere.com/photos/9d/9e/attack_on_titan_eren_jaeger_shingeki_no_kyojin-571712.jpg!d", article:""
         },
         karakterler: [
-            { nickname: "eren", foto: "", sayi:1,article: "dfgdmgdkfgmdkfmgdfg" },
-            { nickname: "mikasa", foto: "", sayi:2,article: "dfmgldkmfglerg" }
+            { nickname: "Eren Yeager", foto: "", sayi:1,article: "dfgdmgdkfgmdkfmgdfg" },
+            { nickname: "Mikasa Ackerman", foto: "", sayi:2,article: "dfmgldkmfglerg" }
         ]
 
     },
