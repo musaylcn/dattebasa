@@ -53,7 +53,7 @@ const gallery = [
     },
     {
         name: 'attack on titan',
-        url: 'https://avatars.mds.yandex.net/get-images-cbir/1936725/_DhR--_mCIudruTp3u05Gg3722/ocr',
+        url: 'https://d1x7zurbps6occ.cloudfront.net/logo/logo-brand-attack-on-titan.png',
         fotoabout: [
             { fotourl: "https://i.pinimg.com/originals/fa/e1/7a/fae17a31bc5612efcb5ae27c161f9d5b.jpg", numb: 1 },
             { fotourl: "https://i.pinimg.com/originals/89/d9/db/89d9db4d05482f254113ecfcbfed6b0c.jpg", numb: 2 },
