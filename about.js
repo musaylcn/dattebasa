@@ -41,6 +41,69 @@ const about = [
 
     },
     {
+        name: "death note",
+        namee:"Death Note",
+        kapakfoto: "https://banafikirver.com/images/posts/2021/05/post-1620556153-7824-death-note.webp",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "", sayi:1,article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "", sayi:1,article: "" },
+            { nickname: "", foto: "", sayi:1,article: "" },
+            { nickname: "", foto: "", sayi:1,article: "" },
+            { nickname: "", foto: "", sayi:1,article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" }
+        ]
+
+    },
+    {
+        name: "one piece",
+        namee:"One Piece",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "", sayi:1,article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "", sayi:1,article: "" }
+        ]
+
+    },
+    {
+        name: "sailor moon",
+        namee:"Sailor Moon",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "", sayi:1,article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "", sayi:1,article: "" }
+        ]
+
+    },
+    {
         name: "attack on titan",
         namee:"Attack On Titan",
         kapakfoto: "https://i.ytimg.com/vi/jHJQwsQNSSQ/maxresdefault.jpg",
@@ -70,23 +133,86 @@ const about = [
 
     },
     {
-        name: "death note",
-        namee:"Death Note",
-        kapakfoto: "https://banafikirver.com/images/posts/2021/05/post-1620556153-7824-death-note.webp",
+        name: "one punch man",
+        namee:"One Punch Man",
+        kapakfoto: "",
         main:{
             foto:"", article:""
         },
         karakterler: [
             { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
             { nickname: "", foto: "",sayi:1, article: "" },
             { nickname: "", foto: "",sayi:1, article: "" },
             { nickname: "", foto: "",sayi:1, article: "" },
             { nickname: "", foto: "", sayi:1,article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "", sayi:1,article: "" }
+        ]
+
+    },
+    {
+        name: "seraph of the end",
+        namee:"Seraph Of The End",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
             { nickname: "", foto: "", sayi:1,article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "", sayi:1,article: "" }
+        ]
+
+    },
+    {
+        name: "demon slayer",
+        namee:"Demon Slayer",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
             { nickname: "", foto: "", sayi:1,article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "", sayi:1,article: "" }
+        ]
+
+    },
+    {
+        name: "boruto",
+        namee:"Boruto",
+        kapakfoto: "",
+        main:{
+            foto:"", article:""
+        },
+        karakterler: [
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "",sayi:1, article: "" },
             { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" }
+            { nickname: "", foto: "",sayi:1, article: "" },
+            { nickname: "", foto: "", sayi:1,article: "" }
         ]
 
     },
@@ -279,6 +405,7 @@ const about = [
         ]
 
     },
+
     
 
 
