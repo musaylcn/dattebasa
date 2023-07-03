@@ -48,16 +48,26 @@ const about = [
             foto:"", article:""
         },
         karakterler: [
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" }
+            { nickname: "Light Yagami (Kira)", foto: "",sayi:1, article: "" },
+            { nickname: "L", foto: "", sayi:1,article: "" },
+            { nickname: "Ryuk", foto: "",sayi:2, article: "" },
+            { nickname: "Near", foto: "",sayi:3, article: "" },
+            { nickname: "Misa Amane", foto: "",sayi:4, article: "" },
+            { nickname: "Mello", foto: "", sayi:5,article: "" },
+            { nickname: "Rem", foto: "", sayi:6,article: "" },
+            { nickname: "Soichiro Yagami", foto: "", sayi:7,article: "" },
+            { nickname: "Teru Mikami", foto: "", sayi:8,article: "" },
+            { nickname: "Watari", foto: "",sayi:10, article: "" },
+            { nickname: "Sayu Yagami", foto: "", sayi:11,article: "" },
+            { nickname: "Shuichi Aizawa", foto: "", sayi:12,article: "" },
+            { nickname: "Touta Matsuda", foto: "", sayi:13,article: "" },
+            { nickname: "Kiyomi Takada", foto: "", sayi:14,article: "" },
+            { nickname: "Higuchi", foto: "",sayi:15, article: "" },
+            { nickname: "Naomi Misora", foto: "", sayi:16,article: "" },
+            { nickname: "Kyosuke Higuchi", foto: "", sayi:17,article: "" },
+            { nickname: "Hitoshi Demegawa", foto: "", sayi:18,article: "" },
+            { nickname: "Raye Pender", foto: "", sayi:19,article: "" }
+           
         ]
 
     },
