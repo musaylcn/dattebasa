@@ -10,7 +10,7 @@
         integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
     <title>Dattebasa</title>
     <style>
-        img:hover {
+        .imgg:hover {
             filter: opacity(0.6);
             transition: .1s;
         }
@@ -47,7 +47,7 @@
                     <% gallery.forEach(anime=> { %>
                         <div class="col-6 col-md-4 col-lg-3 kapsa" style="padding: 0px;">
                             <div class="paddingli" style="padding: 25px 20px">
-                                <a href="/animeler/<%= anime.name %>"><img class="img"
+                                <a href="/animeler/<%= anime.name %>"><img class="imgg"
                                         style="min-width: 120px; max-width: 100%; height: auto;border-radius: 18px;"
                                         src="<%= anime.url %>"></a>
                             </div>
