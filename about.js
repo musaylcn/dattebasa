@@ -2,7 +2,7 @@ const about = [
     {
         name: "naruto",
         namee:"Naruto : Shippuden",
-        kapakfoto: "https://cutewallpaper.org/21/all-naruto-shippuden-characters/Naruto-Shippuden-All-Characters-Wallpapers-Wallpaper-Cave.png",
+        kapakfoto: "https://i.pinimg.com/originals/e2/1f/3e/e21f3edbad99eead310e5eab5b0ff2fe.jpg",
         main: {
             foto: "https://wallpapers.com/images/featured-full/cool-naruto-jycvpon5xnv27t7m.jpg", article: ` "Naruto Shippuden," "Naruto" serisinin devamı niteliğinde olan bir anime ve manga serisidir. İlk seri olan "Naruto," Naruto Uzumaki'nin gençlik yıllarını ve arkadaşlarıyla beraber büyüme sürecini anlatırken, "Naruto Shippuden" ise Naruto'nun yetişkinlik dönemini ve daha ciddi, karmaşık olayları ele alır."Naruto Shippuden," Naruto'nun 3 yıl süren yoğun bir antrenmandan sonra geri dönmesiyle başlar. Artık daha güçlü ve olgun bir ninja olan Naruto, amacı eski öğretmeni Kakashi Hatake liderliğindeki Takım 7 ile beraber Sasuke Uchiha'yı geri getirmek ve kötü yollara sapmış eski arkadaşını kendi köyüne geri döndürmektir.Ancak zaman içinde olaylar, Sasuke'yu kurtarma amacını aşan bir boyut kazanır. Büyük bir tehdit olarak gördüğümüz Akatsuki adlı suç örgütü, Bijuu adı verilen efsanevi canavarları ele geçirerek dünyayı kaosa sürüklemeye çalışır. Naruto ve arkadaşları, dünyayı korumak için güçlerini birleştirir ve Akatsuki'ye karşı mücadele eder.Bu süreçte Naruto, geçmişindeki sırlarla yüzleşir, kendi gücünü ve özünü anlamak için bir iç yolculuğuna çıkar ve insanlar arasında gerçek bir bağ kurarak hayatlarını değiştirir. Sasuke'nin değişimi ve ittifakların kurulması, seriyi daha da derinleştirir ve karakterlerin gelişimleri büyük önem taşır."Naruto Shippuden," dostluk, cesaret, umut, sadakat ve affetmenin güçlü temalarını işlerken, muhteşem dövüş sahneleri ve duygusal anlarla dolu zengin bir hikaye sunar. Seri, Naruto Uzumaki'nin ve diğer karakterlerin yükselişini ve olgunlaşmasını izlemek için eşsiz bir fırsat sunar.`     
         },
@@ -43,30 +43,29 @@ const about = [
     {
         name: "death note",
         namee:"Death Note",
-        kapakfoto: "https://banafikirver.com/images/posts/2021/05/post-1620556153-7824-death-note.webp",
+        kapakfoto: "https://w.forfun.com/fetch/b4/b4e8e934c8ad3a9f718a51c06a5f3eac.jpeg",
         main:{
-            foto:"", article:""
+            foto:"https://m.media-amazon.com/images/S/pv-target-images/933683350d60c08681f6556ee9b7a7f7bb78da2f04654ead4cee4fe4b03e5226._UR1920,1080_.jpg", article:`"Death Note", gerilim dolu bir anime serisidir ve zekice hazırlanmış bir suç ve dedektiflik hikayesini anlatır. Bu popüler anime, Tsugumi Ohba tarafından yazılan aynı adlı mangadan uyarlanmıştır.Hikaye, ana karakter Light Yagami'nin dünyayı suçlulardan arındırmak amacıyla bir ölüm defteri olan "Death Note"u bulmasıyla başlar. Death Note'u kullanarak insanları öldürebilen Light, kendini adalete hizmet eden bir tanrı olarak görmeye başlar. Kendisini "Kira" olarak tanımlar ve suçluları cezalandırmak için sistematik bir plan yapar.Ancak, Kira'nın eylemleri dikkat çeker ve uluslararası bir dedektif olan L, onun peşine düşer. L, Light'ın kimliğini tespit etmek ve onu durdurmak için çeşitli entelektüel oyunlar oynar. Light ve L arasında zekice tasarlanmış bir kedi fare oyunu başlar ve izleyiciler, her ikisinin de birbirlerini atlatmaya çalışırken adım adım artan gerilimi deneyimler.Anime, izleyicileri şaşırtan ve düşündüren birçok dönüm noktasına sahiptir. Zekice kurgulanmış senaryosu, karakterler arasındaki çekişmeler ve sürpriz gelişmeler, izleyicileri merak içinde tutar. Ayrıca, Death Note'u kullanma yeteneğine sahip olan diğer shinigamilerin dünyasına da bir pencere açar."Death Note", karmaşık karakterleri, derinlemesine düşündüren konuları ve gerilim dolu atmosferiyle ünlüdür. Kısacası, suç, ahlak ve güç üzerine kurulu bu unutulmaz anime serisi, izleyicilerini koltuklarına çiviler ve onları sorgulama dolu bir yolculuğa çıkarır`
         },
         karakterler: [
-            { nickname: "Light Yagami (Kira)", foto: "",sayi:1, article: "" },
-            { nickname: "L", foto: "", sayi:1,article: "" },
-            { nickname: "Ryuk", foto: "",sayi:2, article: "" },
-            { nickname: "Near", foto: "",sayi:3, article: "" },
-            { nickname: "Misa Amane", foto: "",sayi:4, article: "" },
-            { nickname: "Mello", foto: "", sayi:5,article: "" },
-            { nickname: "Rem", foto: "", sayi:6,article: "" },
-            { nickname: "Soichiro Yagami", foto: "", sayi:7,article: "" },
-            { nickname: "Teru Mikami", foto: "", sayi:8,article: "" },
-            { nickname: "Watari", foto: "",sayi:10, article: "" },
-            { nickname: "Sayu Yagami", foto: "", sayi:11,article: "" },
-            { nickname: "Shuichi Aizawa", foto: "", sayi:12,article: "" },
-            { nickname: "Touta Matsuda", foto: "", sayi:13,article: "" },
-            { nickname: "Kiyomi Takada", foto: "", sayi:14,article: "" },
-            { nickname: "Higuchi", foto: "",sayi:15, article: "" },
-            { nickname: "Naomi Misora", foto: "", sayi:16,article: "" },
-            { nickname: "Kyosuke Higuchi", foto: "", sayi:17,article: "" },
-            { nickname: "Hitoshi Demegawa", foto: "", sayi:18,article: "" },
-            { nickname: "Raye Pender", foto: "", sayi:19,article: "" }
+            { nickname: "Light Yagami (Kira)", foto: "https://i.pinimg.com/originals/8c/55/99/8c559991cb185f593b2414e14bb7d580.jpg",sayi:1, article: "" },
+            { nickname: "L", foto: "https://w.forfun.com/fetch/8a/8a79ec005b14988e260399529ef3cb62.jpeg", sayi:1,article: "" },
+            { nickname: "Ryuk", foto: "https://i.pinimg.com/originals/06/35/f0/0635f00979c89b9cccc89a5cd3c384c4.png",sayi:2, article: "" },
+            { nickname: "Near", foto: "https://cutewallpaper.org/21/near-death-note-wallpaper/Near-Death-Note-Photo-35697978-Fanpop.jpg",sayi:3, article: "" },
+            { nickname: "Misa Amane", foto: "https://1.bp.blogspot.com/-MV3KVr7U-Uc/T4NIC21hnYI/AAAAAAAAGxM/pNRQqj34rcw/s1600/12-PNG%27s-do-anime-Death-Note-L-Shinigami-Kira-Amane+Misa-NERDSferas+%288%29.png",sayi:4, article: "" },
+            { nickname: "Mello", foto: "https://img3.goodfon.com/wallpaper/nbig/4/5d/art-takeshi-obata-death-note-3826.jpg", sayi:5,article: "" },
+            { nickname: "Rem", foto: "https://www.seekpng.com/png/detail/53-531855_rem-death-note-png.png", sayi:6,article: "" },
+            { nickname: "Soichiro Yagami", foto: "https://s25.namasha.com/images/preview/7343034943-640x360.jpg", sayi:7,article: "" },
+            { nickname: "Teru Mikami", foto: "https://i.pinimg.com/originals/01/41/5d/01415ddf620aca988ed261d73cfec496.jpg", sayi:8,article: "" },
+            { nickname: "Watari", foto: "https://static.fusionmovies.to/images/character/xsNprpgGCrRM9KosbNv6zhFC6solW_hXhxzGUfc-VJBaiSxzWJYJr83AGpa8Taa3SU20EqOTqbvOGIz__i2lgKmgNBOhhDms6q6L1RwSYOM.jpg?1&resize_w=320",sayi:10, article: "" },
+            { nickname: "Sayu Yagami", foto: "https://www.animeclick.it/images/Anime_big/DeathNoteOAV1/DeathNoteOAV111.jpg", sayi:11,article: "" },
+            { nickname: "Shuichi Aizawa", foto: "https://tetradsmerti.com/wp-content/uploads/2022/06/Aidzava-Tetrad-smerti.webp", sayi:12,article: "" },
+            { nickname: "Touta Matsuda", foto: "https://2.bp.blogspot.com/-X5pzTCnBSEI/Wc6ZbAMOQiI/AAAAAAAHI9M/0BLvGUUd6I4BuIRqg6kgyoDhoL7UufXIgCLcBGAs/s1600/d598059c1fafd231d7506f57c55aa48b.jpg", sayi:13,article: "" },
+            { nickname: "Kiyomi Takada", foto: "https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/01/Kiyomi-Takada.jpg", sayi:14,article: "" },
+            { nickname: "Kyosuke Higuchi", foto: "https://vignette.wikia.nocookie.net/deathnote/images/2/26/DEATH_NOTE_-_23_-_Large_29.jpg/revision/latest?cb=20170902084543",sayi:15, article: "" },
+            { nickname: "Naomi Misora", foto: "https://i.pinimg.com/originals/a8/64/cc/a864cc380b49fcc96f94a688a6bfff0a.jpg", sayi:16,article: "" },
+            { nickname: "Hitoshi Demegawa", foto: "https://www.postavy.cz/foto/hitoshi-demegawa-foto.jpg", sayi:17,article: "" },
+            { nickname: "Raye Pender", foto: "https://assets.mycast.io/characters/raye-penber-7349712-normal.jpg?1657203976", sayi:18,article: "" }
            
         ]
 
@@ -116,7 +115,7 @@ const about = [
     {
         name: "attack on titan",
         namee:"Attack On Titan",
-        kapakfoto: "https://i.ytimg.com/vi/jHJQwsQNSSQ/maxresdefault.jpg",
+        kapakfoto: "https://4.bp.blogspot.com/-u9zTIwwljcQ/XSRKIKzXTkI/AAAAAAAAAjs/MUt-XKx1DNE4LIAWPgnunoUxUZc51JUgACKgBGAs/w2560-h1600-c/colossal-titan-attack-titan-attack-on-titan-uhdpaper.com-4K-177.jpg",
         main:{
             foto:"https://c.wallhere.com/photos/9d/9e/attack_on_titan_eren_jaeger_shingeki_no_kyojin-571712.jpg!d", article:`"Attack on Titan" (Shingeki no Kyojin), Hajime Isayama tarafından yazılmış ve çizilmiş bir Japon manga serisinden uyarlanan bir anime serisidir.Hikaye, insanoğlunun, devasa boyutlardaki yaratıklar olan "Titanlar" tarafından tehdit edildiği bir distopik dünyada geçmektedir. İnsanlığın hayatta kalma mücadelesini ve büyük surların ardında yaşayan insanların Titan saldırılarından korunma çabalarını anlatır. Ana karakterlerden Eren Yeager, annesinin bir Titan tarafından öldürülmesinin ardından, insanlığı Titanlar'dan kurtarmak ve onlara karşı intikam almak amacıyla "Özel Titan Askeri Birliği"ne katılmaya karar verir. Bu birlik, cesur savaşçılardan oluşur ve Titanlar'la mücadele etmek için duvarların dışına çıkarlar.Eren'in beklenmedik bir şekilde kendini Titan'a dönüştürebilme yeteneği, hikayenin merkezinde önemli bir olayı oluşturur ve insanlık için umut ışığı haline gelir.   "Attack on Titan," aksiyon dolu sahneleri, etkileyici karakter gelişimi ve derin düşündürücü hikayesiyle dikkat çeker. Aynı zamanda, arkadaşlık, fedakarlık, ve insan doğasının karmaşıklığı gibi temaları ele alır. Dünya genelinde geniş bir hayran kitlesi bulunan bu anime serisi, izleyicileri sürükleyici ve etkileyici bir deneyim sunar.`
         },
