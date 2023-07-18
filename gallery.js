@@ -25,7 +25,26 @@ const gallery = [
         url: 'https://assets.dragoart.com/images/7548_501/how-to-draw-death-note_5e4c8c59476df7.36051531_32053_3_3.jpg',
         fotoabout: [
             { fotourl: "https://mobimg.b-cdn.net/v3/fetch/2e/2ed9271c459c707f1005017eabd04c23.jpeg", numb: 1 },
-            { fotourl: "https://aniyuki.com/wp-content/uploads/2021/12/l-death-note-aniyuki-2.jpg", numb: 2 }]
+            { fotourl: "https://aniyuki.com/wp-content/uploads/2021/12/l-death-note-aniyuki-2.jpg", numb: 2 },
+            { fotourl: "https://images.wallpapersden.com/image/download/death-note-yagami-light-kira_amZnZ2qUmZqaraWkpJRqZmdlrWdtbWU.jpg", numb: 3 },
+            { fotourl: "https://w.forfun.com/fetch/9e/9ee32103dce6d9a08ed511bc3ab82ac4.jpeg", numb: 4 },
+            { fotourl: "https://animeshka.org/uploads/posts/2023-01/thumbs/1675065997_animeshka-org-p-mikasa-death-note-vkontakte-71.jpg", numb: 5 },
+            { fotourl: "https://aniyuki.com/wp-content/uploads/2021/12/l-death-note-aniyuki-3.jpg", numb: 6 },
+            { fotourl: "https://i.ytimg.com/vi/FAB0vQ__I4s/maxresdefault.jpg", numb: 7 },
+            { fotourl: "https://w.forfun.com/fetch/f9/f906c83b947a6f15b498954023540a34.jpeg", numb: 8 },
+            { fotourl: "https://wallpapercave.com/wp/wp11354235.jpg", numb: 9 },
+            { fotourl: "https://avatars.mds.yandex.net/i?id=7993b4a5c55b9ec21db0f81a3db78eb40d96bd3d-9182266-images-thumbs&n=13", numb: 10 },
+            { fotourl: "https://avatars.mds.yandex.net/i?id=ac636a58701af012e8d505a969c25f2399f0f41e-9147977-images-thumbs&n=13", numb: 11 },
+            { fotourl: "https://avatars.mds.yandex.net/i?id=8fc69ee857a78f7972895fcbeb2aa477c9500b1a-5381369-images-thumbs&n=13", numb: 12 },
+            { fotourl: "https://avatars.mds.yandex.net/i?id=b56d59f52cbb20e149c218b59099a49a51a9f981-9266552-images-thumbs&n=13", numb: 13 },
+            { fotourl: "https://w.forfun.com/fetch/87/87eb8327b3a2833f96f1ba1eefa1fad1.jpeg", numb: 14 },
+            { fotourl: "https://avatars.mds.yandex.net/i?id=ca2f1a359bd07aa566d1f1d8d6061786d3537cc5-8709977-images-thumbs&n=13", numb: 15 },
+            { fotourl: "https://w.forfun.com/fetch/75/7560e8ea7df7a644f4e2b0e1fb15424a.jpeg", numb: 16 },
+            { fotourl: "https://mobimg.b-cdn.net/v3/fetch/e8/e810e99c5c95c4a8b13fa8514608a366.jpeg?w=1470&r=0.5625", numb: 17 },
+            { fotourl: "https://www.pixel-creation.com/wp-content/uploads/death-note-ryuk-shinigami-full-moon-hd-wallpaper-death-note.jpg", numb: 18 },
+
+
+        ]
 
     },
     {
