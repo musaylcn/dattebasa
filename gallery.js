@@ -34,6 +34,24 @@ const gallery = [
         fotoabout: [
             { fotourl: "https://i.pinimg.com/originals/7e/6e/a3/7e6ea3b37a0f5f311a707d3eb5581d69.png", numb: 1 },
             { fotourl: "https://mobimg.b-cdn.net/v3/fetch/54/54ca886f95f661eebf82caa8f252f000.jpeg", numb: 2 },
+            { fotourl: "https://i.pinimg.com/originals/11/4f/43/114f436b7228d5a9b7152ff3c4a59cf8.jpg", numb: 1 },
+            { fotourl: "https://chillywilly.club/uploads/posts/2023-03/thumbs/1679986420_chillywilly-club-p-sauzend-sanni-van-pis-art-krasivo-devushki-71.jpg", numb: 2 },
+            { fotourl: "https://i.pinimg.com/originals/62/78/9b/62789bf9941b8ccb2ba7531edc82247b.jpg", numb: 3 },
+            { fotourl: "https://res.cloudinary.com/sfp/image/upload/oth/FunimationStoreFront/1554196/Japanese/1554196_Japanese_KeyArt-OfficialVideoImage_3f965857-6841-e711-8175-020165574d09.jpg", numb: 4 },
+            { fotourl: "https://programma.sorrisi.com/guidatv/uploads/media/cache/epg_program_large/uploads/epg/images/programseries/2/9/1/186192/originale/186192.jpg", numb: 5 },
+            { fotourl: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1d366e17-6835-4add-b7ba-cd975a8a31fe/d3hkx0n-7f4a2dd1-f672-412e-9cd1-b26effa363ce.jpg/v1/fill/w_1095,h_730,q_75,strp/one_piece_2_year_time_skip_by_flawedart-d3hkx0n.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwib2JqIjpbW3sicGF0aCI6Ii9mLzFkMzY2ZTE3LTY4MzUtNGFkZC1iN2JhLWNkOTc1YThhMzFmZS9kM2hreDBuLTdmNGEyZGQxLWY2NzItNDEyZS05Y2QxLWIyNmVmZmEzNjNjZS5qcGciLCJ3aWR0aCI6Ijw9MTA5NSIsImhlaWdodCI6Ijw9NzMwIn1dXSwid21rIjp7InBhdGgiOiIvd20vMWQzNjZlMTctNjgzNS00YWRkLWI3YmEtY2Q5NzVhOGEzMWZlL2ZsYXdlZGFydC00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.BsOkWrZii0QjkcvG7BpxSIWAgjzXwY5GMY8gLLq3IDg", numb: 6 },
+            { fotourl: "https://wallpapertag.com/wallpaper/full/0/5/9/972327-gear-fourth-wallpapers-1920x1080-tablet.jpg", numb: 7 },
+            { fotourl: "https://i.ytimg.com/vi/JwxSY3cvobU/maxresdefault.jpg", numb: 8 },
+            { fotourl: "https://i.pinimg.com/originals/69/cf/ca/69cfca3f85155a3a36746a6c06bd73f6.jpg", numb: 9 },
+            { fotourl: "https://i.pinimg.com/originals/0e/92/e4/0e92e49fc059f34b57046b445b2d9fce.jpg", numb: 10 },
+            { fotourl: "https://one-piece.ru/forum/imagehosting/2019/07/07/115d219a8b264c1.jpg", numb: 11},
+            { fotourl: "https://i.ytimg.com/vi/hFGo5x_xDZY/maxresdefault.jpg", numb: 12},
+            { fotourl: "https://4.bp.blogspot.com/-kFfL-ORQAUs/UAYPSjcFXFI/AAAAAAAAF8w/obPSRJK3oZM/s1600/39.jpg", numb: 13},
+            { fotourl: "https://i.pinimg.com/originals/cf/cc/28/cfcc28b46fe664450cfc6b3f515771a6.png", numb: 14},
+            { fotourl: "https://cutewallpaper.org/22/one-piece-live-wallpapers/2218627150.jpg", numb: 15},
+            { fotourl: "https://w.forfun.com/fetch/2a/2a6b683786725cbe28eb8a4e610ac449.jpeg", numb: 16},
+           
+
 
         ]
     },
