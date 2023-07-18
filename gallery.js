@@ -83,7 +83,7 @@ const gallery = [
     },
     {
         name: 'one punch man',
-        url: 'https://www.vhv.rs/dpng/d/415-4154569_one-punch-man-logo-png-png-collections-at.png',
+        url: 'https://wallpapercave.com/wp/wp10196522.jpg',
         fotoabout: [
             { fotourl: "https://mobimg.b-cdn.net/v3/fetch/03/03fdb194beb53aa760281e8d75f71c5f.jpeg", numb: 1 },
             { fotourl: "https://avatars.mds.yandex.net/i?id=14732eb483d684285c5729bff3104038296ad1cc-8474952-images-thumbs&n=13", numb: 2 },
