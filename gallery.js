@@ -26,7 +26,7 @@ const gallery = [
         fotoabout: [
             { fotourl: "https://mobimg.b-cdn.net/v3/fetch/2e/2ed9271c459c707f1005017eabd04c23.jpeg", numb: 1 },
             { fotourl: "https://aniyuki.com/wp-content/uploads/2021/12/l-death-note-aniyuki-2.jpg", numb: 2 },
-            { fotourl: "https://images.wallpapersden.com/image/download/death-note-yagami-light-kira_amZnZ2qUmZqaraWkpJRqZmdlrWdtbWU.jpg", numb: 3 },
+            { fotourl: "https://i.pinimg.com/originals/54/1e/85/541e8582de2c78a63aa09937ec673ba8.jpg", numb: 3 },
             { fotourl: "https://w.forfun.com/fetch/9e/9ee32103dce6d9a08ed511bc3ab82ac4.jpeg", numb: 4 },
             { fotourl: "https://animeshka.org/uploads/posts/2023-01/thumbs/1675065997_animeshka-org-p-mikasa-death-note-vkontakte-71.jpg", numb: 5 },
             { fotourl: "https://aniyuki.com/wp-content/uploads/2021/12/l-death-note-aniyuki-3.jpg", numb: 6 },
