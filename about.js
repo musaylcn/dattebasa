@@ -105,27 +105,37 @@ const about = [
         ]
 
     },
-    {
-        name: "sailor moon",
-        namee:"Sailor Moon",
-        kapakfoto: "",
-        main:{
-            foto:"", article:""
-        },
-        karakterler: [
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" }
-        ]
+    // {
+    //     name: "sailor moon",
+    //     namee:"Sailor Moon",
+    //     kapakfoto: "https://10wallpaper.com/wallpaper/2560x1600/1409/Sailor_Moon_Anime_HD_Desktop_Wallpaper_2560x1600.jpg",
+    //     main:{
+    //         foto:"https://w.forfun.com/fetch/38/381319979b6432d5025f875d42c75c25.jpeg", article:""
+    //     },
+    //     karakterler: [
+    //         { nickname: "Usagi Tsukino", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:2, article: "" },
+    //         { nickname: "", foto: "",sayi:3, article: "" },
+    //         { nickname: "", foto: "",sayi:4, article: "" },
+    //         { nickname: "", foto: "",sayi:5, article: "" },
+    //         { nickname: "", foto: "",sayi:6, article: "" },
+    //         { nickname: "", foto: "",sayi:7, article: "" },
+    //         { nickname: "", foto: "", sayi:8,article: "" },
+    //         { nickname: "", foto: "",sayi:9, article: "" },
+    //         { nickname: "", foto: "", sayi:10,article: "" },
+    //         { nickname: "", foto: "",sayi:11, article: "" },
+    //         { nickname: "", foto: "",sayi:12, article: "" },
+    //         { nickname: "", foto: "", sayi:13,article: "" },
+    //         { nickname: "", foto: "",sayi:14, article: "" },
+    //         { nickname: "", foto: "", sayi:15,article: "" },
+    //         { nickname: "", foto: "",sayi:16, article: "" },
+    //         { nickname: "", foto: "",sayi:17, article: "" },
+    //         { nickname: "", foto: "", sayi:18,article: "" },
+    //         { nickname: "", foto: "",sayi:19, article: "" },
+    //         { nickname: "", foto: "", sayi:20,article: "" }
+    //     ]
 
-    },
+    // },
     {
         name: "attack on titan",
         namee:"Attack On Titan",
@@ -155,279 +165,279 @@ const about = [
         ]
 
     },
-    {
-        name: "one punch man",
-        namee:"One Punch Man",
-        kapakfoto: "",
-        main:{
-            foto:"", article:""
-        },
-        karakterler: [
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" }
-        ]
+    // {
+    //     name: "one punch man",
+    //     namee:"One Punch Man",
+    //     kapakfoto: "",
+    //     main:{
+    //         foto:"", article:""
+    //     },
+    //     karakterler: [
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "", sayi:1,article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "", sayi:1,article: "" }
+    //     ]
 
-    },
-    {
-        name: "seraph of the end",
-        namee:"Seraph Of The End",
-        kapakfoto: "",
-        main:{
-            foto:"", article:""
-        },
-        karakterler: [
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" }
-        ]
+    // },
+    // {
+    //     name: "seraph of the end",
+    //     namee:"Seraph Of The End",
+    //     kapakfoto: "",
+    //     main:{
+    //         foto:"", article:""
+    //     },
+    //     karakterler: [
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "", sayi:1,article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "", sayi:1,article: "" }
+    //     ]
 
-    },
-    {
-        name: "demon slayer",
-        namee:"Demon Slayer",
-        kapakfoto: "",
-        main:{
-            foto:"", article:""
-        },
-        karakterler: [
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" }
-        ]
+    // },
+    // {
+    //     name: "demon slayer",
+    //     namee:"Demon Slayer",
+    //     kapakfoto: "",
+    //     main:{
+    //         foto:"", article:""
+    //     },
+    //     karakterler: [
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "", sayi:1,article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "", sayi:1,article: "" }
+    //     ]
 
-    },
-    {
-        name: "boruto",
-        namee:"Boruto",
-        kapakfoto: "",
-        main:{
-            foto:"", article:""
-        },
-        karakterler: [
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" }
-        ]
+    // },
+    // {
+    //     name: "boruto",
+    //     namee:"Boruto",
+    //     kapakfoto: "",
+    //     main:{
+    //         foto:"", article:""
+    //     },
+    //     karakterler: [
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "", sayi:1,article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "", sayi:1,article: "" }
+    //     ]
 
-    },
-    {
-        name: "91 days",
-        namee:"91 Days",
-        kapakfoto: "https://banafikirver.com/images/posts/2021/05/post-1620556173-8849-91-days.webp",
-        main:{
-            foto:"", article:""
-        },
-        karakterler: [
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" }
-        ]
+    // },
+    // {
+    //     name: "91 days",
+    //     namee:"91 Days",
+    //     kapakfoto: "https://banafikirver.com/images/posts/2021/05/post-1620556173-8849-91-days.webp",
+    //     main:{
+    //         foto:"", article:""
+    //     },
+    //     karakterler: [
+    //         { nickname: "", foto: "", sayi:1,article: "" },
+    //         { nickname: "", foto: "", sayi:1,article: "" },
+    //         { nickname: "", foto: "", sayi:1,article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "", sayi:1,article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "", sayi:1,article: "" },
+    //         { nickname: "", foto: "", sayi:1,article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" }
+    //     ]
 
-    },
-    {
-        name: "sword art online",
-        namee:"Sword Art Online",
-        kapakfoto: "",
-        main:{
-            foto:"", article:""
-        },
-        karakterler: [
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" }
-        ]
+    // },
+    // {
+    //     name: "sword art online",
+    //     namee:"Sword Art Online",
+    //     kapakfoto: "",
+    //     main:{
+    //         foto:"", article:""
+    //     },
+    //     karakterler: [
+    //         { nickname: "", foto: "", sayi:1,article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "", sayi:1,article: "" },
+    //         { nickname: "", foto: "", sayi:1,article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" }
+    //     ]
 
-    },
-    {
-        name: "tokyo ghoul",
-        namee:"Tokyo Ghoul",
-        kapakfoto: "",
-        main:{
-            foto:"", article:""
-        },
-        karakterler: [
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" }
-        ]
+    // },
+    // {
+    //     name: "tokyo ghoul",
+    //     namee:"Tokyo Ghoul",
+    //     kapakfoto: "",
+    //     main:{
+    //         foto:"", article:""
+    //     },
+    //     karakterler: [
+    //         { nickname: "", foto: "", sayi:1,article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" }
+    //     ]
 
-    },
-    {
-        name: "my hero acedemia",
-        namee:"My Hero Acedemia",
-        kapakfoto: "",
-        main:{
-            foto:"", article:""
-        },
-        karakterler: [
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" }
-        ]
+    // },
+    // {
+    //     name: "my hero acedemia",
+    //     namee:"My Hero Acedemia",
+    //     kapakfoto: "",
+    //     main:{
+    //         foto:"", article:""
+    //     },
+    //     karakterler: [
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "", sayi:1,article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" }
+    //     ]
 
-    },
-    {
-        name: "hunter x hunter",
-        namee:"Hunter x Hunter",
-        kapakfoto: "",
-        main:{
-            foto:"", article:""
-        },
-        karakterler: [
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" }
-        ]
+    // },
+    // {
+    //     name: "hunter x hunter",
+    //     namee:"Hunter x Hunter",
+    //     kapakfoto: "",
+    //     main:{
+    //         foto:"", article:""
+    //     },
+    //     karakterler: [
+    //         { nickname: "", foto: "", sayi:1,article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "", sayi:1,article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" }
+    //     ]
 
-    },
-    {
-        name: "kimi no na wa",
-        namee:"Kimi no Na wa",
-        kapakfoto: "",
-        main:{
-            foto:"", article:""
-        },
-        karakterler: [
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" }
-        ]
+    // },
+    // {
+    //     name: "kimi no na wa",
+    //     namee:"Kimi no Na wa",
+    //     kapakfoto: "",
+    //     main:{
+    //         foto:"", article:""
+    //     },
+    //     karakterler: [
+    //         { nickname: "", foto: "", sayi:1,article: "" },
+    //         { nickname: "", foto: "", sayi:1,article: "" },
+    //         { nickname: "", foto: "", sayi:1,article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" }
+    //     ]
 
-    },
-    {
-        name: "jujutsu kaisen",
-        namee:"Jujutsu Kaisen",
-        kapakfoto: "",
-        main:{
-            foto:"", article:""
-        },
-        karakterler: [
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" }
-        ]
+    // },
+    // {
+    //     name: "jujutsu kaisen",
+    //     namee:"Jujutsu Kaisen",
+    //     kapakfoto: "",
+    //     main:{
+    //         foto:"", article:""
+    //     },
+    //     karakterler: [
+    //         { nickname: "", foto: "", sayi:1,article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" }
+    //     ]
 
-    },
-    {
-        name: "no game no life",
-        namee:"No Game No Life",
-        kapakfoto: "",
-        main:{
-            foto:"", article:""
-        },
-        karakterler: [
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" },
-            { nickname: "", foto: "", article: "" }
-        ]
+    // },
+    // {
+    //     name: "no game no life",
+    //     namee:"No Game No Life",
+    //     kapakfoto: "",
+    //     main:{
+    //         foto:"", article:""
+    //     },
+    //     karakterler: [
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "", sayi:1,article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" },
+    //         { nickname: "", foto: "", article: "" }
+    //     ]
 
-    },
-    {
-        name: "",
-        namee:"",
-        kapakfoto: "",
-        main:{
-            foto:"", article:""
-        },
-        karakterler: [
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" },
-            { nickname: "", foto: "",sayi:1, article: "" },
-            { nickname: "", foto: "", sayi:1,article: "" }
-        ]
+    // },
+    // {
+    //     name: "",
+    //     namee:"",
+    //     kapakfoto: "",
+    //     main:{
+    //         foto:"", article:""
+    //     },
+    //     karakterler: [
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "", sayi:1,article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "", sayi:1,article: "" }
+    //     ]
 
-    },
+    // },
 
     
 
