@@ -87,15 +87,15 @@ const gallery = [
             { fotourl: "https://wallpapercave.com/wp/wp11051639.png", numb: 7 },
             { fotourl: "https://avatars.mds.yandex.net/i?id=57600303e6b7ec632fc8a26d867ac697d1bfe243-9181183-images-thumbs&n=13", numb: 8 },
             { fotourl: "https://i.pinimg.com/564x/db/c6/70/dbc670975ac408c55c44440df532cfab.jpg", numb: 10 },
-            { fotourl: "https://avatars.mds.yandex.net/i?id=a34e87c7348b9684ba37f9b8d2dfc0cc4ade5b37-9044919-images-thumbs&n=13", numb: 11 },
-            { fotourl: "https://avatars.mds.yandex.net/i?id=14dbb47d98e474701ee6e65f5f516bf500140934-10354418-images-thumbs&n=13", numb: 12 },
+            { fotourl: "https://i.pinimg.com/564x/a9/79/1d/a9791d3b7fa00985a7b5522724664aab.jpg", numb: 11 },
+            { fotourl: "https://i.pinimg.com/564x/2c/ce/53/2cce533af80c97c76c6722b41e340d02.jpg", numb: 12 },
             { fotourl: "https://avatars.mds.yandex.net/i?id=9894a51eaefa7f46fdc3d47f2d6a0be090e4c4bc-8567399-images-thumbs&n=13", numb: 13 },
             { fotourl: "https://avatars.mds.yandex.net/i?id=1f39abd756390df2ff9dd12f43c5067c4f3fee76-9224048-images-thumbs&n=13", numb: 14 },
             { fotourl: "https://avatars.mds.yandex.net/i?id=f8199e795c6f97712e8f87090eef394caef8a05a-7594176-images-thumbs&n=13", numb: 15 },
             { fotourl: "https://avatars.mds.yandex.net/i?id=8eb54fe8d9db9bb7d56a605a1d331e7da546efda-9065850-images-thumbs&n=13", numb: 16 },
             { fotourl: "https://avatars.mds.yandex.net/i?id=fffa7e513dbb0c83013a99e78703001019097203-9386274-images-thumbs&n=13", numb: 17 },
-            { fotourl: "", numb: 18 },
-            { fotourl: "", numb: 19 },
+            { fotourl: "https://avatars.mds.yandex.net/i?id=a34e87c7348b9684ba37f9b8d2dfc0cc4ade5b37-9044919-images-thumbs&n=13", numb: 18 },
+            { fotourl: "https://avatars.mds.yandex.net/i?id=14dbb47d98e474701ee6e65f5f516bf500140934-10354418-images-thumbs&n=13", numb: 19 },
 
 
         ]
