@@ -63,13 +63,13 @@ const gallery = [
             { fotourl: "https://i.ytimg.com/vi/JwxSY3cvobU/maxresdefault.jpg", numb: 8 },
             { fotourl: "https://i.pinimg.com/originals/69/cf/ca/69cfca3f85155a3a36746a6c06bd73f6.jpg", numb: 9 },
             { fotourl: "https://i.pinimg.com/originals/0e/92/e4/0e92e49fc059f34b57046b445b2d9fce.jpg", numb: 10 },
-            { fotourl: "https://one-piece.ru/forum/imagehosting/2019/07/07/115d219a8b264c1.jpg", numb: 11},
-            { fotourl: "https://i.ytimg.com/vi/hFGo5x_xDZY/maxresdefault.jpg", numb: 12},
-            { fotourl: "https://4.bp.blogspot.com/-kFfL-ORQAUs/UAYPSjcFXFI/AAAAAAAAF8w/obPSRJK3oZM/s1600/39.jpg", numb: 13},
-            { fotourl: "https://i.pinimg.com/originals/cf/cc/28/cfcc28b46fe664450cfc6b3f515771a6.png", numb: 14},
-            { fotourl: "https://cutewallpaper.org/22/one-piece-live-wallpapers/2218627150.jpg", numb: 15},
-            { fotourl: "https://w.forfun.com/fetch/2a/2a6b683786725cbe28eb8a4e610ac449.jpeg", numb: 16},
-           
+            { fotourl: "https://one-piece.ru/forum/imagehosting/2019/07/07/115d219a8b264c1.jpg", numb: 11 },
+            { fotourl: "https://i.ytimg.com/vi/hFGo5x_xDZY/maxresdefault.jpg", numb: 12 },
+            { fotourl: "https://4.bp.blogspot.com/-kFfL-ORQAUs/UAYPSjcFXFI/AAAAAAAAF8w/obPSRJK3oZM/s1600/39.jpg", numb: 13 },
+            { fotourl: "https://i.pinimg.com/originals/cf/cc/28/cfcc28b46fe664450cfc6b3f515771a6.png", numb: 14 },
+            { fotourl: "https://cutewallpaper.org/22/one-piece-live-wallpapers/2218627150.jpg", numb: 15 },
+            { fotourl: "https://w.forfun.com/fetch/2a/2a6b683786725cbe28eb8a4e610ac449.jpeg", numb: 16 },
+
 
 
         ]
@@ -85,7 +85,20 @@ const gallery = [
             { fotourl: "https://avatars.mds.yandex.net/i?id=7570138d29dc5f782704b9abe35d91c4bafc5bb4-9181139-images-thumbs&n=13", numb: 5 },
             { fotourl: "https://avatars.mds.yandex.net/i?id=fd06081b2653ad48cb18c1a3361da7e2cf096e6b-8873941-images-thumbs&n=13", numb: 6 },
             { fotourl: "https://wallpapercave.com/wp/wp11051639.png", numb: 7 },
-            { fotourl: "https://avatars.mds.yandex.net/i?id=57600303e6b7ec632fc8a26d867ac697d1bfe243-9181183-images-thumbs&n=13", numb: 8 }]
+            { fotourl: "https://avatars.mds.yandex.net/i?id=57600303e6b7ec632fc8a26d867ac697d1bfe243-9181183-images-thumbs&n=13", numb: 8 },
+            { fotourl: "https://i.pinimg.com/564x/db/c6/70/dbc670975ac408c55c44440df532cfab.jpg", numb: 10 },
+            { fotourl: "https://avatars.mds.yandex.net/i?id=a34e87c7348b9684ba37f9b8d2dfc0cc4ade5b37-9044919-images-thumbs&n=13", numb: 11 },
+            { fotourl: "https://avatars.mds.yandex.net/i?id=14dbb47d98e474701ee6e65f5f516bf500140934-10354418-images-thumbs&n=13", numb: 12 },
+            { fotourl: "https://avatars.mds.yandex.net/i?id=9894a51eaefa7f46fdc3d47f2d6a0be090e4c4bc-8567399-images-thumbs&n=13", numb: 13 },
+            { fotourl: "https://avatars.mds.yandex.net/i?id=1f39abd756390df2ff9dd12f43c5067c4f3fee76-9224048-images-thumbs&n=13", numb: 14 },
+            { fotourl: "https://avatars.mds.yandex.net/i?id=f8199e795c6f97712e8f87090eef394caef8a05a-7594176-images-thumbs&n=13", numb: 15 },
+            { fotourl: "https://avatars.mds.yandex.net/i?id=8eb54fe8d9db9bb7d56a605a1d331e7da546efda-9065850-images-thumbs&n=13", numb: 16 },
+            { fotourl: "https://avatars.mds.yandex.net/i?id=fffa7e513dbb0c83013a99e78703001019097203-9386274-images-thumbs&n=13", numb: 17 },
+            { fotourl: "", numb: 18 },
+            { fotourl: "", numb: 19 },
+
+
+        ]
 
     },
     {
@@ -176,145 +189,145 @@ const gallery = [
 
     },
     {
-        name:'91 days',
-        url:'https://images.alphacoders.com/727/727533.png',
+        name: '91 days',
+        url: 'https://images.alphacoders.com/727/727533.png',
         fotoabout: [
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''}
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' }
 
         ]
     },
     {
-        name:'sword art online',
-        url:'https://2.bp.blogspot.com/-4LB3GHLwdIY/VkjVk8jmdgI/AAAAAAAAA6s/m5poh1mFizM/s1600/SAO%2Bblack%2B2.jpg',
+        name: 'sword art online',
+        url: 'https://2.bp.blogspot.com/-4LB3GHLwdIY/VkjVk8jmdgI/AAAAAAAAA6s/m5poh1mFizM/s1600/SAO%2Bblack%2B2.jpg',
         fotoabout: [
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''}
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' }
 
         ]
     },
     {
-        name:'tokyo ghoul',
-        url:'https://www.logolynx.com/images/logolynx/19/19ff8c89486ed495fbb08b52a2b767aa.png',
+        name: 'tokyo ghoul',
+        url: 'https://www.logolynx.com/images/logolynx/19/19ff8c89486ed495fbb08b52a2b767aa.png',
         fotoabout: [
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''}
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' }
 
         ]
     },
     {
-        name:'my hero acedemia',
-        url:'https://logolook.net/wp-content/uploads/2022/02/My-Hero-Academia-Logo-2048x1152.png',
+        name: 'my hero acedemia',
+        url: 'https://logolook.net/wp-content/uploads/2022/02/My-Hero-Academia-Logo-2048x1152.png',
         fotoabout: [
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''}
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' }
 
         ]
     },
     {
-        name:'hunter x hunter',
-        url:'https://logos-world.net/wp-content/uploads/2021/08/Hunter-x-Hunter-Logo.png',
+        name: 'hunter x hunter',
+        url: 'https://logos-world.net/wp-content/uploads/2021/08/Hunter-x-Hunter-Logo.png',
         fotoabout: [
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''}
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' }
 
         ]
     },
     {
-        name:'kimi no na wa',
-        url:'https://i.pinimg.com/originals/82/8b/5b/828b5b3061eb8b6885851cf5a032d5c8.png',
+        name: 'kimi no na wa',
+        url: 'https://i.pinimg.com/originals/82/8b/5b/828b5b3061eb8b6885851cf5a032d5c8.png',
         fotoabout: [
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''}
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' }
 
         ]
     },
     {
-        name:'jujutsu kaisen',
-        url:'https://avatars.mds.yandex.net/i?id=14c4b46cd4a46ba769868a810d072757a29f7384-5301046-images-thumbs&n=13',
+        name: 'jujutsu kaisen',
+        url: 'https://avatars.mds.yandex.net/i?id=14c4b46cd4a46ba769868a810d072757a29f7384-5301046-images-thumbs&n=13',
         fotoabout: [
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''}
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' }
 
         ]
     },
     {
-        name:'no game no life',
-        url:'https://cutewallpaper.org/21/no-game-no-life-images/No-Game-No-Life-Netflix.png',
+        name: 'no game no life',
+        url: 'https://cutewallpaper.org/21/no-game-no-life-images/No-Game-No-Life-Netflix.png',
         fotoabout: [
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''}
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' }
 
         ]
     },
     {
-        name:'',
-        url:'',
+        name: '',
+        url: '',
         fotoabout: [
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''}
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' }
 
         ]
     },
     {
-        name:'',
-        url:'',
+        name: '',
+        url: '',
         fotoabout: [
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''}
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' }
 
         ]
     },
     {
-        name:'',
-        url:'',
+        name: '',
+        url: '',
         fotoabout: [
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''}
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' }
 
         ]
     },
     {
-        name:'',
-        url:'',
+        name: '',
+        url: '',
         fotoabout: [
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''}
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' }
 
         ]
     },
     {
-        name:'',
-        url:'',
+        name: '',
+        url: '',
         fotoabout: [
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''},
-            {fotourl:'' ,numb:''}
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' },
+            { fotourl: '', numb: '' }
 
         ]
     }
