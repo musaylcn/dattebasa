@@ -6,6 +6,10 @@ app.use(express.static("images"));//images dosyasının içeriğini kullanmamız
 app.set("view engine", "ejs"); //views altındaki dosyaları render ile konum belirtmeden çağırabiliriz.
 const gallery=require("./gallery");
 const about=require("./about");
+var favicon = require("serve-favicon");
+var path = require("path");
+app.use(favicon(path.join(__dirname,"imagess","kyuubisennin.jpg")));
+
 
 app.use("/animeler/:name/gallery/:num", (req, res) => {
     const anime = gallery.find(anim => anim.name == req.params.name);
