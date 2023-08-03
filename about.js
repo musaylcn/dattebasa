@@ -232,24 +232,24 @@ const about = [
         namee:"Demon Slayer",
         kapakfoto: "https://wallpapercave.com/wp/wp8597018.jpg",
         main:{
-            foto:"https://i.pinimg.com/564x/30/2a/5a/302a5a4366d3b26b7c5e1dff0f5c0be8.jpg", article:""
+            foto:"https://i.pinimg.com/736x/59/7a/a4/597aa405f7739d83225e7225fd91ee0f.jpg", article:`"Demon Slayer" (Kimetsu no Yaiba), Koyoharu Gotouge tarafından yazılan ve resimlenen bir manga serisidir. Ayrıca, Ufotable stüdyosu tarafından anime olarak da uyarlanmıştır. Hikaye, Tanjiro Kamado adında genç bir çocuğun, ailesinin katledilmesinin ardından demon avcısı olma yolculuğunu anlatır.Tanjiro Kamado, sıcakkanlı ve merhametli bir karakterdir. Ailesiyle birlikte yaşayan mutlu bir hayat sürerken, bir gün eve döndüğünde ailesinin bir demon tarafından saldırıya uğradığını ve yalnızca kendisinin ve kız kardeşi Nezuko'nun hayatta kaldığını görür. Nezuko ise saldırı sonucu bir demon olmuştur, ancak hala insan kalabilmeyi başarmıştır.Tanjiro, ailesinin intikamını almak ve kız kardeşini tekrar insan yapmak için bir demon avcısı olmaya karar verir. Eğitim için üst düzey bir demon avcısı olan Sakonji Urokodaki'nin yanına gider ve özel kılıç tekniklerini öğrenmeye başlar.Tanjiro'nun demon avcısı olarak yaptığı yolculuk boyunca, diğer demon avcısı arkadaşları Zenitsu Agatsuma ve Inosuke Hashibira ile tanışır. Bu üç genç, birlikte çeşitli kötücül ve güçlü demonlarla savaşarak ve insanlığı korumak için mücadele ederler.Hikaye boyunca, Tanjiro ve arkadaşları, demonlarla yüzleşirken kendi yeteneklerini geliştirir, zorlu mücadeleler verir ve içsel zorluklarla karşılaşırlar. Aynı zamanda, demonların insanlarla olan karmaşık ilişkilerini keşfederler ve bazı demonlar arasında insana benzer duygular ve hisler olduğunu fark ederler.`
         },
         karakterler: [
-            { nickname: "Tanjiro Kamado", foto: "https://i.pinimg.com/564x/2b/ee/66/2bee660fcfdcc407bd3e29b01cc5e1a3.jpg",sayi:1, article: "" },
-            { nickname: "Nezuko Kamado", foto: "https://i.pinimg.com/564x/d4/3e/d4/d43ed4bf3dd4124616bbd4280f7867fc.jpg",sayi:2, article: "" },
-            { nickname: "Zenitsu Agatsuma", foto: "https://i.pinimg.com/564x/9a/9e/2c/9a9e2c2a1e3e382e20b7f8b5bc9ce8e2.jpg",sayi:3, article: "" },
-            { nickname: "Inosuke Hashibira", foto: "https://i.pinimg.com/564x/01/4a/70/014a70fea65148a3080025fbf700a946.jpg",sayi:4, article: "" },
-            { nickname: "Giyu Tomioka", foto: "https://i.pinimg.com/564x/c0/20/c1/c020c11c89387bcf9e8f717a764eb447.jpg",sayi:5, article: "" },
-            { nickname: "Kanao Tsuyuri", foto: "https://i.pinimg.com/564x/48/0b/49/480b49fdfe669edcb1f0536da2c701f5.jpg",sayi:6, article: "" },
-            { nickname: "Muzan Kibutsuji", foto: "https://i.pinimg.com/564x/d1/0d/ee/d10deed74c907079f994231a1f41da94.jpg",sayi:7, article: "" },
-            { nickname: "Shinobu Kocho", foto: "https://i.pinimg.com/564x/af/be/b2/afbeb23bccf697e80587e4e7f1f5823a.jpg", sayi:8,article: "" },
-            { nickname: "Kyojuro Rengoku", foto: "https://i.pinimg.com/564x/71/b0/4f/71b04f7ee41342746ef36848c42d2261.jpg",sayi:9, article: "" },
-            { nickname: "Sakonji Urokodaki", foto: "https://i.pinimg.com/564x/d7/29/66/d72966c469579e4b1f4ae02f487a5228.jpg", sayi:10,article: "" },
-            { nickname: "Yushiro", foto: "https://i.pinimg.com/564x/88/50/2c/88502cce5cafeef28143c6ee52e110b1.jpg",sayi:11, article: "" },
-            { nickname: "Tamayo", foto: "https://i.pinimg.com/564x/dc/89/6b/dc896bd577dd4d7171ac44fd72ae5807.jpg",sayi:12, article: "" },
-            { nickname: "Murata", foto: "https://i.pinimg.com/564x/15/74/ba/1574bab2d70e9ea90ba891511b9856c3.jpg",sayi:13, article: "" },
-            { nickname: "Shinjuro Rengoku", foto: "https://i.pinimg.com/564x/7a/69/5d/7a695df9b2a5aab58d722dc60922f713.jpg",sayi:14, article: "" },
-            { nickname: "Kanae Kocho:", foto: "https://i.pinimg.com/564x/57/80/ce/5780cef82fcb13a8fd0b1d6384ea9036.jpg",sayi:15, article: "" }
+            { nickname: "Tanjiro Kamado", foto: "https://i.pinimg.com/564x/2b/ee/66/2bee660fcfdcc407bd3e29b01cc5e1a3.jpg",sayi:1, article: `` },
+            { nickname: "Nezuko Kamado", foto: "https://i.pinimg.com/564x/d4/3e/d4/d43ed4bf3dd4124616bbd4280f7867fc.jpg",sayi:2, article: `` },
+            { nickname: "Zenitsu Agatsuma", foto: "https://i.pinimg.com/564x/9a/9e/2c/9a9e2c2a1e3e382e20b7f8b5bc9ce8e2.jpg",sayi:3, article: `` },
+            { nickname: "Inosuke Hashibira", foto: "https://i.pinimg.com/564x/01/4a/70/014a70fea65148a3080025fbf700a946.jpg",sayi:4, article: `` },
+            { nickname: "Giyu Tomioka", foto: "https://i.pinimg.com/564x/c0/20/c1/c020c11c89387bcf9e8f717a764eb447.jpg",sayi:5, article: `` },
+            { nickname: "Kanao Tsuyuri", foto: "https://i.pinimg.com/564x/48/0b/49/480b49fdfe669edcb1f0536da2c701f5.jpg",sayi:6, article: `` },
+            { nickname: "Muzan Kibutsuji", foto: "https://i.pinimg.com/564x/d1/0d/ee/d10deed74c907079f994231a1f41da94.jpg",sayi:7, article: `` },
+            { nickname: "Shinobu Kocho", foto: "https://i.pinimg.com/564x/af/be/b2/afbeb23bccf697e80587e4e7f1f5823a.jpg", sayi:8,article: `` },
+            { nickname: "Kyojuro Rengoku", foto: "https://i.pinimg.com/564x/71/b0/4f/71b04f7ee41342746ef36848c42d2261.jpg",sayi:9, article: `` },
+            { nickname: "Sakonji Urokodaki", foto: "https://i.pinimg.com/564x/d7/29/66/d72966c469579e4b1f4ae02f487a5228.jpg", sayi:10,article: `` },
+            { nickname: "Yushiro", foto: "https://i.pinimg.com/564x/88/50/2c/88502cce5cafeef28143c6ee52e110b1.jpg",sayi:11, article: `` },
+            { nickname: "Tamayo", foto: "https://i.pinimg.com/564x/dc/89/6b/dc896bd577dd4d7171ac44fd72ae5807.jpg",sayi:12, article: `` },
+            { nickname: "Murata", foto: "https://i.pinimg.com/564x/15/74/ba/1574bab2d70e9ea90ba891511b9856c3.jpg",sayi:13, article: `` },
+            { nickname: "Shinjuro Rengoku", foto: "https://i.pinimg.com/564x/7a/69/5d/7a695df9b2a5aab58d722dc60922f713.jpg",sayi:14, article: `` },
+            { nickname: "Kanae Kocho:", foto: "https://i.pinimg.com/564x/57/80/ce/5780cef82fcb13a8fd0b1d6384ea9036.jpg",sayi:15, article: `` }
         ]
 
     },
