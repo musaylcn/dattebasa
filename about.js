@@ -193,27 +193,43 @@ const about = [
         ]
 
     },
-    // {
-    //     name: "seraph of the end",
-    //     namee:"Seraph Of The End",
-    //     kapakfoto: "",
-    //     main:{
-    //         foto:"", article:""
-    //     },
-    //     karakterler: [
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "", sayi:1,article: "" },
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "", sayi:1,article: "" }
-    //     ]
+    {
+        name: "seraph of the end",
+        namee:"Seraph Of The End",
+        kapakfoto: "https://i.pinimg.com/originals/99/2e/d9/992ed950500c882e3e3480d11fa2d1c2.jpg",
+        main:{
+            foto:"https://i.pinimg.com/originals/3a/23/35/3a2335c052c042f0b45ef8330b0d2986.jpg", article:""
+        },
+        karakterler: [
+            { nickname: "Yuichiro Hyakuya", foto: "https://i.pinimg.com/564x/f2/42/8e/f2428e413538d5056f6ab82b365aed3c.jpg",sayi:1, article: "" },
+            { nickname: "Mikaela Hyakuya", foto: "https://i.pinimg.com/564x/b8/ba/18/b8ba181047958a0d3ed586ef60b01bf4.jpg",sayi:2, article: "" },
+            { nickname: "Guren Ichinose", foto: "https://i.pinimg.com/564x/d3/fc/a6/d3fca61ab58c49e334f9ee0681584f03.jpg",sayi:3, article: "" },
+            { nickname: "Shinoa Hiragi", foto: "https://i.pinimg.com/564x/e0/1e/00/e01e006a8f9e8d3c7b6cbd62e97746af.jpg",sayi:4, article: "" },
+            { nickname: "Krul Tepes", foto: "https://i.pinimg.com/564x/ed/c2/5f/edc25f6f598f102f2eff6e834788bd0f.jpg",sayi:5, article: "" },
+            { nickname: "Ferid Bathory", foto: "https://i.pinimg.com/564x/1a/c3/34/1ac33418c53d65de12bdda38e1ad55f1.jpg",sayi:6, article: "" },
+            { nickname: "Crowley Eusford", foto: "https://i.pinimg.com/564x/a9/e9/4e/a9e94e676aad8177a2877320967aa749.jpg",sayi:7, article: "" },
+            { nickname: "Shinya Hiragi", foto: "https://i.pinimg.com/564x/7f/2e/6a/7f2e6acfb4f309fa2cbfbe0dc1403e9c.jpg", sayi:8,article: "" },
+            { nickname: "Yoichi Saotome", foto: "https://i.pinimg.com/564x/e0/39/39/e039397301ebcb26fbc9c98ed300b29f.jpg",sayi:9, article: "" },
+            { nickname: "Mitsuba Sangu", foto: "https://i.pinimg.com/564x/9a/80/e5/9a80e5e99b5e3de4befd3620fb6b1606.jpg", sayi:10,article: "" },
+            
+            { nickname: "Kureto Hiragi", foto: "https://i.pinimg.com/564x/f9/b0/32/f9b032864eb3996c72d1d5ea82ebad92.jpg",sayi:11, article: "" },
+            { nickname: "Lacus Welt", foto: "https://i.pinimg.com/564x/ba/6c/71/ba6c7124084fc8a962d5eccf9e2a1e9d.jpg",sayi:12, article: "" },
+            { nickname: "René Simm", foto: "https://i.pinimg.com/564x/d8/e7/07/d8e707632ea8d594e3b01db44fb235ff.jpg",sayi:13, article: "" },
+            { nickname: "Norito Goshi", foto: "https://i.pinimg.com/564x/e1/dd/77/e1dd77e0780b8b2157b9577b54f4c15c.jpg",sayi:14, article: "" },
+            { nickname: "Sayuri Hanayori", foto: "https://i.pinimg.com/564x/ad/fe/38/adfe387adc86d4466272de6273cbe6d6.jpg",sayi:15, article: "" },
+            { nickname: "Shigure Yukimi", foto: "https://i.pinimg.com/564x/9b/d7/60/9bd76064ed6760600db5370f6a6d3d02.jpg",sayi:16, article: "" },
+            { nickname: "Mito Jujo", foto: "https://i.pinimg.com/564x/40/6a/63/406a6326fa2edfe6bda05ab48e047a38.jpg",sayi:17, article: "" },
+            { nickname: "Makoto Narumi", foto: "https://i.pinimg.com/564x/13/f0/df/13f0df211150b6a3543ecd3b9650e445.jpg", sayi:18,article: "" },
+            { nickname: "Seishiro Hiragi", foto: "https://i.pinimg.com/564x/e5/bb/f0/e5bbf0dcd7fa1210f49865d038680b08.jpg",sayi:19, article: "" },
+            { nickname: "Asuramaru", foto: "https://i.pinimg.com/564x/77/6f/aa/776faaa7085d5b3c5ae3272b895a8231.jpg", sayi:20,article: "" },
+            
+            { nickname: "Chess Belle", foto: "https://i.pinimg.com/564x/67/0d/18/670d18b0bc171fe922d7fc14f0400e44.jpg",sayi:21, article: "" },
+            { nickname: "Horn Skuld", foto: "https://i.pinimg.com/564x/a3/1a/41/a31a41c2ebcabfa20899f65f42f9fc33.jpg",sayi:22, article: "" }
+           
 
-    // },
+        ]
+
+    },
     // {
     //     name: "demon slayer",
     //     namee:"Demon Slayer",
