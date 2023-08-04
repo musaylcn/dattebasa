@@ -247,8 +247,8 @@ const about = [
             { nickname: "Sakonji Urokodaki", foto: "https://i.pinimg.com/564x/d7/29/66/d72966c469579e4b1f4ae02f487a5228.jpg", sayi: 10, article: `` },
             { nickname: "Yushiro", foto: "https://i.pinimg.com/564x/88/50/2c/88502cce5cafeef28143c6ee52e110b1.jpg", sayi: 11, article: `` },
             { nickname: "Tamayo", foto: "https://i.pinimg.com/564x/dc/89/6b/dc896bd577dd4d7171ac44fd72ae5807.jpg", sayi: 12, article: `` },
-            { nickname: "Murata", foto: "https://i.pinimg.com/564x/15/74/ba/1574bab2d70e9ea90ba891511b9856c3.jpg", sayi: 13, article: `` },
-            { nickname: "Shinjuro Rengoku", foto: "https://i.pinimg.com/564x/7a/69/5d/7a695df9b2a5aab58d722dc60922f713.jpg", sayi: 14, article: `` },
+            { nickname: "Muichirou Tokitou", foto: "https://i.pinimg.com/564x/55/24/1d/55241d41dead620d74dd4bfa70b2f3d5.jpg", sayi: 13, article: `` },
+            { nickname: "Yoruichi Tsugikuni", foto: "https://i.pinimg.com/564x/34/2d/7e/342d7e847d0f7d81dc22041db793c968.jpg", sayi: 14, article: `` },
             { nickname: "Kanae Kocho:", foto: "https://i.pinimg.com/564x/57/80/ce/5780cef82fcb13a8fd0b1d6384ea9036.jpg", sayi: 15, article: `` },
             { nickname: "Mitsuri Kanrajo", foto: "https://i.pinimg.com/564x/14/80/64/14806483183b61c2fa332a4476abbc04.jpg", sayi: 16, article: `` },
             { nickname: "Gyomei Himejima", foto: "https://i.pinimg.com/564x/b9/d0/24/b9d02498893e6676c54503fc5ae01c57.jpg", sayi: 17, article: `` },
@@ -260,8 +260,13 @@ const about = [
             { nickname: "Obanai Iguro", foto: "https://i.pinimg.com/564x/bf/c1/04/bfc104d501f9a828539a73e71196fb89.jpg", sayi: 23, article: `` },
             { nickname: "Kyogai", foto: "https://i.pinimg.com/564x/54/85/a1/5485a1d5e2fc732a5f372e2c64a052da.jpg", sayi: 24, article: `` },
             { nickname: "Enmu", foto: "https://i.pinimg.com/564x/a2/9b/8c/a29b8c72e765bb0abb498dd3c8ebf265.jpg", sayi: 25, article: `` },
-            { nickname: "Uzui Tengen", foto: "https://i.pinimg.com/564x/d4/c1/96/d4c1965587139e3138093c1054b9a15e.jpg", sayi: 26, article: `` }
-        ]
+            { nickname: "Uzui Tengen", foto: "https://i.pinimg.com/564x/d4/c1/96/d4c1965587139e3138093c1054b9a15e.jpg", sayi: 26, article: `` },
+            {nickname:"2-douma", foto:"https://i.pinimg.com/564x/8b/2a/c0/8b2ac03348bdddad4d231f02241343ee.jpg",sayi:27,article:``},
+            {nickname:"Hantengu",foto:"https://i.pinimg.com/564x/15/c4/4d/15c44d53818673673fb3bf1bb3361767.jpg",sayi:28,article:``},
+            {nickname:"Gyokko",foto:"https://i.pinimg.com/564x/94/34/18/9434183a7bc88fa60e6d493c845afc96.jpg",sayi:29,article:``},
+            {nickname:"Daki ve Gyutaro",foto:"https://i.pinimg.com/564x/6a/77/6c/6a776c7e9eeb43744ad7d2713f6f729c.jpg",sayi:30,article:``}
+
+                ]
 
     },
     // {
