@@ -175,7 +175,14 @@ const gallery = [
             { fotourl: "https://images4.alphacoders.com/122/1225155.png", numb: 1 },
             { fotourl: "https://avatars.mds.yandex.net/i?id=aecbe7d4c46409ed3c49e721599a4a2061ec62a1-9229079-images-thumbs&n=13", numb: 2 },
             { fotourl: "https://mobimg.b-cdn.net/v3/fetch/ac/acd802ef2a8dd60cb3b7ba731a7f8b06.jpeg?w=2000", numb: 3 },
-            { fotourl: "https://i.pinimg.com/originals/43/d9/75/43d9756c029955910d562de511ba9fa0.jpg", numb: 4 }]
+            { fotourl: "https://i.pinimg.com/originals/43/d9/75/43d9756c029955910d562de511ba9fa0.jpg", numb: 4 },
+            { fotourl: "https://i.pinimg.com/564x/d3/1f/62/d31f6248700addaed6c48e749e332905.jpg", numb: 5 },
+            { fotourl: "https://i.pinimg.com/564x/70/ba/58/70ba586e1a43a05ced4f0bfefb15034b.jpg", numb: 6 },
+            { fotourl: "https://i.pinimg.com/564x/ac/4f/11/ac4f11afc83ad86b3caebcccd1276896.jpg", numb: 7 },
+            { fotourl: "https://i.pinimg.com/564x/40/53/bc/4053bc42494a3aee91948e8dbffa39a8.jpg", numb: 8 },
+            { fotourl: "https://i.pinimg.com/736x/7f/e4/a8/7fe4a8e8e6e832111150eb69d538a3a1.jpg", numb: 9 },
+            { fotourl: "https://i.pinimg.com/736x/4c/76/67/4c7667c7e745074b3a16c7bc4988c95c.jpg", numb: 10 },
+        ]
 
     },
     {
