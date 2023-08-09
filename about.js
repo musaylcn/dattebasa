@@ -261,27 +261,68 @@ const about = [
         ]
 
     },
-    // {
-    //     name: "boruto",
-    //     namee:"Boruto",
-    //     kapakfoto: "",
-    //     main:{
-    //         foto:"", article:""
-    //     },
-    //     karakterler: [
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "", sayi:1,article: "" },
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "", sayi:1,article: "" }
-    //     ]
+    {
+        name: "boruto",
+        namee: "Boruto:Naruto Next Generations",
+        kapakfoto: "https://img.goodfon.com/wallpaper/original/d/56/boruto-naruto-next-generations-by-ferstra-anime-manga-japane.jpg",
+        main: {
+            foto: "https://wallpapers.com/images/hd/boruto-and-friends-oqkf6brlvxx45o4x.jpg", article: `"Boruto: Naruto Next Generations," Masashi Kishimoto tarafından yaratılan Naruto serisinin devamı olan bir anime ve manga serisidir. Boruto, orijinal Naruto serisinin ana karakterlerinin bir sonraki neslinin hikayesini anlatmaktadır. Hikaye, Naruto Uzumaki'nin oğlu Boruto Uzumaki'nin etrafında döner ve onun maceralarını konu alır.Boruto serisi, Konoha Köyü'nün gelişen teknolojisi ve ninja dünyasının değişen dinamikleri ile dikkat çeker. Ana karakter Boruto, Naruto'nun tanınmış bir ninja olmanın zorlukları ve baskıları altında büyümektedir. Babası gibi Hokage olma hedefi taşıyan Boruto, kendi özgün kimliğini bulmak ve ailesiyle olan ilişkilerini dengelemek zorundadır.Seride, Boruto'nun en yakın arkadaşları ve takım arkadaşları da yer almaktadır. Sarada Uchiha, Sasuke Uchiha ve Sakura Haruno'nun kızıdır ve güçlü bir shinobi olma hayali taşır. Mitsuki ise gizemli yeteneklere sahip yapay bir insan ve Boruto'nun diğer takım arkadaşıdır.Boruto serisi, yeni tehlikelerle dolu bir ninja dünyasında geçmektedir. Yeni düşmanlar, komplolar ve gizemlerle karşılaşılırken, Boruto ve arkadaşları hem kişisel gelişimlerini hem de ninja becerilerini sınarlar. Ayrıca, orijinal Naruto serisindeki bazı karakterler de hikayede yer alır ve Boruto'nun maceralarını destekler.`
+        },
+        karakterler: [
+            { nickname: "Boruto Uzumaki", foto: "https://i.pinimg.com/564x/15/00/d2/1500d20be832ca7387d7da459e1215fd.jpg", sayi: 1, article: "" },
+            { nickname: "Sarada Uchiha", foto: "https://i.pinimg.com/564x/4f/80/b1/4f80b172211a03faa24c413daca63782.jpg", sayi: 2, article: "" },
+            { nickname: "Mitsuki", foto: "https://i.pinimg.com/564x/a0/dd/65/a0dd6541983318227635d7c4a0bff41b.jpg", sayi: 3, article: "" },
+            { nickname: "Kawaki", foto: "https://i.pinimg.com/564x/96/b2/f9/96b2f97ea70c8e66509b167b8b65cf5d.jpg", sayi: 4, article: "" },
+            { nickname: "Naruto Uzumaki", foto: "https://i.pinimg.com/564x/c8/85/2e/c8852eb71545f12ca28526053a020982.jpg", sayi: 5, article: "" },
+            { nickname: "Shikamaru Nara", foto: "https://i.pinimg.com/564x/64/49/77/644977fc8edd6e898d336f9528617e13.jpg", sayi: 6, article: "" },
+            { nickname: "Sasuke Uchiha", foto: "https://i.pinimg.com/564x/a4/06/f9/a406f9e5029e1239cebfe60c7a0141af.jpg", sayi: 7, article: "" },
+            { nickname: "Shikadai Nara", foto: "https://i.pinimg.com/564x/db/e9/4e/dbe94efb95cb9bc9e061468048093cf6.jpg", sayi: 8, article: "" },
+            { nickname: "Inojin Yamanaka", foto: "https://i.pinimg.com/564x/b0/38/92/b03892774c25797cfed10a5623c71663.jpg", sayi: 9, article: "" },
+            { nickname: "Chōchō Akimichi", foto: "https://i.pinimg.com/564x/88/66/e0/8866e073db8d2298d3f511bc2f8669fa.jpg", sayi: 10, article: "" },
+            { nickname: "Denki Kaminarimon", foto: "https://i.pinimg.com/564x/2e/4f/49/2e4f49fbb8bfd630a12fe18a00e38da3.jpg", sayi: 25, article: "" },
+            { nickname: "Konohamaru Sarutobi", foto: "https://i.pinimg.com/564x/67/38/3f/67383fdb12d11771ba40e9d20449a8ba.jpg", sayi: 11, article: "" },
+            { nickname: "Himawari Uzumaki", foto: "https://i.pinimg.com/564x/f8/9e/34/f89e34e54c98f9e2ebbb3105a8efff59.jpg", sayi: 12, article: "" },
+            { nickname: "Metal Lee", foto: "https://i.pinimg.com/736x/e2/47/48/e24748b46940897d69b8ec75ec330638.jpg", sayi: 13, article: "" },
+            { nickname: "Sumire Kakei", foto: "https://i.pinimg.com/564x/92/ef/47/92ef47d081235c27dacd5b7a93434c92.jpg", sayi: 1, article: `` },
+            { nickname: "Temari Nara", foto: "https://i.pinimg.com/564x/a3/00/ce/a300ce2f5fad60d30a66b0b123fd21d4.jpg", sayi: 1, article: `` },
+            { nickname: "Hinata Uzumaki", foto: "https://i.pinimg.com/564x/be/8b/32/be8b32be24c492ca0d08cc652255e363.jpg", sayi: 14, article: "" },
+            { nickname: "Sakura Uchiha", foto: "https://i.pinimg.com/564x/e6/1d/1f/e61d1f4ed244fe384e863d45a2569e55.jpg", sayi: 15, article: "" },
+            { nickname: "Ino Yamanaka", foto: "https://i.pinimg.com/564x/af/78/57/af78571e087da82b6ceb43c754693e57.jpg", sayi: 18, article: "" },
+            { nickname: "Hanabi Hyūga", foto: "https://i.pinimg.com/564x/f6/7b/4d/f67b4d92e2d7274dc4bad04c78450c52.jpg", sayi: 40, article: "" },
+            { nickname: "Shino Aburame", foto: "https://i.pinimg.com/564x/ba/fe/db/bafedbe8d02e5594f5bd9be144489fae.jpg", sayi: 16, article: "" },
+            { nickname: "Kakashi Hatake", foto: "https://i.pinimg.com/564x/85/a9/fc/85a9fc80964a426614820b3748220a9e.jpg", sayi: 17, article: "" },
+            { nickname: "Iruka Umino", foto: "https://i.pinimg.com/564x/73/ff/9b/73ff9b34ff14556044a4bb558088e0af.jpg", sayi: 34, article: "" },
+            { nickname: "Kagura Karatachi", foto: "https://i.pinimg.com/564x/31/90/01/3190010cfcfa9f3515d357ff094cb9b5.jpg", sayi: 19, article: "" },
+            { nickname: "Chōjūrō", foto: "https://i.pinimg.com/564x/05/f0/b7/05f0b77aa35e101f1bc597c726db81a3.jpg", sayi: 20, article: "" },
+            { nickname: "Moegi", foto: "https://i.pinimg.com/564x/a8/83/4d/a8834dec2c85625238319a494de030ae.jpg", sayi: 21, article: "" },
+            { nickname: "Choji Akimichi", foto: "https://i.pinimg.com/564x/3a/f8/f2/3af8f2b5d6123276fb087679b29fdb5f.jpg", sayi: 22, article: "" },
+            { nickname: "Kurotsuchi", foto: "https://i.pinimg.com/564x/fc/1b/eb/fc1bebc6f128c21e8bdd705e757a6f0f.jpg", sayi: 23, article: "" },
+            { nickname: "Toono Katasuke", foto: "https://i.pinimg.com/564x/6a/f6/72/6af672e35c3288eefcd784df0e0a0c86.jpg", sayi: 1, article: `` },
+            { nickname: "Amado", foto: "https://i.pinimg.com/564x/50/74/53/507453bd5c0ed26cb8b892fcab8f965f.jpg", sayi: 24, article: "" },
+            { nickname: "Jigen", foto: "https://i.pinimg.com/564x/f3/21/9f/f3219f45f58b3cdf4ee9d59a9c54ef10.jpg", sayi: 26, article: "" },
+            { nickname: "Kashin Koji", foto: "https://i.pinimg.com/564x/2e/0c/44/2e0c44a01fdbc199f0b64c801349ac8d.jpg", sayi: 27, article: "" },
+            { nickname: "Code", foto: "https://i.pinimg.com/564x/89/0d/43/890d43182aa9f552faef026f91c84441.jpg", sayi: 28, article: "" },
+            { nickname: "Shinki", foto: "https://i.pinimg.com/564x/44/ab/6c/44ab6c4650b2f1650bbbfced033bfd97.jpg", sayi: 29, article: "" },
+            { nickname: "Delta", foto: "https://i.pinimg.com/564x/18/29/68/182968690b8048b72c3f4fe5171ba166.jpg", sayi: 30, article: "" },
+            { nickname: "Momoshiki Ōtsutsuki", foto: "https://i.pinimg.com/564x/ad/bf/d5/adbfd5bd0313a72eb3df3ae2acf5bf89.jpg", sayi: 31, article: "" },
+            { nickname: "Kinshiki Ōtsutsuki", foto: "https://i.pinimg.com/564x/c4/98/ca/c498ca75ea983e379bca75d56a06fea4.jpg", sayi: 1, article: `` },
+            { nickname: "Isshiki Ōtsutsuki", foto: "https://i.pinimg.com/564x/85/1f/46/851f467cabc525ecdef41dae5ca20ae3.jpg", sayi: 36, article: "" },
+            { nickname: "Boro", foto: "https://i.pinimg.com/564x/aa/41/4d/aa414d57b4cea9c39af26651a3ab51ab.jpg", sayi: 39, article: "" },
+            { nickname: "Ao", foto: "https://i.pinimg.com/564x/2a/f6/0d/2af60d16daaad30ff9957c196f043aa5.jpg", sayi: 37, article: "" },
+            { nickname: "Shin Uchiha", foto: "https://i.pinimg.com/564x/56/d2/13/56d213036d6b402f1375744a9eaf6691.jpg", sayi: 38, article: "" },
+            { nickname: "Urashiki Ōtsutsuki", foto: "https://i.pinimg.com/564x/fe/5b/3b/fe5b3b99cc6d0133bb263578772f2071.jpg", sayi: 1, article: `` },
+            { nickname: "Deepa", foto: "https://i.pinimg.com/564x/a4/90/dd/a490dd8879c051fe53111ba92ed63cfb.jpg", sayi: 1, article: `` },
+            { nickname: "Eida", foto: "https://i.pinimg.com/564x/88/bb/ad/88bbadac7907064d80feaa01b3e02690.jpg", sayi: 1, article: `` },
+            { nickname: "Daemon", foto: "https://i.pinimg.com/564x/6b/b2/b5/6bb2b5080dfbe29520d3a3d212be30ac.jpg", sayi: 1, article: `` },
+            { nickname: "Kaka Hana", foto: "https://i.pinimg.com/564x/22/24/6b/22246ba41b540ef1dfed8736de95b1ee.jpg", sayi: 1, article: `` },
+            { nickname: "Ikada Funato", foto: "https://i.pinimg.com/564x/68/b3/29/68b329b58731a294eede20237393003f.jpg", sayi: 1, article: `` },
+            { nickname: "Zansul", foto: "https://i.pinimg.com/564x/a1/3d/50/a13d50d3d5debca1a546f16fbe55c1e1.jpg", sayi: 37, article: "" },
 
-    // },
+
+
+        ]
+
+    },
     // {
     //     name: "91 days",
     //     namee:"91 Days",
