@@ -22,7 +22,7 @@ const gallery = [
     },
     {
         name: 'death note',
-        url: 'https://assets.dragoart.com/images/7548_501/how-to-draw-death-note_5e4c8c59476df7.36051531_32053_3_3.jpg',
+        url: 'https://cdn.wallpapersafari.com/29/0/U1pAmy.jpg',
         fotoabout: [
             { fotourl: "https://mobimg.b-cdn.net/v3/fetch/2e/2ed9271c459c707f1005017eabd04c23.jpeg", numb: 1 },
             { fotourl: "https://aniyuki.com/wp-content/uploads/2021/12/l-death-note-aniyuki-2.jpg", numb: 2 },
