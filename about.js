@@ -4,7 +4,7 @@ const about = [
         namee: "Naruto : Shippuden",
         kapakfoto: "https://r4.wallpaperflare.com/wallpaper/93/89/108/anime-japanese-art-uzumaki-naruto-naruto-shippuuden-wallpaper-d20122d0ad06de7bfaa8026580980942.jpg",
         main: {
-            foto: "https://wallpapers.com/images/featured-full/cool-naruto-jycvpon5xnv27t7m.jpg", article: ` "Naruto Shippuden," "Naruto" serisinin devamı niteliğinde olan bir anime ve manga serisidir. İlk seri olan "Naruto," Naruto Uzumaki'nin gençlik yıllarını ve arkadaşlarıyla beraber büyüme sürecini anlatırken, "Naruto Shippuden" ise Naruto'nun yetişkinlik dönemini ve daha ciddi, karmaşık olayları ele alır."Naruto Shippuden," Naruto'nun 3 yıl süren yoğun bir antrenmandan sonra geri dönmesiyle başlar. Artık daha güçlü ve olgun bir ninja olan Naruto, amacı eski öğretmeni Kakashi Hatake liderliğindeki Takım 7 ile beraber Sasuke Uchiha'yı geri getirmek ve kötü yollara sapmış eski arkadaşını kendi köyüne geri döndürmektir.Ancak zaman içinde olaylar, Sasuke'yu kurtarma amacını aşan bir boyut kazanır. Büyük bir tehdit olarak gördüğümüz Akatsuki adlı suç örgütü, Bijuu adı verilen efsanevi canavarları ele geçirerek dünyayı kaosa sürüklemeye çalışır. Naruto ve arkadaşları, dünyayı korumak için güçlerini birleştirir ve Akatsuki'ye karşı mücadele eder.Bu süreçte Naruto, geçmişindeki sırlarla yüzleşir, kendi gücünü ve özünü anlamak için bir iç yolculuğuna çıkar ve insanlar arasında gerçek bir bağ kurarak hayatlarını değiştirir. Sasuke'nin değişimi ve ittifakların kurulması, seriyi daha da derinleştirir ve karakterlerin gelişimleri büyük önem taşır."Naruto Shippuden," dostluk, cesaret, umut, sadakat ve affetmenin güçlü temalarını işlerken, muhteşem dövüş sahneleri ve duygusal anlarla dolu zengin bir hikaye sunar. Seri, Naruto Uzumaki'nin ve diğer karakterlerin yükselişini ve olgunlaşmasını izlemek için eşsiz bir fırsat sunar.`
+            foto: "https://i.pinimg.com/564x/d0/e7/23/d0e723816f9b848e51e2f0f816dfa7ee.jpg", article: ` "Naruto Shippuden," "Naruto" serisinin devamı niteliğinde olan bir anime ve manga serisidir. İlk seri olan "Naruto," Naruto Uzumaki'nin gençlik yıllarını ve arkadaşlarıyla beraber büyüme sürecini anlatırken, "Naruto Shippuden" ise Naruto'nun yetişkinlik dönemini ve daha ciddi, karmaşık olayları ele alır."Naruto Shippuden," Naruto'nun 3 yıl süren yoğun bir antrenmandan sonra geri dönmesiyle başlar. Artık daha güçlü ve olgun bir ninja olan Naruto, amacı eski öğretmeni Kakashi Hatake liderliğindeki Takım 7 ile beraber Sasuke Uchiha'yı geri getirmek ve kötü yollara sapmış eski arkadaşını kendi köyüne geri döndürmektir.Ancak zaman içinde olaylar, Sasuke'yu kurtarma amacını aşan bir boyut kazanır. Büyük bir tehdit olarak gördüğümüz Akatsuki adlı suç örgütü, Bijuu adı verilen efsanevi canavarları ele geçirerek dünyayı kaosa sürüklemeye çalışır. Naruto ve arkadaşları, dünyayı korumak için güçlerini birleştirir ve Akatsuki'ye karşı mücadele eder.Bu süreçte Naruto, geçmişindeki sırlarla yüzleşir, kendi gücünü ve özünü anlamak için bir iç yolculuğuna çıkar ve insanlar arasında gerçek bir bağ kurarak hayatlarını değiştirir. Sasuke'nin değişimi ve ittifakların kurulması, seriyi daha da derinleştirir ve karakterlerin gelişimleri büyük önem taşır."Naruto Shippuden," dostluk, cesaret, umut, sadakat ve affetmenin güçlü temalarını işlerken, muhteşem dövüş sahneleri ve duygusal anlarla dolu zengin bir hikaye sunar. Seri, Naruto Uzumaki'nin ve diğer karakterlerin yükselişini ve olgunlaşmasını izlemek için eşsiz bir fırsat sunar.`
         },
         karakterler: [
 
@@ -46,7 +46,7 @@ const about = [
         namee: "Death Note",
         kapakfoto: "https://w.forfun.com/fetch/b4/b4e8e934c8ad3a9f718a51c06a5f3eac.jpeg",
         main: {
-            foto: "https://m.media-amazon.com/images/S/pv-target-images/933683350d60c08681f6556ee9b7a7f7bb78da2f04654ead4cee4fe4b03e5226._UR1920,1080_.jpg", article: `"Death Note", gerilim dolu bir anime serisidir ve zekice hazırlanmış bir suç ve dedektiflik hikayesini anlatır. Bu popüler anime, Tsugumi Ohba tarafından yazılan aynı adlı mangadan uyarlanmıştır.Hikaye, ana karakter Light Yagami'nin dünyayı suçlulardan arındırmak amacıyla bir ölüm defteri olan "Death Note"u bulmasıyla başlar. Death Note'u kullanarak insanları öldürebilen Light, kendini adalete hizmet eden bir tanrı olarak görmeye başlar. Kendisini "Kira" olarak tanımlar ve suçluları cezalandırmak için sistematik bir plan yapar.Ancak, Kira'nın eylemleri dikkat çeker ve uluslararası bir dedektif olan L, onun peşine düşer. L, Light'ın kimliğini tespit etmek ve onu durdurmak için çeşitli entelektüel oyunlar oynar. Light ve L arasında zekice tasarlanmış bir kedi fare oyunu başlar ve izleyiciler, her ikisinin de birbirlerini atlatmaya çalışırken adım adım artan gerilimi deneyimler.Anime, izleyicileri şaşırtan ve düşündüren birçok dönüm noktasına sahiptir. Zekice kurgulanmış senaryosu, karakterler arasındaki çekişmeler ve sürpriz gelişmeler, izleyicileri merak içinde tutar. Ayrıca, Death Note'u kullanma yeteneğine sahip olan diğer shinigamilerin dünyasına da bir pencere açar."Death Note", karmaşık karakterleri, derinlemesine düşündüren konuları ve gerilim dolu atmosferiyle ünlüdür. Kısacası, suç, ahlak ve güç üzerine kurulu bu unutulmaz anime serisi, izleyicilerini koltuklarına çiviler ve onları sorgulama dolu bir yolculuğa çıkarır`
+            foto: "https://i.pinimg.com/564x/cc/a3/a1/cca3a16413468689a3d31737a7a6d23f.jpg", article: `"Death Note", gerilim dolu bir anime serisidir ve zekice hazırlanmış bir suç ve dedektiflik hikayesini anlatır. Bu popüler anime, Tsugumi Ohba tarafından yazılan aynı adlı mangadan uyarlanmıştır.Hikaye, ana karakter Light Yagami'nin dünyayı suçlulardan arındırmak amacıyla bir ölüm defteri olan "Death Note"u bulmasıyla başlar. Death Note'u kullanarak insanları öldürebilen Light, kendini adalete hizmet eden bir tanrı olarak görmeye başlar. Kendisini "Kira" olarak tanımlar ve suçluları cezalandırmak için sistematik bir plan yapar.Ancak, Kira'nın eylemleri dikkat çeker ve uluslararası bir dedektif olan L, onun peşine düşer. L, Light'ın kimliğini tespit etmek ve onu durdurmak için çeşitli entelektüel oyunlar oynar. Light ve L arasında zekice tasarlanmış bir kedi fare oyunu başlar ve izleyiciler, her ikisinin de birbirlerini atlatmaya çalışırken adım adım artan gerilimi deneyimler.Anime, izleyicileri şaşırtan ve düşündüren birçok dönüm noktasına sahiptir. Zekice kurgulanmış senaryosu, karakterler arasındaki çekişmeler ve sürpriz gelişmeler, izleyicileri merak içinde tutar. Ayrıca, Death Note'u kullanma yeteneğine sahip olan diğer shinigamilerin dünyasına da bir pencere açar."Death Note", karmaşık karakterleri, derinlemesine düşündüren konuları ve gerilim dolu atmosferiyle ünlüdür. Kısacası, suç, ahlak ve güç üzerine kurulu bu unutulmaz anime serisi, izleyicilerini koltuklarına çiviler ve onları sorgulama dolu bir yolculuğa çıkarır`
         },
         karakterler: [
             { nickname: "Light Yagami (Kira)", foto: "https://i.pinimg.com/originals/8c/55/99/8c559991cb185f593b2414e14bb7d580.jpg", sayi: 1, article: `Light Yagami, dahi bir lise öğrencisidir. Bir gün, ölüm tanrısı Ryuk tarafından düşmüş olan bir Defter olan Death Note'u bulur. Death Note'u kullanarak, deftere bir kişinin adını yazan kişi, o kişinin nasıl öleceğini belirleyebilir. Light, insanlığı kötülüklerden arındırmak amacıyla Death Note'u kullanmaya karar verir.Light, Death Note'u kullanarak suçluları ve kriminalleri öldürmeye başlar ve bu eylemlerle kendini "Kira" olarak tanımlayan bir tanrı gibi görür. Ancak, polis departmanı ve gizli dedektif L ile karşı karşıya gelir. L, Kira'yı yakalamak için Light'ın peşine düşer ve zekasıyla ün salmış bir dedektiftir.Light, Kira olarak gizli bir şekilde hareket ederken, L ile aralarında zeka oyunları başlar. İkisi de birbirlerini alt etmek için akıl oyunlarına girişirler ve zamanla büyük bir çatışmaya sürüklenirler.Light, zeki, kararlı ve manipülatif bir karakterdir. Death Note'u kullanarak insanları kontrol etme yeteneğine sahip olması onu daha da güçlü kılar. Ancak, bu güçle birlikte gelen sorumlulukları ve sonuçları da beraberinde getirir.Light'ın karakteri, serinin ilerleyen bölümlerinde karmaşıklaşır ve kendini korumak için giderek daha karmaşık planlar yapmaya başlar. Kendi adalet anlayışını takip ederken, zamanla mantık ve insanlık arasındaki çelişkilerle yüzleşmek zorunda kalır.` },
@@ -76,7 +76,7 @@ const about = [
         namee: "One Piece",
         kapakfoto: "https://cdn.suwalls.com/wallpapers/anime/one-piece-5357-2560x1600.jpg",
         main: {
-            foto: "https://w.forfun.com/fetch/65/65f6ef8cfbf7e982b9bd30665d3282a2.jpeg", article: `Hikaye, Monkey D. Luffy adlı genç bir korsanın yolculuğunu konu alır. Luffy, Gomu Gomu no Mi adlı bir şeytan meyvesi yiyerek kauçuk gücüne sahip olmuştur. Korsan Kral olma hayaliyle donanmış olan Luffy, Straw Hat Pirates adlı bir korsan ekibi kurar ve One Piece adı verilen efsanevi hazineyi bulmak için Grand Line'a yolculuk eder.Luffy'nin yanında, her biri kendi güçlü yetenekleri olan ve eşsiz kişiliklere sahip takım arkadaşları bulunur. Birlikte, çeşitli adaları keşfederler, tehlikeli düşmanlarla mücadele ederler ve sıra dışı maceralara atılırlar. Hikaye boyunca, güçlü rakiplerle karşılaşırlar, arkadaşlık bağlarını güçlendirirler ve korsan dünyasındaki sırları açığa çıkarmaya çalışırlar.One Piece, nefes kesici aksiyon sahneleri, duygusal anlar, mizah ve heyecan dolu savaşlarıyla dolu bir anime serisidir. Eşsiz karakter tasarımları, renkli dünya atmosferi ve etkileyici müzikler, izleyicilere unutulmaz bir deneyim sunar.Ayrıca, One Piece'in derinlikli bir hikaye anlatımı ve temaları da bulunur. Arkadaşlık, adalet, cesaret, aile değerleri ve hayaller gibi kavramlar serinin temelinde yer alır. İzleyicilere, büyük hayallerin peşinde koşma, zorluklarla mücadele etme ve inançlarını koruma konusunda ilham verir.`
+            foto: "https://i.pinimg.com/736x/9d/84/df/9d84df12cd72c6f3e10b674783b6284f.jpg", article: `Hikaye, Monkey D. Luffy adlı genç bir korsanın yolculuğunu konu alır. Luffy, Gomu Gomu no Mi adlı bir şeytan meyvesi yiyerek kauçuk gücüne sahip olmuştur. Korsan Kral olma hayaliyle donanmış olan Luffy, Straw Hat Pirates adlı bir korsan ekibi kurar ve One Piece adı verilen efsanevi hazineyi bulmak için Grand Line'a yolculuk eder.Luffy'nin yanında, her biri kendi güçlü yetenekleri olan ve eşsiz kişiliklere sahip takım arkadaşları bulunur. Birlikte, çeşitli adaları keşfederler, tehlikeli düşmanlarla mücadele ederler ve sıra dışı maceralara atılırlar. Hikaye boyunca, güçlü rakiplerle karşılaşırlar, arkadaşlık bağlarını güçlendirirler ve korsan dünyasındaki sırları açığa çıkarmaya çalışırlar.One Piece, nefes kesici aksiyon sahneleri, duygusal anlar, mizah ve heyecan dolu savaşlarıyla dolu bir anime serisidir. Eşsiz karakter tasarımları, renkli dünya atmosferi ve etkileyici müzikler, izleyicilere unutulmaz bir deneyim sunar.Ayrıca, One Piece'in derinlikli bir hikaye anlatımı ve temaları da bulunur. Arkadaşlık, adalet, cesaret, aile değerleri ve hayaller gibi kavramlar serinin temelinde yer alır. İzleyicilere, büyük hayallerin peşinde koşma, zorluklarla mücadele etme ve inançlarını koruma konusunda ilham verir.`
         },
         karakterler: [
             { nickname: "Monkey D. Luffy", foto: "https://kartinkin.net/uploads/posts/2022-03/1646335263_17-kartinkin-net-p-luffi-kartinki-18.jpg", sayi: 1, article: `Monkey D. Luffy, One Piece serisinin başkarakteridir. Luffy, kauçuk gücüne sahip genç bir korsandır ve hiperaktif, neşeli bir kişiliğe sahiptir. Korsan Kral olma hayaliyle yanıp tutuşan Luffy, Grand Line adı verilen tehlikeli ve gizemli denizlere yolculuk eder.Luffy'nin belirgin özelliği, Gomu Gomu no Mi adlı bir şeytan meyvesini yemesi sonucu vücudunun kauçuk gibi elastik hale gelmesidir. Bu güç sayesinde, darbeleri emebilir, esneyebilir ve hatta uzun mesafeleri atlayabilir. Ayrıca, Luffy'nin cesareti ve savaş becerileri de olağanüstüdür.Luffy'nin en büyük motivasyonu, One Piece adı verilen efsanevi hazineyi bulmak ve Korsan Kral olmaktır. Bu hedefi için güçlü bir korsan ekibi olan Straw Hat Pirates'ı kurar. Luffy, sadık takım arkadaşlarıyla birlikte, çeşitli adaları keşfeder, düşmanlara meydan okur ve çeşitli maceralara atılır.Luffy'nin kişiliği, her zaman adaletin ve arkadaşlığın yanında durma arzusunu yansıtır. Kendi hayatını tehlikeye atacak kadar dostlarını korur ve onlar için her şeyi yapar. Cesur, inatçı ve neşeli doğası, etrafındakilere ilham verir ve onu izleyenleri büyüler.` },
@@ -111,7 +111,7 @@ const about = [
         namee: "Sailor Moon",
         kapakfoto: "https://sneg.top/uploads/posts/2023-04/1680423879_sneg-top-p-sailor-moon-zastavka-pinterest-9.jpg",
         main: {
-            foto: "https://w.forfun.com/fetch/38/381319979b6432d5025f875d42c75c25.jpeg", article: `Hikaye, Tokyo'da yaşayan 14 yaşındaki Usagi Tsukino'nun sıradan bir lise öğrencisi olarak tanıtılıyor. Bir gün, Luna adında bir kedi, Usagi'nin karşısına çıkıp gerçekte bir Sailor Senshi olduğunu ve dünyayı kötü güçlere karşı koruması gerektiğini açıklar. Usagi, bunun üzerine kedi şeklini alarak Sailor Moon olur ve Sailor Senshi'lerin lideri olarak öne çıkar.Sailor Moon, diğer Sailor Senshi'lerle tanışır ve onlarla birlikte arkadaşlık, cesaret ve fedakarlık gibi değerleri keşfeder. Her biri farklı elementlerle bağlantılı olan Sailor Senshi'ler, Sailor Mercury'nin su, Sailor Mars'ın ateş, Sailor Jupiter'ın yıldırım ve Sailor Venus'un güneş güçleriyle donanmıştır. Bir araya gelerek, dünyayı tehdit eden kötü güçlere karşı savaşırlar.Seride, zamanla düşmanlar ve tehditler de gelişir. Ay Krallığı'ndan gelen kötü Karanlık Krallığı ve onun şeytan generali olan Queen Beryl, Sailor Senshi'lerin karşısına çıkar. Usagi'nin aynı zamanda gizemli bir aşık olan Tuxedo Mask ile de romantik bir ilişkisi vardır, ancak Tuxedo Mask'in kimliği başlangıçta gizemini korur.Sailor Moon, hem komedi hem de dramatik unsurları içeren bir anime olup, duygusal sahneler ve savaşlarla dolu bir hikayeye sahiptir. Ayrıca, dostluk ve dayanışma gibi güçlü temaları işlerken, karakterlerin içsel gelişimi ve olgunlaşması da dikkat çeker.Anime, özellikle genç kızların ve kadınların güçlü kadın karakterlerle bağ kurmalarını sağlamış ve onlara cesaret ve özgüven aşılamıştır. Aynı zamanda popüler kültüre olan etkisi, bugün bile birçok neslin hatırladığı ve sevdiği bir klasik olmasını sağlamıştır.`
+            foto: "https://i.pinimg.com/564x/a1/52/74/a15274e7bf7e01bbf007bb844af034f1.jpg", article: `Hikaye, Tokyo'da yaşayan 14 yaşındaki Usagi Tsukino'nun sıradan bir lise öğrencisi olarak tanıtılıyor. Bir gün, Luna adında bir kedi, Usagi'nin karşısına çıkıp gerçekte bir Sailor Senshi olduğunu ve dünyayı kötü güçlere karşı koruması gerektiğini açıklar. Usagi, bunun üzerine kedi şeklini alarak Sailor Moon olur ve Sailor Senshi'lerin lideri olarak öne çıkar.Sailor Moon, diğer Sailor Senshi'lerle tanışır ve onlarla birlikte arkadaşlık, cesaret ve fedakarlık gibi değerleri keşfeder. Her biri farklı elementlerle bağlantılı olan Sailor Senshi'ler, Sailor Mercury'nin su, Sailor Mars'ın ateş, Sailor Jupiter'ın yıldırım ve Sailor Venus'un güneş güçleriyle donanmıştır. Bir araya gelerek, dünyayı tehdit eden kötü güçlere karşı savaşırlar.Seride, zamanla düşmanlar ve tehditler de gelişir. Ay Krallığı'ndan gelen kötü Karanlık Krallığı ve onun şeytan generali olan Queen Beryl, Sailor Senshi'lerin karşısına çıkar. Usagi'nin aynı zamanda gizemli bir aşık olan Tuxedo Mask ile de romantik bir ilişkisi vardır, ancak Tuxedo Mask'in kimliği başlangıçta gizemini korur.Sailor Moon, hem komedi hem de dramatik unsurları içeren bir anime olup, duygusal sahneler ve savaşlarla dolu bir hikayeye sahiptir. Ayrıca, dostluk ve dayanışma gibi güçlü temaları işlerken, karakterlerin içsel gelişimi ve olgunlaşması da dikkat çeker.Anime, özellikle genç kızların ve kadınların güçlü kadın karakterlerle bağ kurmalarını sağlamış ve onlara cesaret ve özgüven aşılamıştır. Aynı zamanda popüler kültüre olan etkisi, bugün bile birçok neslin hatırladığı ve sevdiği bir klasik olmasını sağlamıştır.`
         },
         karakterler: [
             { nickname: "Usagi Tsukino", foto: "https://i.pinimg.com/564x/06/0c/f3/060cf3c5ec7d186bbb6835f6164abcba.jpg", sayi: 1, article: `Usagi Tsukino, "Sailor Moon" serisinin ana karakteri ve başrol kahramanıdır. Genellikle güleryüzlü, cana yakın ve sevgi dolu bir kişiliğe sahip olan Usagi, aynı zamanda sakar, duygusal ve bazen de tembel olabilen bir lise öğrencisidir. Usagi'nin yaşamı, bir gün kendi hikayesini değiştirecek olağanüstü bir olayla sarsılır.Bir gün, Luna adında siyah bir kediyle karşılaşır. Bu sihirli kedi, onun gerçekte Ay Krallığı'ndan gelen bir Sailor Senshi (savaşçı) olduğunu açıklar. Ay'dan gelen güçlerle donatılmış olan Usagi, Sailor Moon kostümünü giyerek dünyayı kötü güçlere karşı korumak ve Ay Krallığı'nı savunmak üzere seçilmiştir.Sailor Moon olarak, diğer dört Sailor Senshi ile bir araya gelir: Sailor Mercury (Ami Mizuno), Sailor Mars (Rei Hino), Sailor Jupiter (Makoto Kino) ve Sailor Venus (Minako Aino). Birlikte, dünyayı tehdit eden kötü güçlere karşı savaşmak ve masumları korumak için mücadele ederler.Usagi'nin karakter gelişimi, hikayenin temel unsurlarından biridir. Başlangıçta, korkak ve güçsüz gibi görünen Usagi, zamanla cesur bir lider haline gelir ve arkadaşları için fedakarlık yapar. Dostluk, sevgi ve umut gibi değerlere olan inancı, onu gerçek bir kahraman yapar ve arkadaşları arasında güçlü bir bağ kurmasını sağlar.Aynı zamanda Usagi, normal bir genç kız olarak da hayatın günlük zorluklarıyla karşı karşıyadır. Okul, aile, romantik ilişkiler ve kişisel gelişimiyle uğraşırken, kahraman kimliği ile normal yaşantısı arasında denge sağlamak zorundadır.` },
@@ -133,7 +133,7 @@ const about = [
         namee: "Attack On Titan",
         kapakfoto: "https://4.bp.blogspot.com/-u9zTIwwljcQ/XSRKIKzXTkI/AAAAAAAAAjs/MUt-XKx1DNE4LIAWPgnunoUxUZc51JUgACKgBGAs/w2560-h1600-c/colossal-titan-attack-titan-attack-on-titan-uhdpaper.com-4K-177.jpg",
         main: {
-            foto: "https://c.wallhere.com/photos/9d/9e/attack_on_titan_eren_jaeger_shingeki_no_kyojin-571712.jpg!d", article: `"Attack on Titan" (Shingeki no Kyojin), Hajime Isayama tarafından yaratılan popüler bir Japon manga serisinden uyarlanan aksiyon, dram ve kurgusal bir anime serisidir. Hikayesi, devasa yaratıklar olan "Titanlar"ın ortaya çıkması sonrası sıkıştırılmış bir insan topluluğunun mücadelesini ele alır.Hikaye, Eren Yeager, Mikasa Ackerman ve Armin Arlert adlı üç ana karakter etrafında gelişir. Eren ve arkadaşları, surlarla çevrili devasa bir şehir olan "Mücevher Duvarları" içinde yaşayan insanlardır. Ancak bir gün, bir Colossal Titan ve Armored Titan adlı dev Titanlar, surları yıkarak içeri sızarlar ve panik yaratırlar. Eren, annesini kaybeder ve bu olay onun hayatını sonsuza dek değiştirir.Eren, Titanlar'a karşı intikam almak ve insanlığın özgürlüğünü geri kazanmak için ölümcül bir savaşçı olmaya karar verir. O ve arkadaşları, "Scout Taburu" olarak bilinen cesur savaşçılara katılırlar. Bu tabur, Titanların doğasını ve kökenini anlamak, insanlığı korumak ve surların dışına keşfe çıkmak amacıyla oluşturulmuştur.Hikaye, surların dışında keşfedilen sırlar, insanlar ve Titanlar arasındaki karmaşık ilişkileri, güç mücadelelerini ve trajik olayları anlatır. Eren ve ekibi, sadece Titanlarla değil, aynı zamanda insanların arasındaki entrikalarla da savaşmak zorunda kalırlar. Ayrıca, Eren'in özel bir yeteneği olduğu keşfedilir: Titanlara dönüşme yeteneği."Attack on Titan," sürükleyici hikayesi, gizemli dünya yapısı, karakterlerin derinliği ve unutulmaz dövüş sahneleri ile tanınır. İnsanlığın hayatta kalma mücadelesi, hainlikler, sadakat ve kimlik arayışı gibi temaları ele alarak izleyicilere etkileyici bir deneyim suna`
+            foto: "https://i.pinimg.com/564x/eb/ca/1d/ebca1dae323426eecbc17299291e7cc4.jpg", article: `"Attack on Titan" (Shingeki no Kyojin), Hajime Isayama tarafından yaratılan popüler bir Japon manga serisinden uyarlanan aksiyon, dram ve kurgusal bir anime serisidir. Hikayesi, devasa yaratıklar olan "Titanlar"ın ortaya çıkması sonrası sıkıştırılmış bir insan topluluğunun mücadelesini ele alır.Hikaye, Eren Yeager, Mikasa Ackerman ve Armin Arlert adlı üç ana karakter etrafında gelişir. Eren ve arkadaşları, surlarla çevrili devasa bir şehir olan "Mücevher Duvarları" içinde yaşayan insanlardır. Ancak bir gün, bir Colossal Titan ve Armored Titan adlı dev Titanlar, surları yıkarak içeri sızarlar ve panik yaratırlar. Eren, annesini kaybeder ve bu olay onun hayatını sonsuza dek değiştirir.Eren, Titanlar'a karşı intikam almak ve insanlığın özgürlüğünü geri kazanmak için ölümcül bir savaşçı olmaya karar verir. O ve arkadaşları, "Scout Taburu" olarak bilinen cesur savaşçılara katılırlar. Bu tabur, Titanların doğasını ve kökenini anlamak, insanlığı korumak ve surların dışına keşfe çıkmak amacıyla oluşturulmuştur.Hikaye, surların dışında keşfedilen sırlar, insanlar ve Titanlar arasındaki karmaşık ilişkileri, güç mücadelelerini ve trajik olayları anlatır. Eren ve ekibi, sadece Titanlarla değil, aynı zamanda insanların arasındaki entrikalarla da savaşmak zorunda kalırlar. Ayrıca, Eren'in özel bir yeteneği olduğu keşfedilir: Titanlara dönüşme yeteneği."Attack on Titan," sürükleyici hikayesi, gizemli dünya yapısı, karakterlerin derinliği ve unutulmaz dövüş sahneleri ile tanınır. İnsanlığın hayatta kalma mücadelesi, hainlikler, sadakat ve kimlik arayışı gibi temaları ele alarak izleyicilere etkileyici bir deneyim suna`
         },
         karakterler: [
             { nickname: "Eren Yeager", foto: "https://i.pinimg.com/736x/1d/33/ff/1d33ffbf275d438f5bdc7576a66d3cfb.jpg", sayi: 1, article: `Eren Yeager,"Attack on Titan" (Shingeki no Kyojin) adlı manga ve animesinin ana karakteridir. Eren, seri boyunca büyüyen ve gelişen bir karakter olarak dikkat çeker.Hikayeye Shiganshina adlı şehirde başlar. Eren, ailesi ve en yakın arkadaşları Mikasa Ackerman ve Armin Arlert ile birlikte yaşamaktadır. Ancak, bu dünya Titan adı verilen dev yaratıkların tehdidi altındadır. Bir gün, Colossal Titan ve Armored Titan adı verilen iki dev Titan, devasa duvarları aşarak Shiganshina'yı basar ve insanların yaşadığı bölgeyi harap ederler. Eren, annesini Titanlar tarafından kaybeder ve bu olay hayatının dönüm noktası olur.Eren, ailesini ve insanlığın maruz kaldığı acıları unutmamış, Titanların içine duyduğu öfkeyle dolmuştur. Amacı, Titanları yok etmek ve insanların özgürlüğünü geri kazanmaktır. Titanlara karşı savaşmak için kendi gücünü geliştirmeye karar verir ve Özel Kuvvetler Birimine katılarak eğitim alır.Ancak, Eren'in özel bir yeteneği vardır; kendini Titan'a dönüştürebilme kabiliyetine sahiptir. Bu yetenek, onun ve insanlık için hem bir avantaj hem de büyük bir sorumluluktur. Eren'in içindeki bu gücü kontrol etme ve onunla başa çıkma süreci, hikayenin önemli bir teması haline gelir.` },
@@ -162,7 +162,7 @@ const about = [
         namee: "One Punch Man",
         kapakfoto: "https://dashgamer.com/wp-content/uploads/2020/02/onepunchmanblogroll-1554773020601.jpg",
         main: {
-            foto: "https://www.nme.com/wp-content/uploads/2022/08/one-punch-man@2000x1270.jpg", article: `"One Punch Man", ilk olarak 2009 yılında yaratılmış bir web çizgi romanı (webtoon) olan "One" tarafından yazılmıştır. Daha sonra Yusuke Murata tarafından resimlenerek "Shueisha's Young Jump Web Comics" platformunda yayınlanmaya başlamıştır. Seri, 2015 yılında Madhouse stüdyosu tarafından anime olarak uyarlanmış ve büyük bir popülarite kazanmıştır.Ana karakterimiz, Saitama adında genç bir adamdır. Saitama, sıradan bir görünüme sahip olmasına rağmen, inanılmaz bir güce ve hızlı reflekslere sahip bir süper kahramandır. Hikayenin başlangıcında, kendini geliştirmek ve yeterince güçlü olmak için sıkı bir antrenman yapar. Sonuç olarak, düşmanlarını tek bir yumrukla alt edebilecek derecede güçlü hale gelir. Ancak bu gücü, onun için kahramanlık kariyerini oldukça sıkıcı hale getirir. Her düşmanını tek bir darbeyle alt etmesi, onu sıradan bir kahraman olmaktan çıkarır ve bu durum onda büyük bir içsel sıkıntıya yol açar.Hikaye, Saitama'nın güçlü düşmanları arayışı ve gerçek bir meydan okuma bulma çabalarını takip eder. Bu sırada, diğer süper kahramanlar, çeşitli düşmanlar ve tehditlerle karşı karşıya gelir. Saitama'nın maceraları boyunca, yan karakterler ve diğer kahramanlar da önemli rol oynar ve komik ve aksiyon dolu sahnelerle dolu bir seri ortaya çıkar."One Punch Man", kahramanlık konusundaki alışılmadık bakış açısı, mizahi anlatımı ve muhteşem dövüş sahneleriyle dikkat çeker. Ayrıca, süper kahraman türünü alışılagelenden farklılaştırması ve klişelerle dalga geçmesiyle de öne çıkar. Animede aksiyon, macera, komedi ve hatta bazen dramatik unsurlar bir arada kullanılarak izleyicilere eğlenceli bir deneyim sunar."One Punch Man", hem anime severler hem de süper kahraman türüne ilgi duyan izleyiciler için oldukça keyifli bir seyirlik sunan başarılı bir yapım olarak öne çıkmaktadır.`
+            foto: "https://i.pinimg.com/564x/6c/5d/78/6c5d786f70ba44d3ffbe095b13a1998e.jpg", article: `"One Punch Man", ilk olarak 2009 yılında yaratılmış bir web çizgi romanı (webtoon) olan "One" tarafından yazılmıştır. Daha sonra Yusuke Murata tarafından resimlenerek "Shueisha's Young Jump Web Comics" platformunda yayınlanmaya başlamıştır. Seri, 2015 yılında Madhouse stüdyosu tarafından anime olarak uyarlanmış ve büyük bir popülarite kazanmıştır.Ana karakterimiz, Saitama adında genç bir adamdır. Saitama, sıradan bir görünüme sahip olmasına rağmen, inanılmaz bir güce ve hızlı reflekslere sahip bir süper kahramandır. Hikayenin başlangıcında, kendini geliştirmek ve yeterince güçlü olmak için sıkı bir antrenman yapar. Sonuç olarak, düşmanlarını tek bir yumrukla alt edebilecek derecede güçlü hale gelir. Ancak bu gücü, onun için kahramanlık kariyerini oldukça sıkıcı hale getirir. Her düşmanını tek bir darbeyle alt etmesi, onu sıradan bir kahraman olmaktan çıkarır ve bu durum onda büyük bir içsel sıkıntıya yol açar.Hikaye, Saitama'nın güçlü düşmanları arayışı ve gerçek bir meydan okuma bulma çabalarını takip eder. Bu sırada, diğer süper kahramanlar, çeşitli düşmanlar ve tehditlerle karşı karşıya gelir. Saitama'nın maceraları boyunca, yan karakterler ve diğer kahramanlar da önemli rol oynar ve komik ve aksiyon dolu sahnelerle dolu bir seri ortaya çıkar."One Punch Man", kahramanlık konusundaki alışılmadık bakış açısı, mizahi anlatımı ve muhteşem dövüş sahneleriyle dikkat çeker. Ayrıca, süper kahraman türünü alışılagelenden farklılaştırması ve klişelerle dalga geçmesiyle de öne çıkar. Animede aksiyon, macera, komedi ve hatta bazen dramatik unsurlar bir arada kullanılarak izleyicilere eğlenceli bir deneyim sunar."One Punch Man", hem anime severler hem de süper kahraman türüne ilgi duyan izleyiciler için oldukça keyifli bir seyirlik sunan başarılı bir yapım olarak öne çıkmaktadır.`
         },
         karakterler: [
             { nickname: "Saitama", foto: "https://i.pinimg.com/564x/a0/69/30/a0693036d7821dde42ff02d051f2321d.jpg", sayi: 1, article: `Saitama, "One Punch Man" animesinin ana karakteridir. O, sıradan görünümlü bir genç adamdır. Saçları olmaktan çıkmıştır ve bu nedenle kel bir başı vardır. Tipik bir gömlek, şort ve pabuçla giyinir ve genellikle rahat ve salaş giyimleri tercih eder.Saitama'nın hayatı, süper kahraman olma hedefi ve eğlencesiz iş hayatından sıkıldığı bir dönemde başlar. İlk bölümlerde, kendini geliştirmek için sıkı bir antrenman yaparak kahraman olmaya karar verir. Ancak bu antrenmanda o kadar çok çalışır ve zorlu dövüşlere katılır ki sonunda kendi gücünü ve potansiyelini kaybeder.Sonuç olarak, Saitama, düşmanlarını tek bir yumrukla alt edebilecek kadar inanılmaz bir güce sahip olur. Ancak bu güç, onun için kahramanlık kariyerini oldukça sıkıcı hale getirir. Çünkü her düşmanını tek bir darbeyle yenmek, onun için bir meydan okuma olmaktan çıkar ve kahramanlık dünyasında gerçek bir rakip bulmakta zorlanır.Saitama'nın mizahi kişiliği, animenin temel özelliklerinden biridir. Çevresindekilere şaka yapar, kendisine ve diğerlerine yönelik absürt durumlar yaratır ve sıradan insanların günlük sorunlarıyla başa çıkmaya çalışır. Aynı zamanda, insanların güvenliğini ve dünyayı korumak için içinde güçlü bir adalet duygusu bulunur.` },
@@ -190,7 +190,7 @@ const about = [
         namee: "Seraph Of The End",
         kapakfoto: "https://i.pinimg.com/originals/99/2e/d9/992ed950500c882e3e3480d11fa2d1c2.jpg",
         main: {
-            foto: "https://i.pinimg.com/originals/3a/23/35/3a2335c052c042f0b45ef8330b0d2986.jpg", article: `"Seraph of the End: Vampire Reign," Takaya Kagami tarafından yazılan aynı adlı manga serisinden uyarlanmış olan bir Japon anime serisidir. 2015 yılında Wit Studio tarafından animasyonlaştırılmış ve kısa sürede dikkat çekmiştir.Hikaye, dünya genelinde yayılan gizemli bir virüs salgını sonucu insanların ölmesi ve çocukların yetim kalmasıyla başlar. Ancak, virüsün vampirlerin varlığını ve egemenliğini beraberinde getirdiği ortaya çıkar. Virüs, yetenek sahibi çocukların yetişkinlere karşı güç kazanmalarına sebep olur. Bu yetenekleri kazanan çocuklar "Hyakuya Yetimhanesi" adlı bir kuruluşa toplanır.İşte hikaye, Yuichiro Hyakuya ve en iyi arkadaşı Mikaela Hyakuya'nın etrafında döner. Bir gün, vampirler yetimhaneyi saldırıya geçer ve birkaç çocuk dışında herkes ölür. Yuichiro ve Mikaela kaçmayı başarır, ancak Mikaela vampirlerin eline düşerken, Yuichiro insanların dünyasından uzaklaşır.Yuichiro, vampirlerin egemenliğine karşı intikam almayı yemin eder ve yıllar sonra kurtulup özgürlüğüne kavuşur. İntikam planları, gizli bir askeri örgüt olan "Extermination Squad" ile tanıştığında hız kazanır. Bu örgüt, vampirlerle savaşan ve insanlığın kurtuluşunu amaçlayan bir grup savaşçıdan oluşur.Anime, Yuichiro'nun intikam arayışını, vampirlerle olan çatışmalarını, yeteneklerini geliştirmesini ve Mikaela'yı kurtarma isteğini takip eder. Aynı zamanda, vampirlerin gizemli dünyasına dalmış vampirlerin arasında da çeşitli karakterler ve ilişkiler bulunur.`
+            foto: "https://i.pinimg.com/564x/78/a8/f2/78a8f2d6478412120b30329952b78c34.jpg", article: `"Seraph of the End: Vampire Reign," Takaya Kagami tarafından yazılan aynı adlı manga serisinden uyarlanmış olan bir Japon anime serisidir. 2015 yılında Wit Studio tarafından animasyonlaştırılmış ve kısa sürede dikkat çekmiştir.Hikaye, dünya genelinde yayılan gizemli bir virüs salgını sonucu insanların ölmesi ve çocukların yetim kalmasıyla başlar. Ancak, virüsün vampirlerin varlığını ve egemenliğini beraberinde getirdiği ortaya çıkar. Virüs, yetenek sahibi çocukların yetişkinlere karşı güç kazanmalarına sebep olur. Bu yetenekleri kazanan çocuklar "Hyakuya Yetimhanesi" adlı bir kuruluşa toplanır.İşte hikaye, Yuichiro Hyakuya ve en iyi arkadaşı Mikaela Hyakuya'nın etrafında döner. Bir gün, vampirler yetimhaneyi saldırıya geçer ve birkaç çocuk dışında herkes ölür. Yuichiro ve Mikaela kaçmayı başarır, ancak Mikaela vampirlerin eline düşerken, Yuichiro insanların dünyasından uzaklaşır.Yuichiro, vampirlerin egemenliğine karşı intikam almayı yemin eder ve yıllar sonra kurtulup özgürlüğüne kavuşur. İntikam planları, gizli bir askeri örgüt olan "Extermination Squad" ile tanıştığında hız kazanır. Bu örgüt, vampirlerle savaşan ve insanlığın kurtuluşunu amaçlayan bir grup savaşçıdan oluşur.Anime, Yuichiro'nun intikam arayışını, vampirlerle olan çatışmalarını, yeteneklerini geliştirmesini ve Mikaela'yı kurtarma isteğini takip eder. Aynı zamanda, vampirlerin gizemli dünyasına dalmış vampirlerin arasında da çeşitli karakterler ve ilişkiler bulunur.`
         },
         karakterler: [
             { nickname: "Yuichiro Hyakuya", foto: "https://i.pinimg.com/564x/f2/42/8e/f2428e413538d5056f6ab82b365aed3c.jpg", sayi: 1, article: `Yuichiro, salgın olarak bilinen gizemli bir virüs nedeniyle dünyadaki tüm yetişkinlerin öldüğü ve yalnızca 13 yaşın altındaki çocukların hayatta kaldığı alternatif bir gelecekte yaşamaktadır. Bu salgında ailesini kaybettikten sonra vampirler tarafından esir alınır ve insanları beslemek için tutsak alınan bir grup çocuktan biri olur. Yuichiro ve arkadaşları vampirlerin elinden kaçmak için bir plan yaparlar ve Vampire Hunter Ekibi'ne katılmak için savaşa hazırlanırlar.Yuichiro, sert bir geçmişe sahip bir karakterdir. Ailesini vampirlerin elinde kaybetmenin acısı ve kederiyle doludur. İntikam duygusu, gücü elde etme isteği ve hayatta kalan insanları koruma arzusu onu motive eder. Cesur, kararlı ve kavgacı bir kişiliğe sahiptir. Ancak aynı zamanda, içtenlikli ve dost canlısı yanları da vardır. Özellikle Mikaela ve Shinoa gibi yakın arkadaşları için çok önemlidir ve onlarla güçlü bağlar kurar.Yuichiro, savaşta düşmanlarına karşı acımasız ve kararlı bir şekilde mücadele ederken, aynı zamanda insanlığın daha iyi bir geleceğe doğru ilerlemesi ve dünyayı vampirlerin egemenliğinden kurtarmak için çaba sarf eder. Bu süreçte, güçlü bir serafim olan Asuramaru ile bağ kurar ve onun gücünü kullanmaya başlar.Mikaela Hyakuya ile olan yakın ilişkisi, Yuichiro'nun hikayedeki en önemli motivasyon kaynağıdır. Mikaela, Yuichiro'nun eski arkadaşı ve ailesidir, ancak vampirler tarafından vampir haline getirilmiştir. Yuichiro, Mikaela'yı kurtarmak ve vampirlerin esaretinden kurtarmak için hiçbir fedakarlıktan kaçınmaz.Yuichiro Hyakuya, anime serisinin ilerleyen bölümlerinde, kendi gücünü keşfeder, diğerleriyle bağlantılar kurar ve dünyayı değiştirecek bir kaderle karşı karşıya olduğunu fark eder. Onun karakter gelişimi ve duygusal yolculuğu, "Seraph of the End" hikayesinin merkezini oluşturur ` },
@@ -224,7 +224,7 @@ const about = [
         namee: "Demon Slayer",
         kapakfoto: "https://wallpapercave.com/wp/wp8597018.jpg",
         main: {
-            foto: "https://i.pinimg.com/736x/59/7a/a4/597aa405f7739d83225e7225fd91ee0f.jpg", article: `"Demon Slayer: Kimetsu no Yaiba," Koyoharu Gotouge tarafından yazılan aynı adlı manga serisinden uyarlanmış popüler bir Japon anime serisidir. Seri, 2019 yılında ufotable stüdyosu tarafından animasyonlaştırılmış ve büyük bir hayran kitlesi kazanmıştır.Hikaye, Taisho döneminde geçmektedir ve Tanjiro Kamado isimli genç bir köylüyü merkezine almaktadır. Tanjiro, ailesiyle birlikte yaşadığı sakin orman köyünde yaşayan bir odun kesicisidir. Bir gün, köye yakın ormanlarda bir iblis saldırısı sonucu ailesinin büyük bir bölümünü kaybeder. Tek sağ kalan kardeşi Nezuko ise iblis tarafından saldırıya uğrayıp dönüşmüş, ancak insan gibi hareket edebilme yeteneğini korumuştur.Tanjiro, ailesini geri getirmek ve Nezuko'yu yeniden insan yapmak için iblisleri avlamak amacıyla "Demon Slayer" adlı bir örgüte katılmaya karar verir. Bu örgüt, iblislere karşı savaşan cesur savaşçılardan oluşur. Tanjiro, iblisleri avlamayı öğrenirken, aynı zamanda Nezuko'nun insanlığına geri dönebilmesi için çaba sarf eder.Anime, Tanjiro'nun iblislerle savaşırken karşılaştığı zorluklar, yeni arkadaşlar edinmesi ve güçlenmesi, örgüt içindeki ilişkileri ve geçmişi gibi temaları ele alır. Ayrıca Tanjiro'nun amansız düşmanlarından biri olan "Üstün Oni" olarak bilinen iblis Muzan Kibutsuji ile olan mücadelesi de önemli bir odak noktasıdır."Demon Slayer," sıradışı animasyon kalitesi, etkileyici karakter gelişimi, duygusal anlar ve nefes kesici dövüş sahneleri ile bilinir. Aynı zamanda, japon kültürünü ve folklorunu da içeren zengin bir dünya yapısı sunar. Seri, popülerliği ve etkileyici yapısı nedeniyle geniş bir izleyici kitlesi tarafından takdir edilmiş ve sevilmiştir.`
+            foto: "https://i.pinimg.com/564x/05/09/00/050900d9ac23a0e064d345e95e05e68d.jpg", article: `"Demon Slayer: Kimetsu no Yaiba," Koyoharu Gotouge tarafından yazılan aynı adlı manga serisinden uyarlanmış popüler bir Japon anime serisidir. Seri, 2019 yılında ufotable stüdyosu tarafından animasyonlaştırılmış ve büyük bir hayran kitlesi kazanmıştır.Hikaye, Taisho döneminde geçmektedir ve Tanjiro Kamado isimli genç bir köylüyü merkezine almaktadır. Tanjiro, ailesiyle birlikte yaşadığı sakin orman köyünde yaşayan bir odun kesicisidir. Bir gün, köye yakın ormanlarda bir iblis saldırısı sonucu ailesinin büyük bir bölümünü kaybeder. Tek sağ kalan kardeşi Nezuko ise iblis tarafından saldırıya uğrayıp dönüşmüş, ancak insan gibi hareket edebilme yeteneğini korumuştur.Tanjiro, ailesini geri getirmek ve Nezuko'yu yeniden insan yapmak için iblisleri avlamak amacıyla "Demon Slayer" adlı bir örgüte katılmaya karar verir. Bu örgüt, iblislere karşı savaşan cesur savaşçılardan oluşur. Tanjiro, iblisleri avlamayı öğrenirken, aynı zamanda Nezuko'nun insanlığına geri dönebilmesi için çaba sarf eder.Anime, Tanjiro'nun iblislerle savaşırken karşılaştığı zorluklar, yeni arkadaşlar edinmesi ve güçlenmesi, örgüt içindeki ilişkileri ve geçmişi gibi temaları ele alır. Ayrıca Tanjiro'nun amansız düşmanlarından biri olan "Üstün Oni" olarak bilinen iblis Muzan Kibutsuji ile olan mücadelesi de önemli bir odak noktasıdır."Demon Slayer," sıradışı animasyon kalitesi, etkileyici karakter gelişimi, duygusal anlar ve nefes kesici dövüş sahneleri ile bilinir. Aynı zamanda, japon kültürünü ve folklorunu da içeren zengin bir dünya yapısı sunar. Seri, popülerliği ve etkileyici yapısı nedeniyle geniş bir izleyici kitlesi tarafından takdir edilmiş ve sevilmiştir.`
         },
         karakterler: [
             { nickname: "Tanjirou Kamado", foto: "https://i.pinimg.com/564x/2b/ee/66/2bee660fcfdcc407bd3e29b01cc5e1a3.jpg", sayi: 1, article: `Tanjirou Kamado, Hikayenin merkezinde yer alır ve Tanjiro'nun ailesi on bir kişilik bir aileydi, ancak bir gün ailesinin geriye kalan tek üyeleri olan Tanjiro ve kız kardeşi Nezuko, bir iblis saldırısına uğrarlar. Bu saldırı sonucunda ailesinin çoğu hayatını kaybeder, Nezuko ise iblis tarafından iblise dönüştürülür.Tanjirou, ailesini iblislere karşı intikam almak ve Nezuko'yu insana döndürmek amacıyla Demon Slayer Corps'a katılarak bir Demon Slayer olmaya karar verir. Karanlık ormanda antrenmanlar ve zorlu sınavlardan geçerek, iblislerle savaşmak için gerekli yetenekleri kazanır. Tanjiro'nun en belirgin özelliklerinden biri, muazzam bir iradeye sahip olması ve ne olursa olsun umutsuzluğa kapılmadan amacına ulaşma azmidir.Tanjirou'nun kullanmayı öğrendiği özel yetenek, "Su Soluğu" adını taşır. Bu yetenek sayesinde kılıcını su elementine dönüştürebilir ve iblisleri etkili bir şekilde yenmeye çalışır. Aynı zamanda keskin gözlem yeteneği ve hızlı reflekslere sahiptir.Karakterin kişiliği oldukça sevecen, merhametli ve yardımseverdir. Diğer insanlara karşı her zaman saygılı ve düşünceli davranır. Aynı zamanda güçlü bir ahlaki duruşa sahiptir ve iblislere karşı savaşırken dahi onları insana dönüştürmeye çalışır.` },
@@ -266,7 +266,7 @@ const about = [
         namee: "Boruto:Naruto Next Generations",
         kapakfoto: "https://img.goodfon.com/wallpaper/original/d/56/boruto-naruto-next-generations-by-ferstra-anime-manga-japane.jpg",
         main: {
-            foto: "https://wallpapers.com/images/hd/boruto-and-friends-oqkf6brlvxx45o4x.jpg", article: `"Boruto: Naruto Next Generations," Masashi Kishimoto tarafından yaratılan Naruto serisinin devamı olan bir anime ve manga serisidir. Boruto, orijinal Naruto serisinin ana karakterlerinin bir sonraki neslinin hikayesini anlatmaktadır. Hikaye, Naruto Uzumaki'nin oğlu Boruto Uzumaki'nin etrafında döner ve onun maceralarını konu alır.Boruto serisi, Konoha Köyü'nün gelişen teknolojisi ve ninja dünyasının değişen dinamikleri ile dikkat çeker. Ana karakter Boruto, Naruto'nun tanınmış bir ninja olmanın zorlukları ve baskıları altında büyümektedir. Babası gibi Hokage olma hedefi taşıyan Boruto, kendi özgün kimliğini bulmak ve ailesiyle olan ilişkilerini dengelemek zorundadır.Seride, Boruto'nun en yakın arkadaşları ve takım arkadaşları da yer almaktadır. Sarada Uchiha, Sasuke Uchiha ve Sakura Haruno'nun kızıdır ve güçlü bir shinobi olma hayali taşır. Mitsuki ise gizemli yeteneklere sahip yapay bir insan ve Boruto'nun diğer takım arkadaşıdır.Boruto serisi, yeni tehlikelerle dolu bir ninja dünyasında geçmektedir. Yeni düşmanlar, komplolar ve gizemlerle karşılaşılırken, Boruto ve arkadaşları hem kişisel gelişimlerini hem de ninja becerilerini sınarlar. Ayrıca, orijinal Naruto serisindeki bazı karakterler de hikayede yer alır ve Boruto'nun maceralarını destekler.`
+            foto: "https://i.pinimg.com/564x/77/1a/fa/771afae14fe2e203a451eff6f16c6d05.jpg", article: `"Boruto: Naruto Next Generations," Masashi Kishimoto tarafından yaratılan Naruto serisinin devamı olan bir anime ve manga serisidir. Boruto, orijinal Naruto serisinin ana karakterlerinin bir sonraki neslinin hikayesini anlatmaktadır. Hikaye, Naruto Uzumaki'nin oğlu Boruto Uzumaki'nin etrafında döner ve onun maceralarını konu alır.Boruto serisi, Konoha Köyü'nün gelişen teknolojisi ve ninja dünyasının değişen dinamikleri ile dikkat çeker. Ana karakter Boruto, Naruto'nun tanınmış bir ninja olmanın zorlukları ve baskıları altında büyümektedir. Babası gibi Hokage olma hedefi taşıyan Boruto, kendi özgün kimliğini bulmak ve ailesiyle olan ilişkilerini dengelemek zorundadır.Seride, Boruto'nun en yakın arkadaşları ve takım arkadaşları da yer almaktadır. Sarada Uchiha, Sasuke Uchiha ve Sakura Haruno'nun kızıdır ve güçlü bir shinobi olma hayali taşır. Mitsuki ise gizemli yeteneklere sahip yapay bir insan ve Boruto'nun diğer takım arkadaşıdır.Boruto serisi, yeni tehlikelerle dolu bir ninja dünyasında geçmektedir. Yeni düşmanlar, komplolar ve gizemlerle karşılaşılırken, Boruto ve arkadaşları hem kişisel gelişimlerini hem de ninja becerilerini sınarlar. Ayrıca, orijinal Naruto serisindeki bazı karakterler de hikayede yer alır ve Boruto'nun maceralarını destekler.`
         },
         karakterler: [
             { nickname: "Boruto Uzumaki", foto: "https://i.pinimg.com/564x/15/00/d2/1500d20be832ca7387d7da459e1215fd.jpg", sayi: 1, article: `Naruto Uzumaki ve Hinata Hyuga'nın oğlu olarak, Naruto evreninin devamını temsil eder. Sarı saçları ve mavi gözleri ile dikkat çekerken, yüzündeki gizemli "Jougan" dövmesiyle de öne çıkar. Canlı ve enerjik kişiliği, inatçılığı ve zaman zaman düşüncesizce hareket etme eğilimiyle dikkat çeker.Boruto, babasının uzun ve zorlu ninja yolculuğundan öğrendiği değerleri taşısa da, kendi kimliğini bulma arayışı ve babasının gölgesinden çıkma isteğiyle mücadele eder. Ninja becerileri oldukça etkileyicidir; hem ikonik Rasengan tekniğini ustaca kullanabilir, hem de annesinin Hyuga klanının özel yeteneklerini sergiler. Ancak en çok merak uyandıran yeteneği, gizemli "Jougan" göz gücüdür, bu yetenek henüz tam olarak anlaşılmamıştır.Hikaye, Boruto'nun Ninja Akademisi'nde ilk adımlarını atmasıyla başlar. Babasının yoğun görevleri nedeniyle duyduğu ihmal hissi, Boruto'nun kendi benliğini bulma ve kanıtlama isteğini şekillendirir. Arkadaşlarıyla birlikte çeşitli zorluklarla karşılaşarak sorumluluklarını ve gerçek bir ninja olmanın anlamını anlamaya başlar.` },
@@ -322,66 +322,65 @@ const about = [
         ]
 
     },
-    // {
-    //     name: "91 days",
-    //     namee:"91 Days",
-    //     kapakfoto: "https://banafikirver.com/images/posts/2021/05/post-1620556173-8849-91-days.webp",
-    //     main:{
-    //         foto:"", article:""
-    //     },
-    //     karakterler: [
-    //         { nickname: "", foto: "", sayi:1,article: "" },
-    //         { nickname: "", foto: "", sayi:1,article: "" },
-    //         { nickname: "", foto: "", sayi:1,article: "" },
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "", sayi:1,article: "" },
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "", sayi:1,article: "" },
-    //         { nickname: "", foto: "", sayi:1,article: "" },
-    //         { nickname: "", foto: "",sayi:1, article: "" }
-    //     ]
+    {
+        name: "91 days",
+        namee:"91 Days",
+        kapakfoto: "https://picfiles.alphacoders.com/424/424153.jpg",
+        main:{
+            foto:"https://i.pinimg.com/564x/84/16/49/8416491dc220ef38f192731e2456198a.jpg", article:`91 Days, 1932 yılında, Amerika Birleşik Devletleri'nde Alkol Yasağı döneminde geçiyor. Bu dönemde, yasadışı alkol üretimi ve satışı oldukça yaygındır. Bu durum, mafyaların güçlenmesine de yol açmıştır.Angelo Lagusa, Lawless şehrinde yaşayan bir gençtir. Ailesi, Vanetti ailesi tarafından öldürülür. Angelo, ailesinin intikamını almak için intikam yemini eder.Angelo, yeni kimliği Avilio Bruno ile Lawless şehrine geri döner. Vanetti ailesinin içine sızar ve güvenini kazanır. Bu sayede, ailesinin intikamını almak için fırsatlar yakalar.Avilio, Vanetti ailesinin genç bir üyesi olan Nero Vanetti ile arkadaş olur. Nero, Avilio'ya güvenir ve onu ailesine yakınlaştırır. Avilio, bu sayede Vanetti ailesinin iç işleyişini öğrenme fırsatı bulur.Avilio, Vanetti ailesinden birer birer intikam almaya başlar. Ancak, Avilio'nun intikam yolunda ilerledikçe, kendisi de bu süreçte değişir. Geçmişi ve ailevi bağları ile yüzleşmeye başlar.Avilio, Vanetti ailesinin en önemli üyelerini öldürür. Ancak, bu süreçte Fango adlı bir mafya liderinin de hedefi haline gelir. Fango, Vanetti ailesini yok etmek için Avilio'yu kullanır.Avilio, Fango'nun tuzağına düşer. Ancak, Nero'nun yardımıyla kurtulmayı başarır. Avilio, intikamını alır, ancak bu süreçte çok şey kaybeder.91 Days, intikam, aile, dostluk ve ihanet temalarını işleyen bir anime. Anime, iyi yazılmış karakterleri, sürükleyici hikayesi ve karanlık atmosferi ile dikkat çekiyor.`
+        },
+        karakterler: [
+            { nickname: "Angelo Lagusa / Avilio Bruno", foto: "https://i.pinimg.com/564x/b0/75/20/b0752092e2dc12d8c2a078da8bbf46bc.jpg", sayi:1,article: `Angelo Lagusa, 91 Days animesinin ana karakteridir. Ailesi, Vanetti ailesi tarafından öldürüldü ve intikam yemini etti. New York'tan Lawless şehrine geri dönen Angelo, yeni kimliği Avilio Bruno ile Vanetti ailesinin içine sızar ve güvenini kazanır. Ancak, intikam arayışı onu kendi geçmişi ve ailesi ile yüzleşmeye zorlar. Avilio, Vanetti ailesinden birer birer intikamını alır, ancak bu süreçte çok şey kaybeder.Angelo, karmaşık bir karakterdir. İntikam peşinde koşan bir adamın öfkesi ve nefreti ile çocukluk arkadaşı olan Nero Vanetti'ye karşı duyduğu dostluk ve sadakat duyguları arasında gidip gelir. Angelo, intikam planı için yalanlar söyler ve insanları manipüle eder, ancak bu süreçte kendi ahlakını da sorgular.` },
+            { nickname: "Nero Vanetti", foto: "https://i.pinimg.com/originals/0e/f8/91/0ef89154b2327165ce5c75da354375d8.jpg", sayi:2,article: `Nero Vanetti, 91 Days animesinin deuteragonistidir. Vanetti ailesinin lideri ve Angelo Lagusa'nın çocukluk arkadaşıdır. Angelo'nun ailesi, Vanetti ailesi tarafından öldürüldü ve Nero, intikamını almak isteyen Angelo'ya karşı korumacı bir tutum sergiler.Nero, onur ve adalete inanan bir adamdır. Ailesinin öldürülmesinden sonra, Vanetti ailesinin lideri olarak, ailesinin adını temize çıkarmak ve onurunu korumak için çalışır. Nero, güçlü ve liderlik vasfı olan bir adamdır. Ancak, intikam arayışı onu da Angelo gibi zorlu bir yolculuğa çıkarır.` },
+            { nickname: "Corteo Mayo", foto: "https://i.pinimg.com/564x/5c/ec/e4/5cece4f7964fa14da050dcc519fcc6b0.jpg", sayi:3,article: `Corteo Mayo, Angelo Lagusa'nın çocukluk arkadaşı ve sırdaşıdır. Corteo, Angelo'ya her zaman destek olmuştur ve ona inanmıştır. Angelo'nun intikam planına yardım eder ve onu her zaman destekler.Corteo, iyi kalpli ve şefkatli bir adamdır. Angelo'ya karşı sonsuz bir sadakat ve dostluk duygusuna sahiptir. Corteo, Angelo'nun intikam planını onaylamasa da, ona yardım eder çünkü onu seviyor ve onu mutlu etmek istiyor.` },
+            { nickname: "Fango", foto: "https://i.pinimg.com/564x/b0/73/29/b073299dcf93ad9acbd36c235ca10dca.jpg",sayi:4, article: ` Vanetti ailesinin bir üyesidir ve ailesinin lideri olarak görev yapmaktadır. Fango, güçlü ve acımasız bir adamdır. Gücü ve otoritesini korumak için her şeyi yapmaya hazırdır.Fango, sadizme ve mazoşizmle ilgilenen, dengesiz bir karakterdir. Güçlü duygulara sahiptir ve onları kontrol etmekte zorlanır. Bu, onu tehlikeli ve tahmin edilemez bir adam yapar.Fango, gücünü ve otoritesini korumak için her şeyi yapmaya hazırdır. Bu, onu Vanetti ailesinin diğer üyeleriyle karşı karşıya getirir. Fango, ailesinin kontrolünü ele geçirmeye çalışır ve bu da aile içinde bir iç savaşa neden olu` },
+            // { nickname: "", foto: "", sayi:1,article: "" },
+            // { nickname: "", foto: "",sayi:1, article: "" },
+            // { nickname: "", foto: "",sayi:1, article: "" },
+            // { nickname: "", foto: "", sayi:1,article: "" },
+            // { nickname: "", foto: "", sayi:1,article: "" },
+            // { nickname: "", foto: "",sayi:1, article: "" }
+        ]
 
-    // },
-    // {
-    //     name: "sword art online",
-    //     namee:"Sword Art Online",
-    //     kapakfoto: "",
-    //     main:{
-    //         foto:"", article:""
-    //     },
-    //     karakterler: [
-    //         { nickname: "", foto: "", sayi:1,article: "" },
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "", sayi:1,article: "" },
-    //         { nickname: "", foto: "", sayi:1,article: "" },
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" }
-    //     ]
+    },
+    {
+        name: "sword art online",
+        namee:"Sword Art Online",
+        kapakfoto: "https://w.forfun.com/fetch/35/35cc2d430557e274514a8ac48cd1b369.jpeg",
+        main:{
+            foto:"https://i.pinimg.com/564x/85/b5/3b/85b53b0c4edd515f60285b222f2f9fa6.jpg", article:`Sword Art Online, sanal gerçeklik dünyasında geçen bir bilim kurgu animesidir. Dizi, 2022 yılında, yeni bir VRMMORPG oyunu olan Sword Art Online'ın piyasaya sürülmesiyle başlar. Oyunun yaratıcısı, oyuncuların oyundan çıkmaları için oyunun 100 katını geçmeleri gerektiğini söyler. Ancak, oyuncular oyundan çıkmaya çalıştıklarında, oyun onları öldürür.Dizinin ana karakteri Kirito, SAO'da mahsur kalan yetenekli bir oyuncudur. Kirito, oyunda hayatta kalmak ve kaçmanın bir yolunu bulmak için tüm becerilerini ve bilgisini kullanmalıdır. Yol boyunca, diğer oyuncularla tanışır ve yeni arkadaşlar edinir.Sword Art Online, animasyonu, aksiyon sahneleri ve hikayesi için övülen popüler bir anime serisidir.`
+        },
+        karakterler: [
+            { nickname: "Kirito", foto: "https://i.pinimg.com/564x/91/8f/a7/918fa7eca03bdcfcc76255cda0795fa7.jpg", sayi:1,article: "" },
+            { nickname: "Asuna", foto: "https://i.pinimg.com/564x/a9/9a/5c/a99a5c905570f1a698f6b8e059e2aabc.jpg",sayi:1, article: "" },
+            { nickname: "Yui", foto: "https://i.pinimg.com/564x/a6/83/4a/a6834a4a3e80f6bb5d64dfa9a314d665.jpg", sayi:1,article: "" },
+            { nickname: "Klein", foto: "https://i.pinimg.com/564x/f1/5a/21/f15a21e0b54769b5ca3c171438a101c3.jpg", sayi:1,article: "" },
+            { nickname: "Lizbeth", foto: "https://i.pinimg.com/564x/30/6b/83/306b83241bccbc39383260b241ba9aa2.jpg",sayi:1, article: "" },
+            { nickname: "Silica", foto: "https://i.pinimg.com/564x/b2/a7/b5/b2a7b5855d881cbecf5ccedd4f042037.jpg",sayi:1, article: "" },
+            { nickname: "Leafa", foto: "https://i.pinimg.com/564x/7a/8a/4d/7a8a4d7ed92ae194607e4cae56365511.jpg", sayi:1,article: "" },
+            { nickname: "Eugeo", foto: "https://i.pinimg.com/564x/66/52/41/665241c0edb5931a648304ed37f14e0f.jpg",sayi:1, article: "" },
+            { nickname: "Alice", foto: "https://i.pinimg.com/564x/1f/45/9d/1f459d1552e16a07a0b6a723c5449d71.jpg",sayi:1 ,article: "" },
+            // { nickname: "", foto: "", article: "" }
+        ]
 
-    // },
+    },
     // {
     //     name: "tokyo ghoul",
     //     namee:"Tokyo Ghoul",
     //     kapakfoto: "",
     //     main:{
-    //         foto:"", article:""
+    //         foto:"https://i.pinimg.com/564x/0a/e6/7b/0ae67bd883042a73e24bb637eef61b9d.jpg", article:""
     //     },
     //     karakterler: [
-    //         { nickname: "", foto: "", sayi:1,article: "" },
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" }
+        //         { nickname: "", foto: "",sayi:1, article: "" },
+        //         { nickname: "", foto: "",sayi:1, article: "" },
+        //         { nickname: "", foto: "",sayi:1, article: "" },
+        //         { nickname: "", foto: "",sayi:1, article: "" },
+        //         { nickname: "", foto: "",sayi:1, article: "" },
+        //         { nickname: "", foto: "",sayi:1, article: "" },
+        //         { nickname: "", foto: "", sayi:1,article: "" },
+        //         { nickname: "", foto: "",sayi:1, article: "" },
+        //         { nickname: "", foto: "", sayi:1,article: "" }
     //     ]
 
     // },
@@ -393,16 +392,16 @@ const about = [
     //         foto:"", article:""
     //     },
     //     karakterler: [
+    //    { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
     //         { nickname: "", foto: "",sayi:1, article: "" },
     //         { nickname: "", foto: "", sayi:1,article: "" },
     //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" }
+    //         { nickname: "", foto: "", sayi:1,article: "" }
     //     ]
 
     // },
@@ -414,16 +413,16 @@ const about = [
     //         foto:"", article:""
     //     },
     //     karakterler: [
-    //         { nickname: "", foto: "", sayi:1,article: "" },
+    //       { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
     //         { nickname: "", foto: "",sayi:1, article: "" },
     //         { nickname: "", foto: "", sayi:1,article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" }
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "", sayi:1,article: "" }
     //     ]
 
     // },
@@ -435,16 +434,16 @@ const about = [
     //         foto:"", article:""
     //     },
     //     karakterler: [
+    //        { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
     //         { nickname: "", foto: "", sayi:1,article: "" },
-    //         { nickname: "", foto: "", sayi:1,article: "" },
-    //         { nickname: "", foto: "", sayi:1,article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" }
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "", sayi:1,article: "" }
     //     ]
 
     // },
@@ -456,16 +455,16 @@ const about = [
     //         foto:"", article:""
     //     },
     //     karakterler: [
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
     //         { nickname: "", foto: "", sayi:1,article: "" },
     //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" }
+    //         { nickname: "", foto: "", sayi:1,article: "" }
     //     ]
 
     // },
@@ -477,16 +476,16 @@ const about = [
     //         foto:"", article:""
     //     },
     //     karakterler: [
+    //        { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
+    //         { nickname: "", foto: "",sayi:1, article: "" },
     //         { nickname: "", foto: "",sayi:1, article: "" },
     //         { nickname: "", foto: "", sayi:1,article: "" },
     //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "",sayi:1, article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" },
-    //         { nickname: "", foto: "", article: "" }
+    //         { nickname: "", foto: "", sayi:1,article: "" }
     //     ]
 
     // },
