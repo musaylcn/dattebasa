@@ -96,7 +96,8 @@
                 let width = image.naturalWidth;
                 let height = image.naturalHeight;
                 dimensionsDiv.textContent = "Orjinal Boyut" + ' = ' + 'Genişlik: ' + width + 'px , Yükseklik: ' + height + 'px';
-                dimensionsDiv.style.fontSize = "15px"
+                dimensionsDiv.style.fontSize = "15px";
+                dimensionsDiv.style.color = "white";
             }
             window.addEventListener('resize', updateDimensions);
             image.addEventListener('load', updateDimensions);

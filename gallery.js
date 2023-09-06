@@ -192,17 +192,26 @@ const gallery = [
             { fotourl: "https://mobimg.b-cdn.net/v3/fetch/48/48a765d6bc7646f14b5151cb44fd4877.jpeg", numb: 1 },
             { fotourl: "https://mobimg.b-cdn.net/v3/fetch/21/21333d96638a51b15474735680b75d24.jpeg?w=1470&r=0.5625", numb: 2 },
             { fotourl: "https://mobimg.b-cdn.net/v3/fetch/b6/b676ea23dd12d7158a49d884ab922503.jpeg", numb: 3 },
-            { fotourl: "https://wallpapercave.com/wp/wp2043615.png", numb: 4 }]
+            { fotourl: "https://wallpapercave.com/wp/wp2043615.png", numb: 4 },
+            { fotourl: 'https://i.pinimg.com/564x/45/6c/cd/456ccd90b0aece3274e64fd9922fac63.jpg', numb: '5' },
+            { fotourl: 'https://i.pinimg.com/564x/fe/73/96/fe7396f8424945310261cb27ad8ac3a0.jpg', numb: '6' },
+            { fotourl: 'https://i.pinimg.com/564x/34/3d/32/343d32dae67cbd280e74b0f7d2ce1289.jpg', numb: '7' },
+            { fotourl: 'https://i.pinimg.com/564x/70/51/2e/70512e02d8a2e02e2d3e6e53e6b7bd23.jpg', numb: '8' },
+        ]
 
     },
     {
         name: '91 days',
         url: 'https://images.alphacoders.com/727/727533.png',
         fotoabout: [
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' }
+            { fotourl: 'https://i.pinimg.com/564x/5f/5a/20/5f5a20d095808c2c68c2f9314838d211.jpg', numb: '1' },
+            { fotourl: 'https://i.pinimg.com/736x/a1/74/a1/a174a1b243395734f8a6adecbf3386cc.jpg', numb: '2' },
+            { fotourl: 'https://i.pinimg.com/564x/6a/25/c9/6a25c9ee3517ae08484336ae57635361.jpg', numb: '3' },
+            // { fotourl: '', numb: '4' },
+            // { fotourl: '', numb: '5' },
+            // { fotourl: '', numb: '6' },
+            // { fotourl: '', numb: '7' },
+            // { fotourl: '', numb: '8' },
 
         ]
     },
@@ -210,10 +219,14 @@ const gallery = [
         name: 'sword art online',
         url: 'https://2.bp.blogspot.com/-4LB3GHLwdIY/VkjVk8jmdgI/AAAAAAAAA6s/m5poh1mFizM/s1600/SAO%2Bblack%2B2.jpg',
         fotoabout: [
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' }
+            { fotourl: 'https://i.pinimg.com/564x/46/2e/29/462e29bb1c266a87753523c22fccb379.jpg', numb: '1' },
+            { fotourl: 'https://i.pinimg.com/564x/d0/51/1e/d0511ede7f6e186719a6187d2d07ed65.jpg', numb: '2' },
+            { fotourl: 'https://i.pinimg.com/564x/73/8a/c0/738ac08ffb2f4ee13cceca4a1a301e06.jpg', numb: '3' },
+            { fotourl: 'https://i.pinimg.com/564x/d7/c7/ee/d7c7ee34de1f407e9aa26bfaeba73f92.jpg', numb: '4' },
+            { fotourl: 'https://i.pinimg.com/564x/7b/c2/77/7bc277a6ec2d0b4ead79e0ec7b214006.jpg', numb: '5' },
+            // { fotourl: '', numb: '6' },
+            // { fotourl: '', numb: '7' },
+            // { fotourl: '', numb: '8' },
 
         ]
     },
@@ -221,10 +234,14 @@ const gallery = [
         name: 'tokyo ghoul',
         url: 'https://www.logolynx.com/images/logolynx/19/19ff8c89486ed495fbb08b52a2b767aa.png',
         fotoabout: [
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' }
+            { fotourl: '', numb: '1' },
+            { fotourl: '', numb: '2' },
+            { fotourl: '', numb: '3' },
+            { fotourl: '', numb: '4' },
+            { fotourl: '', numb: '5' },
+            { fotourl: '', numb: '6' },
+            { fotourl: '', numb: '7' },
+            { fotourl: '', numb: '8' },
 
         ]
     },
@@ -232,10 +249,14 @@ const gallery = [
         name: 'my hero acedemia',
         url: 'https://logolook.net/wp-content/uploads/2022/02/My-Hero-Academia-Logo-2048x1152.png',
         fotoabout: [
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' }
+            { fotourl: '', numb: '1' },
+            { fotourl: '', numb: '2' },
+            { fotourl: '', numb: '3' },
+            { fotourl: '', numb: '4' },
+            { fotourl: '', numb: '5' },
+            { fotourl: '', numb: '6' },
+            { fotourl: '', numb: '7' },
+            { fotourl: '', numb: '8' },
 
         ]
     },
@@ -243,10 +264,14 @@ const gallery = [
         name: 'hunter x hunter',
         url: 'https://logos-world.net/wp-content/uploads/2021/08/Hunter-x-Hunter-Logo.png',
         fotoabout: [
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' }
+            { fotourl: '', numb: '1' },
+            { fotourl: '', numb: '2' },
+            { fotourl: '', numb: '3' },
+            { fotourl: '', numb: '4' },
+            { fotourl: '', numb: '5' },
+            { fotourl: '', numb: '6' },
+            { fotourl: '', numb: '7' },
+            { fotourl: '', numb: '8' },
 
         ]
     },
@@ -254,10 +279,14 @@ const gallery = [
         name: 'kimi no na wa',
         url: 'https://i.pinimg.com/originals/82/8b/5b/828b5b3061eb8b6885851cf5a032d5c8.png',
         fotoabout: [
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' }
+            { fotourl: '', numb: '1' },
+            { fotourl: '', numb: '2' },
+            { fotourl: '', numb: '3' },
+            { fotourl: '', numb: '4' },
+            { fotourl: '', numb: '5' },
+            { fotourl: '', numb: '6' },
+            { fotourl: '', numb: '7' },
+            { fotourl: '', numb: '8' },
 
         ]
     },
@@ -265,10 +294,14 @@ const gallery = [
         name: 'jujutsu kaisen',
         url: 'https://avatars.mds.yandex.net/i?id=14c4b46cd4a46ba769868a810d072757a29f7384-5301046-images-thumbs&n=13',
         fotoabout: [
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' }
+              { fotourl: '', numb: '1' },
+            { fotourl: '', numb: '2' },
+            { fotourl: '', numb: '3' },
+            { fotourl: '', numb: '4' },
+            { fotourl: '', numb: '5' },
+            { fotourl: '', numb: '6' },
+            { fotourl: '', numb: '7' },
+            { fotourl: '', numb: '8' },
 
         ]
     },
@@ -276,10 +309,14 @@ const gallery = [
         name: 'no game no life',
         url: 'https://cutewallpaper.org/21/no-game-no-life-images/No-Game-No-Life-Netflix.png',
         fotoabout: [
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' }
+              { fotourl: '', numb: '1' },
+            { fotourl: '', numb: '2' },
+            { fotourl: '', numb: '3' },
+            { fotourl: '', numb: '4' },
+            { fotourl: '', numb: '5' },
+            { fotourl: '', numb: '6' },
+            { fotourl: '', numb: '7' },
+            { fotourl: '', numb: '8' },
 
         ]
     },
@@ -287,10 +324,14 @@ const gallery = [
         name: '',
         url: '',
         fotoabout: [
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' }
+              { fotourl: '', numb: '1' },
+            { fotourl: '', numb: '2' },
+            { fotourl: '', numb: '3' },
+            { fotourl: '', numb: '4' },
+            { fotourl: '', numb: '5' },
+            { fotourl: '', numb: '6' },
+            { fotourl: '', numb: '7' },
+            { fotourl: '', numb: '8' },
 
         ]
     },
@@ -298,10 +339,14 @@ const gallery = [
         name: '',
         url: '',
         fotoabout: [
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' }
+              { fotourl: '', numb: '1' },
+            { fotourl: '', numb: '2' },
+            { fotourl: '', numb: '3' },
+            { fotourl: '', numb: '4' },
+            { fotourl: '', numb: '5' },
+            { fotourl: '', numb: '6' },
+            { fotourl: '', numb: '7' },
+            { fotourl: '', numb: '8' },
 
         ]
     },
@@ -309,10 +354,14 @@ const gallery = [
         name: '',
         url: '',
         fotoabout: [
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' }
+              { fotourl: '', numb: '1' },
+            { fotourl: '', numb: '2' },
+            { fotourl: '', numb: '3' },
+            { fotourl: '', numb: '4' },
+            { fotourl: '', numb: '5' },
+            { fotourl: '', numb: '6' },
+            { fotourl: '', numb: '7' },
+            { fotourl: '', numb: '8' },
 
         ]
     },
@@ -320,10 +369,14 @@ const gallery = [
         name: '',
         url: '',
         fotoabout: [
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' }
+              { fotourl: '', numb: '1' },
+            { fotourl: '', numb: '2' },
+            { fotourl: '', numb: '3' },
+            { fotourl: '', numb: '4' },
+            { fotourl: '', numb: '5' },
+            { fotourl: '', numb: '6' },
+            { fotourl: '', numb: '7' },
+            { fotourl: '', numb: '8' },
 
         ]
     },
@@ -331,10 +384,14 @@ const gallery = [
         name: '',
         url: '',
         fotoabout: [
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' },
-            { fotourl: '', numb: '' }
+              { fotourl: '', numb: '1' },
+            { fotourl: '', numb: '2' },
+            { fotourl: '', numb: '3' },
+            { fotourl: '', numb: '4' },
+            { fotourl: '', numb: '5' },
+            { fotourl: '', numb: '6' },
+            { fotourl: '', numb: '7' },
+            { fotourl: '', numb: '8' },
 
         ]
     }
