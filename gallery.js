@@ -15,7 +15,7 @@ const gallery = [
             { fotourl: "https://wallpapers.com/images/hd/naruto-sasuke-chakra-poster-8b65038pci372pw5.jpg", numb: 9 },
             { fotourl: "https://wallpapers.com/images/hd/sasuke-naruto-4k-pc-fanart-767a6a3av13ymrez.jpg", numb: 10 },
             { fotourl: "https://w.forfun.com/fetch/1b/1bf18020e8eccb602bb96863ae380581.jpeg", numb: 11 },
-            { fotourl: "https://the4kwallpapers.com/wp-content/uploads/2022/06/Naruto-Wallpaper-Aesthetic.png", numb: 12 },
+            { fotourl: "https://avatars.mds.yandex.net/i?id=653446f691db0046fe00a0deb317b921491b7d91-8710632-images-thumbs&n=13", numb: 12 },
             { fotourl: "https://wallpapercave.com/wp/wp2634601.jpg", numb: 13 },
             { fotourl: "https://getwallpapers.com/wallpaper/full/d/7/f/1322288-naruto-uzumaki-wallpaper-2560x1440-for-hd.jpg", numb: 14 }
         ]
